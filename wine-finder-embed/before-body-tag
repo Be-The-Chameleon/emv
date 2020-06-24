@@ -1,0 +1,199 @@
+<script>
+  function uncheckAll(divid) {
+    var checks = document.querySelectorAll('#' + divid + ' input[type="checkbox"]');
+    for (var i = 0; i < checks.length; i++) {
+      var check = checks[i];
+      if (!check.disabled) {
+        check.checked = false;
+      }
+    }
+    filterMarkers();
+  }
+</script>
+
+<!-- what are you? -->
+<script>
+  function setResultHeight() {
+
+    var searchAndFilterHeight = document.getElementById('search-and-filters').clientHeight;
+    if (screen.width > 768) {
+      var results_height = 650 - searchAndFilterHeight;
+    } else {
+      var results_height = 850 - searchAndFilterHeight;
+    }
+    document.getElementById("results-area").style.height = results_height.toString() + "px"
+  }
+  setResultHeight();
+  window.onresize = setResultHeight;
+</script>
+<script>
+  setTimeout(function() { setResultHeight() }, 2000);
+</script>
+
+<!-- end confusion -->
+
+<script>
+  $(document).ready(() => {
+    $.get('https://thebigmdo.gitlab.io/my-first-pages/michael.json', function(data) {
+        for (var i = 0; i < data.length; i++) {
+          markers1.push([i, data[i].name, data[i].address.lat, data[i].address.lon, data[i].wines, data[i].address, data[i].locations]);
+        }
+      })
+      .done(function() {
+        populateFilter();
+        initMap();
+      });
+  })
+  function initMap() {
+    var c = new google.maps.LatLng(38.3804062, -78.2575035);
+    var mapOptions = {
+      zoom: 9,
+      center: c
+    };
+    map = new google.maps.Map($('#map-canvas')[0], mapOptions);
+    infowindow = new google.maps.InfoWindow({
+      content: ''
+    });
+    for (i = 0; i < markers1.length; i++) {
+      addMarker(markers1[i]);
+    }
+    var input = $('#pac-input')[0];
+    var autocomplete = new google.maps.places.Autocomplete(input);
+    autocomplete.addListener('place_changed', function() {
+      var place = autocomplete.getPlace();
+      var bounds = new google.maps.LatLngBounds();
+      if (!place.geometry) {
+        return;
+      }
+      var icon = {
+        url: place.icon,
+        size: new google.maps.Size(71, 71),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(17, 34),
+        scaledSize: new google.maps.Size(25, 25)
+      };
+      if (place.geometry.viewport) { // Only geocodes have viewport.
+        bounds.union(place.geometry.viewport);
+      } else {
+        bounds.extend(place.geometry.location);
+      }
+      map.fitBounds(bounds);
+    });
+  }
+  function addMarker(marker) {
+    var content = marker[1];
+    var image = {
+      url: "https://www.bevmapper.com//assets/early_mountain_2.png",
+      size: new google.maps.Size(30, 30),
+      origin: new google.maps.Point(0, 0),
+      anchor: new google.maps.Point(0, 32)
+    };
+    var p = new google.maps.LatLng(marker[2], marker[3]);
+    var markerWines = [];
+    marker[4].forEach((element) => {
+      var wineName = element.name.replace("Red ", "").replace(/\"/g, '').replace(/Early Mountain Vineyards /g, '').replace(/ [0-9]{4}/g, '');
+      if(!markerWines.includes(wineName)) {
+        markerWines.push(wineName);
+      }
+    })
+
+    marker1 = new google.maps.Marker({
+      title: decodeHtml(marker[1]),
+      position: p,
+      category: markerWines,
+      address: marker[5],
+      map: map,
+      icon: image,
+      packaging: marker[6]
+    });
+
+    gmarkers1.push(marker1);
+    if (marker1.category.length < 1) {
+      var contentString = "<div style='font-size:14px;font-weight:bold;'>" + marker1.title + "</div><br>" + marker1.address.street + "<br>" + marker1.address.city + ", " + marker1.address.state + " " + marker1.address.zip;
+    }
+    if (marker1.category.length > 0) {
+      var contentString = "<div style='font-size:14px;font-weight:bold;'>" + marker1.title + "</div>" + marker1.address.street + "<br>" + marker1.address.city + ", " + marker1.address.state + " " + marker1.address.zip + "<br><a href='https://www.google.com/maps/dir//" + marker1.address.street + " " + marker1.address.city + ", " + marker1.address.state + " " + marker1.address.zip + "' class='directions-link' target='blank'>Directions</a>" + "<br><br><div class = 'marker-wines-box'> " + " Wines: " + " &nbsp; " + marker1.category.join(', ') + " </div>";
+    }
+    google.maps.event.addListener(marker1, 'click', (function(marker1, content) {
+      return function() {
+        infowindow.setContent(contentString);
+        infowindow.open(map, marker1);
+      }
+    })(marker1, content));
+    google.maps.event.addListener(map, "click", function(event) {
+      infowindow.close();
+    });
+    google.maps.event.addListener(map, 'idle', function() {
+      bounds = map.getBounds();
+      current_map_markers = [];
+      beer_inputs = $("#select_beer_form")[0].getElementsByClassName("beer_input_boxes");
+      beers_to_show = [];
+      packaging_inputs = $("#select_beer_form")[0].getElementsByClassName("packaging_input_boxes");
+      packaging_to_show = [];
+      updateMarkerList();
+    });
+    google.maps.event.addListener(map, 'zoom_changed', function() {
+      bounds = map.getBounds();
+      current_map_markers = [];
+      beer_inputs = $("#select_beer_form")[0].getElementsByClassName("beer_input_boxes");
+      beers_to_show = [];
+      packaging_inputs = $("#select_beer_form")[0].getElementsByClassName("beer_input_boxes");
+      packaging_to_show = [];
+      updateMarkerList();
+    });
+  }
+  filterMarkers = function(category) {
+    beer_inputs = document.getElementsByClassName("beer_input_boxes");
+    packaging_inputs = document.getElementsByClassName("packaging_input_boxes");
+    beers_to_show = [];
+    packaging_to_show = [];
+    var htmlEncoded = function(str) {
+      return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+    for (i = 0; i < (beer_inputs.length); i++) {
+      if (beer_inputs[i].checked) {
+        beers_to_show.push(htmlEncoded(beer_inputs[i].value));
+      }
+    }
+    for (i = 0; i < (packaging_inputs.length); i++) {
+      if (packaging_inputs[i].checked) {
+        packaging_to_show.push(packaging_inputs[i].value);
+      }
+    }
+    var findOne = function(haystack, arr) {
+      if(arr) {
+        return arr.some(function(v) {
+          return haystack.indexOf(v) >= 0;
+        });
+      } else {
+        return false;
+      }
+    };
+    var findAny = function(haystack, item) {
+      if(item && haystack) {
+        return haystack.some(function(v) {
+          return item.indexOf(v) >= 0;
+        });
+      } else {
+        return false;
+      }
+    }
+    for (i = 0; i < markers1.length; i++) {
+      marker = gmarkers1[i];
+      if (findOne(beers_to_show, marker.category) || beers_to_show.length === 0) {
+        if (findAny(packaging_to_show, marker.packaging) || packaging_to_show.length === 0) {
+          marker.setVisible(true);
+        } else {
+          marker.setVisible(false);
+        }
+      } else {
+        marker.setVisible(false);
+      }
+    }
+    bounds = map.getBounds();
+    current_map_markers = [];
+    beer_inputs = $("#select_beer_form")[0].getElementsByClassName("beer_input_boxes");
+    beers_to_show = [];
+    updateMarkerList();
+  }
+</script>

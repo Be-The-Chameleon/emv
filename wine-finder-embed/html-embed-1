@@ -1,0 +1,55 @@
+<div class="all-map-area">
+  <div class="left-sidebar">
+    <div class="search-and-filters-area" id="search-and-filters">
+      <div class="search-bar-container">
+        <center>
+          <img src="https://uploads-ssl.webflow.com/5e2bbc35590efa1bef029789/5e2bbc35590efa70600297b7_logo-copy-3.svg" class="logo-image-settings"/>
+        </center>
+        <div class="search-box-padding">
+          <input id="pac-input" class="controls input-box" type="text" placeholder="Search For Early Mountain Vineyards"/>
+        </div>
+      </div>
+
+      <div class="beer-filter-container">
+        <div class="filter-padding">
+          <center>
+            <form id="select_beer_form" style="overflow: hidden;width:100%;">
+              <span class = "filter-area-titles font-type" > Filter Wine: </span>
+              <br>
+              <div id="wine-filter">
+              </div>
+            </form>
+          </center>
+        </div>
+      </div>
+
+      <div class="packaging-filter-container">
+        <div class="filter-padding">
+          <center>
+            <form id="select_beer_form" style="overflow: hidden;width:90%;">
+              <span class="filter-area-titles font-type"> Filter Establishment: </span>
+              <br>
+              <div id="local-filter">
+              </div>
+            </form>
+            <span>
+              <a onclick="uncheckAll('search-and-filters')" href="javascript:void(0);" class="clear-filter">Clear All Filters</a>
+            </span>
+          </center>
+        </div>
+      </div>
+    </div>
+
+    <div class="results-outer-container fixed-content" id="results-area">
+      <div id="results-container">
+      </div>
+    </div>
+  </div>
+
+  <div class="map-width">
+    <div class="map-size">
+      <div id="map-canvas">
+      </div>
+    </div>
+  </div>
+</div>
