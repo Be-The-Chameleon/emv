@@ -1,16 +1,15 @@
 [
     {
-        "id": "9N3d3QA2-e-idRG9xYgei",
+        "id": "gmFOdK3DfYGOZ50MYUWw4",
         "name": "Main (The)",
         "address": "100 E. Main Street, Norfolk, VA 23510",
         "locations": "Restaurant",
         "wines": [
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "XtlF0WyNNjq7YC-OYoY_k",
+        "id": "xRLbcnKi9lGlHbzbAcXEx",
         "name": "Town Duck",
         "address": "100 Main St, Warrenton, VA 20186",
         "locations": "Retail",
@@ -20,35 +19,27 @@
         ]
     },
     {
-        "id": "7uacMvDPHWbFNUpvZj462",
+        "id": "nUXtzhnp--epwbvSrPSwZ",
         "name": "Jefferson Hotel",
         "address": "101 W Franklin St, Richmond, VA 23220",
         "locations": "Restaurant",
         "wines": [
             "Eluvium",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "emhXZIC5TtLdSLNODFjs4",
+        "id": "sV93JKFKGfxjqQA0x5al-",
         "name": "Screwtop",
         "address": "1025 Fillmore St. N, Arlington, VA 22201",
         "locations": "Restaurant/Retail",
         "wines": [
             "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Rosé"
+            "Foothills"
         ]
     },
     {
-        "id": "_LDOkrPSy_BQqkSRuWphV",
+        "id": "qsnDfp7_X6pob-y56Vgdu",
         "name": "One Eared Stag",
         "address": "1029 Edgewood Ave NE, Atlanta, GA 30374",
         "locations": "Restaurant",
@@ -58,7 +49,7 @@
         ]
     },
     {
-        "id": "Y7KyT6RnIZLCC41xiGCcr",
+        "id": "8bFWy4V7McWqHZL-GnMac",
         "name": "Hamilton's",
         "address": "101 W Main St, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -67,7 +58,7 @@
         ]
     },
     {
-        "id": "6u73CG2HQw7yCTmpGPzDa",
+        "id": "rAKSR_S-XBDSS1ssMfR7D",
         "name": "USA Wine Imports:Zap Wines & Spirits",
         "address": "105 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -76,7 +67,7 @@
         ]
     },
     {
-        "id": "UmSnHhtHgKFI_-DfydC0s",
+        "id": "HSjFtUhVrUViYbY_wliCv",
         "name": "Shack, The",
         "address": "105 S. Coalter St., Staunton, VA 24401",
         "locations": "Restaurant",
@@ -87,7 +78,7 @@
         ]
     },
     {
-        "id": "STo3cmD6xw-AApUdYOI63",
+        "id": "esx9fZ2D1MXS4Ug1eNCsz",
         "name": "South Street Brewery",
         "address": "106 South St., Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -97,17 +88,16 @@
         ]
     },
     {
-        "id": "S6Z7mraf-LVwgJm81ofy-",
+        "id": "g3VBlnTVdYYFYyYAHG5rY",
         "name": "Sorso Wine Boutique",
         "address": "1069 Bedford Ave, Brooklyn, NY 11216",
         "locations": "Restaurant/Retail",
         "wines": [
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "Uj2gduZL4AkHLk9ENb5K1",
+        "id": "qowq3Cmc8bpid9M1cQf0L",
         "name": "Zap Wines & Spirits",
         "address": "105 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -116,7 +106,7 @@
         ]
     },
     {
-        "id": "EjVbogiJr-I1PxQQEOZaV",
+        "id": "SsJnN7X-x8p0OigBVUfG7",
         "name": "Dominion Wine and Beer",
         "address": "107 Rowell Ct., Falls Church, VA 22046",
         "locations": "Restaurant/Retail",
@@ -124,16 +114,11 @@
             "Rosé",
             "Chardonnay",
             "Petit Manseng",
-            "Foothills",
-            "Foothills",
-            "Rosé",
-            "Chardonnay",
-            "Petit Manseng",
-            "Rosé"
+            "Foothills"
         ]
     },
     {
-        "id": "d3nELrZzjdbOFas-wfvLw",
+        "id": "k8YuWZkPwJ4ZIctPbOOHR",
         "name": "Home.Made",
         "address": "1072 Baxter Street, Athens, GA 30606",
         "locations": "Restaurant/Retail",
@@ -143,32 +128,27 @@
         ]
     },
     {
-        "id": "dytbQoFfT6MHxZudcsmG8",
+        "id": "9mVN2SGiW-AICqvGAvqVm",
         "name": "Alley Light",
         "address": "108 2nd St. SW, Charlottesville, VA 22902",
         "locations": "Restaurant",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
             "RISE"
         ]
     },
     {
-        "id": "LUvOGXtaqIQ1tIvXzu8YA",
+        "id": "7qPo0RQ0Da4kCovcspP7n",
         "name": "Caboose",
         "address": "108 S. Railroad Ave., Ashland, VA 23005",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Foothills"
+            "Chardonnay"
         ]
     },
     {
-        "id": "HszIxuxx-7vnEqhUUuw8j",
+        "id": "cVe3Dx608bOzxf99n9-Y8",
         "name": "Momofuku DC",
         "address": "1090 I St. NW, Washington, DC 20001",
         "locations": "Restaurant",
@@ -179,7 +159,7 @@
         ]
     },
     {
-        "id": "tiyVCBQ83jDh9t9Dmy0jQ",
+        "id": "OfxGkOz4Van-inUEjWJRl",
         "name": "USA Wine Imports:Sorso Wine Boutique",
         "address": "1069 Bedford Avenue, Brooklyn, NY 11216",
         "locations": "Retail",
@@ -188,54 +168,48 @@
         ]
     },
     {
-        "id": "LGcSt7aGBrdBxzaElB99P",
+        "id": "piQo3f_y8t19VswWvSllV",
         "name": "Whole Foods - Short Pump",
         "address": "11173 West Broad St., Richmond, VA 23060",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Rosé",
-            "Foothills",
-            "Foothills"
+            "Rosé"
         ]
     },
     {
-        "id": "Qz_PYDIcM-Q2AfsFam-WT",
+        "id": "1SWYREsWDHeRrviA1w7xQ",
         "name": "Vermillion",
         "address": "1120 King St, Alexandria, VA 22314",
         "locations": "Restaurant",
         "wines": [
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "DfFe992thYM63jLXK7ds8",
+        "id": "haVBEBPkmrFTuMGkbuD3O",
         "name": "Essex Pearl",
         "address": "115 Delancey Street, Manhattan, NY 10002",
         "locations": "Restaurant",
         "wines": [
             "Petit Manseng",
-            "Five Forks",
             "Five Forks"
         ]
     },
     {
-        "id": "nH5RcJhCms2Pyu5uXI57X",
+        "id": "SYEBaZH2R5srZfwSRFUJ2",
         "name": "Zynodoa",
         "address": "115 E Beverly St, Staunton, VA 24401",
         "locations": "Restaurant",
         "wines": [
             "Petit Manseng",
             "Eluvium",
-            "Eluvium",
             "Foothills",
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "DoFfKY1FJSMBE26LsrOHb",
+        "id": "JyKbvN3nueODrQj4QnSN4",
         "name": "Bloom",
         "address": "1109 Main St. SW, Roanoke, VA 24015",
         "locations": "Restaurant",
@@ -244,7 +218,7 @@
         ]
     },
     {
-        "id": "BD8vpAzi878Avus-RhUYd",
+        "id": "2QkTyiXgoQ9EPg2zme6j7",
         "name": "DeVine",
         "address": "121 Blue Ridge Dr, Wintergreen, VA 22958",
         "locations": "Retail",
@@ -254,21 +228,16 @@
         ]
     },
     {
-        "id": "V-qbnhdZHEjNN2mPaikdi",
+        "id": "ghH78RjKR8OV4VBvo6HbC",
         "name": "Dabney",
         "address": "122 Blagden Alley NW, Washington, DC 20009",
         "locations": "Restaurant",
         "wines": [
-            "Eluvium",
-            "Eluvium",
-            "Eluvium",
-            "Eluvium",
-            "Eluvium",
             "Eluvium"
         ]
     },
     {
-        "id": "PKSmgV64M6EmmPDTjORvr",
+        "id": "KBIi7U5b4RAeZVY4erue1",
         "name": "La Fromagerie",
         "address": "1222 King St, Alexandria, VA 22314",
         "locations": "Restaurant/Retail",
@@ -278,13 +247,11 @@
             "Rosé",
             "Pétillant Naturel White",
             "Eluvium",
-            "Quaker Run Chardonnay",
-            "Pétillant Naturel White",
-            "Rosé"
+            "Quaker Run Chardonnay"
         ]
     },
     {
-        "id": "_REM5vq7S8AjPe3-QL60s",
+        "id": "ZiusTgjDpIKDJ7nR9MLNL",
         "name": "Ten Sushi",
         "address": "120B East Main St, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -293,17 +260,16 @@
         ]
     },
     {
-        "id": "cog5DvqgKXD0GUwxBtyCP",
+        "id": "bPIw36e_y7QaCc4-8d9Vv",
         "name": "Clifton Inn",
         "address": "1296 Clifton Inn Dr, Charlottesville, VA 22911",
         "locations": "Restaurant",
         "wines": [
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "K_HycY69dHeZBu4if-RoK",
+        "id": "DETqGi3kWXdbg600E4Rrp",
         "name": "Saint Anselm",
         "address": "1250 5th St. NE, Washington, DC 20002",
         "locations": "Restaurant",
@@ -312,30 +278,27 @@
         ]
     },
     {
-        "id": "cL5EBbE_YWHUNHRcrUejc",
+        "id": "hPUGYxgwj1xxM6-CFlvaI",
         "name": "Roanoke Natural Foods Co-op",
         "address": "1319 Grandin Rd SW, Roanoke, VA 24015",
         "locations": "Retail",
         "wines": [
             "Foothills",
-            "Eluvium",
-            "Eluvium",
-            "Foothills"
+            "Eluvium"
         ]
     },
     {
-        "id": "lyPMZKTk1pdOHtKs0FWMQ",
+        "id": "OwalgCuspdrB_pBaWwF-U",
         "name": "Vintage Cellar",
         "address": "1338 South Main St., Blacksburg, VA 24060",
         "locations": "Retail",
         "wines": [
             "Eluvium",
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "2EKYieWLelcYLgRfgsfpP",
+        "id": "SYjW4OcifcfdKw-5zbMAK",
         "name": "Inn at Warm Springs",
         "address": "12968 Sam Snead Hwy, Warm Springs, VA 24484",
         "locations": "Restaurant",
@@ -344,7 +307,7 @@
         ]
     },
     {
-        "id": "UIRfwqgaaKPFFFXF3uANS",
+        "id": "I2PlCEjnProySXIexCZlB",
         "name": "Norm's Beer & Wine",
         "address": "136 Branch Rd SE, Vienna, VA 22180",
         "locations": "Retail",
@@ -354,13 +317,11 @@
             "Shenandoah Valley Cabernet Franc",
             "Quaker Run Chardonnay",
             "Chardonnay",
-            "Shenandoah Valley Cabernet Franc",
-            "Chardonnay",
             "Foothills"
         ]
     },
     {
-        "id": "H1tV9iMaovdla2Xgznhjy",
+        "id": "yv54l34ZJCMaJweCwqQnS",
         "name": "Chain Bridge Cellars",
         "address": "1351 Chain Bridge Rd, McLean, VA 22101",
         "locations": "Retail",
@@ -369,7 +330,7 @@
         ]
     },
     {
-        "id": "1OPVc9JB6XengV7D_MYWS",
+        "id": "x3uNJKNJQgJtLolu_6L4A",
         "name": "Salisbury Country Club",
         "address": "13620 W. Salisbury Rd, Midlothian, VA 23113",
         "locations": "Restaurant",
@@ -378,13 +339,12 @@
             "Rosé",
             "Petit Manseng",
             "Foothills",
-            "Rosé",
             "Shenandoah Valley Cabernet Franc",
             "RISE"
         ]
     },
     {
-        "id": "_TtrEMYc-WKY3wXkg79_5",
+        "id": "5VWFNfI2tBBVVokwjqTH9",
         "name": "Cellar d'Or",
         "address": "136 E State St, Ithaca, NY 14850",
         "locations": "Retail",
@@ -393,7 +353,7 @@
         ]
     },
     {
-        "id": "gAOL1gfHkOR8Ih5ehrfvV",
+        "id": "w3YU3pYdpQgbZVdtbIvp1",
         "name": "Brooklyn Wine Exchange",
         "address": "138 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -402,7 +362,7 @@
         ]
     },
     {
-        "id": "1JTg1--vy0fstc5qlypFq",
+        "id": "7_rBeKx3tfRzvjf4hBIHq",
         "name": "Taste - Headquarters",
         "address": "1391 Air Rail Avenue, Virginia Beach, VA 23455",
         "locations": "Restaurant/Retail",
@@ -411,7 +371,7 @@
         ]
     },
     {
-        "id": "cYXMOgh8m1XKcf5aIV4zz",
+        "id": "A-HsdEs2Npq4b3UHRDBMZ",
         "name": "Kings County Wines",
         "address": "1420 Cortelyou Rd, Brooklyn, NY 11226",
         "locations": "Retail",
@@ -421,28 +381,19 @@
         ]
     },
     {
-        "id": "LRbnWdzHuakpkLGn6lKUr",
+        "id": "1w3N_EcUGPXtRpLYdsXOP",
         "name": "Friendly City Food Co-op",
         "address": "150 E Wolfe St, Harrisonburg, VA 22802",
         "locations": "Retail",
         "wines": [
             "Foothills",
             "Rosé",
-            "Rosé",
             "Petit Manseng",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Rosé",
             "RISE"
         ]
     },
     {
-        "id": "dwe6PxbyCg1CVfpVwSG92",
+        "id": "nU1w1l7v5rneb7s4d_d0x",
         "name": "Clementine Cafe",
         "address": "153 S Main St, Harrisonburg, VA 22801",
         "locations": "Restaurant",
@@ -452,7 +403,7 @@
         ]
     },
     {
-        "id": "lkQMmTjCMazLERbsSCDZ9",
+        "id": "RbX3ErgInpgm_EyYDijb2",
         "name": "Beer Run",
         "address": "156 Carlton Rd Ste 203, Charlottesville, VA 22902",
         "locations": "Restaurant/Retail",
@@ -462,44 +413,34 @@
         ]
     },
     {
-        "id": "MtAIVwHvxQdcuOceFo97g",
+        "id": "n1f1DvSsO4wyEqpeWEdrl",
         "name": "Unwined Belle View",
         "address": "1600 Belle View Blvd., Alexandria, VA 22307",
         "locations": "Retail",
         "wines": [
             "Rosé",
             "Pétillant Naturel White",
-            "Rosé",
             "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Rosé",
             "Petit Manseng",
             "Eluvium",
             "Foothills",
-            "Foothills",
-            "Eluvium",
-            "Foothills",
             "Pétillant Naturel Red",
-            "Rosé",
-            "Eluvium",
             "Chardonnay"
         ]
     },
     {
-        "id": "vLM_gsWOOfTL2MaBjQ_kM",
+        "id": "06UpiegF2tP-fMjm5Y5im",
         "name": "W2 Wines, LLC",
         "address": "16031 Hillsboro Road, Purcellville, VA 20132",
         "locations": "Retail",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
             "Petit Manseng",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Petit Manseng"
+            "Rosé"
         ]
     },
     {
-        "id": "CgNX8OURI7-sWqTlaT693",
+        "id": "rhEhoDEM6CoBga6-lh_bV",
         "name": "USA Wine Imports:Kings County Wines",
         "address": "1420 Cortelyou Road, Brooklyn, NY 11226",
         "locations": "Retail",
@@ -508,7 +449,7 @@
         ]
     },
     {
-        "id": "IoKq1f5qo7koiDEs_maBD",
+        "id": "-BSy1sgujR9kWYhX4g2dT",
         "name": "Mount Airy Winegrowers LLC",
         "address": "1609 Lee Highway, Fort Defiance, VA 24437",
         "locations": "Retail",
@@ -517,7 +458,7 @@
         ]
     },
     {
-        "id": "uFcFjxjNXZXBlhqrX497I",
+        "id": "qUrgtZVYBxEJ9fay3wvI9",
         "name": "Cairo Wine & Liquor",
         "address": "1618 17th St NW, Washington, DC 20009",
         "locations": "Retail",
@@ -526,22 +467,18 @@
         ]
     },
     {
-        "id": "JxgNpUXsTklSi0SfzdOe5",
+        "id": "5WU6rHkGc8sgJrFDxQtCr",
         "name": "Whole Foods - Boro Tysons",
         "address": "1635 Boro Place, McLean, VA 22102",
         "locations": "Restaurant/Retail",
         "wines": [
             "Rosé",
             "Foothills",
-            "Rosé",
-            "Five Forks",
-            "Rosé",
-            "Foothills",
             "Five Forks"
         ]
     },
     {
-        "id": "keE4xRDU2vJ8nTJpqvP2e",
+        "id": "1-GlDRhoBldZXzmJj_5xg",
         "name": "Farmington Country Club",
         "address": "1625 Country Club Circle, Charlottesville, VA 22901",
         "locations": "Restaurant",
@@ -550,28 +487,25 @@
         ]
     },
     {
-        "id": "Qiyyg93DLSzejBOOYDi84",
+        "id": "SF5Sb-hSu3ErAf4iS8AS9",
         "name": "Vinosity",
         "address": "174 E Davis St,, Charlottesville, VA 22732",
         "locations": "Retail",
         "wines": [
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "-0TAneWishzkmJOeDn6oI",
+        "id": "qoRnJ87wJeziSa1B2xCrz",
         "name": "A Rake's Progress",
         "address": "1771 Euclid St NW, Washington, DC 20009",
         "locations": "Restaurant",
         "wines": [
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "iMK_WCaAXiBKBaDtrZIIO",
+        "id": "fqNaZUkdWImP66gF5u2rW",
         "name": "Whole Foods - Old Town",
         "address": "1700 Duke Street, Alexandria, VA 22314",
         "locations": "Restaurant/Retail",
@@ -580,24 +514,17 @@
         ]
     },
     {
-        "id": "J6a4Em-b3qU2Ed0SjcoT8",
+        "id": "_-Fb9ITqqq1UGvEjFRJAB",
         "name": "Whole Foods - Charlottesville",
         "address": "1797 Hydraulic Road, Charlottesville, VA 22901",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Foothills"
+            "Rosé"
         ]
     },
     {
-        "id": "gnPJDfGAKkLhjR0o8UgME",
+        "id": "PK4w-z1NluQ4xPn1KApzq",
         "name": "Lucky",
         "address": "18 Kirk Ave SW, Roanoke, VA 24011",
         "locations": "Restaurant",
@@ -607,7 +534,7 @@
         ]
     },
     {
-        "id": "rPWHDzuZyYllxbn_0uzGn",
+        "id": "4RbFcOJsPs4PZbyWqSPLn",
         "name": "Whole Foods - Virginia Beach",
         "address": "1800 Laskin Road, Virginia Beach, VA 23454",
         "locations": "Restaurant/Retail",
@@ -617,7 +544,7 @@
         ]
     },
     {
-        "id": "XL5X6v_NhlfwaR7mt-Mcl",
+        "id": "TQu_YIWx_czh3gtPsxA17",
         "name": "67 Liquor Shop",
         "address": "179 Columbus Ave, New York, NY 10023",
         "locations": "Retail",
@@ -626,22 +553,19 @@
         ]
     },
     {
-        "id": "9V6w5SxZ0br1fPmBQXRED",
+        "id": "oWGYyfVWwnRrJW9P55YQl",
         "name": "Wine Warehouse",
         "address": "1804 Hydraulic Rd, Charlottesville, VA 22902",
         "locations": "Retail",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
             "Foothills",
-            "Shenandoah Valley Cabernet Franc",
             "Five Forks",
-            "Foothills",
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "6yWNNgwPYtC--DCVdHG-d",
+        "id": "I6EyYUmjkrBMR2vpTtMeO",
         "name": "Founding Farmers - Tyson's Corner",
         "address": "1800 Tyson's Blvd., McLean, VA 22102",
         "locations": "Restaurant",
@@ -650,18 +574,17 @@
         ]
     },
     {
-        "id": "gyBjAyplKP23h4PUtsNBt",
+        "id": "QF251m--kW_3fr-Iuc6f2",
         "name": "Red Hen-DC",
         "address": "1822 1st St. NW, Washington, DC 20001",
         "locations": "Restaurant",
         "wines": [
             "Five Forks",
-            "Eluvium",
-            "Five Forks"
+            "Eluvium"
         ]
     },
     {
-        "id": "JrMnf96N_i0-dzQ8Or_CA",
+        "id": "8qgFhAQkYfoLi_oKpSI5p",
         "name": "Back Bay's Farmhouse Brewing",
         "address": "1805 Kempsville Rd, Virginia Beach, VA 23464",
         "locations": "Restaurant",
@@ -670,7 +593,7 @@
         ]
     },
     {
-        "id": "j1Kg-gDsFse3M7sHyJL1f",
+        "id": "kn0wmXsTx3wy-UmxhEbVV",
         "name": "Tail Up Goat",
         "address": "1827 Adams Mill Rd. NW, Washington, DC 20009",
         "locations": "Restaurant",
@@ -679,7 +602,7 @@
         ]
     },
     {
-        "id": "1ZLx3JKLzVmGv5iKJqfk3",
+        "id": "rIisttOVS8DvIs36leRw5",
         "name": "Rio Hill Wine & Beer",
         "address": "1908 Rio Hill Center, Charlottesville, VA 22901",
         "locations": "Retail",
@@ -689,20 +612,12 @@
             "Quaker Run Chardonnay",
             "Shenandoah Valley Cabernet Franc",
             "Chardonnay",
-            "Eluvium",
-            "Foothills",
             "Rosé",
-            "Foothills",
-            "Rosé",
-            "Eluvium",
-            "Chardonnay",
-            "Petit Manseng",
-            "Foothills",
             "Petit Manseng"
         ]
     },
     {
-        "id": "AJXnC_J2_w78lVS2t4tfr",
+        "id": "XBBTYxgiChyqcVKhaKj9H",
         "name": "Founding Farmers - Reston",
         "address": "1904 Reston Metro Plaza, Suite 100, Reston, VA 20190",
         "locations": "Restaurant",
@@ -711,18 +626,17 @@
         ]
     },
     {
-        "id": "DOMYbIzXmMyeJl-On6xdW",
+        "id": "raEdp-KZ23cSkeB6pm0BJ",
         "name": "Whole Foods - Ashburn",
         "address": "19800 Belmont Chase Dr, Ashburn, VA 20147",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Foothills",
             "Eluvium"
         ]
     },
     {
-        "id": "JwQ9Wh8QWj9aSmESL_voM",
+        "id": "6WBDowcoFKhle9VDHRoRy",
         "name": "Magnolia's at the Mill",
         "address": "198 North 21st Street, Purcelville, VA 20132",
         "locations": "Restaurant",
@@ -731,82 +645,50 @@
         ]
     },
     {
-        "id": "mE0AJBtXfgt4SCGGrEcgS",
+        "id": "U2CVA3mxCnSkes7hkJyyD",
         "name": "Primland Resort",
         "address": "2000 Busted Rock Road, Meadows of Dan, VA 24120",
         "locations": "Restaurant",
         "wines": [
             "Eluvium",
             "Chardonnay",
-            "Shenandoah Valley Cabernet Franc",
-            "Eluvium",
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "ef26A7zmCYlEccvJDLki2",
+        "id": "GocCttasHBrIp5ofM1xUX",
         "name": "Planet Wine",
         "address": "2000-2004 Mount Vernon Ave, Alexandria, VA 22301",
         "locations": "Retail",
         "wines": [
             "Petit Manseng",
             "Rosé",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Rosé",
-            "Petit Manseng"
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "JUYZWeMnWuuqLl8kXPnsB",
+        "id": "jCCXgtNWqPQ0U5BKufsTA",
         "name": "Glen's Garden Market",
         "address": "2001 S St. NW, Washington, DC 20009",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
             "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "oCmnQnWiQKWrPyR1rJDWK",
+        "id": "7ZELtDkdJUUdWVUO5ixXQ",
         "name": "Zocalo",
         "address": "201 E Main St Suite E, Charlottesville, VA 22902",
         "locations": "Restaurant",
         "wines": [
             "Pétillant Naturel White",
-            "Foothills",
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "Eogksk4HzKQzBaS4J9qSH",
+        "id": "CnFQSjRyqmGH14EYfobFT",
         "name": "Stone Tower Winery",
         "address": "19925 Hogback Mountain Road, Leesburg, VA 20175",
         "locations": "Restaurant/Retail",
@@ -815,7 +697,7 @@
         ]
     },
     {
-        "id": "FIUh-nOl6aBNa3osagSfa",
+        "id": "4cB6KGJx-JyYZicUweUeU",
         "name": "Downtown Grille",
         "address": "201 West Main Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -826,27 +708,21 @@
         ]
     },
     {
-        "id": "p_bZypNPFcoA_WyYAHDlg",
+        "id": "3cCTMGEV1gCd3qp-YBjFc",
         "name": "Whole Foods - West Broad",
         "address": "2024 W Broad Street, Richmond, VA 23220",
         "locations": "Restaurant/Retail",
         "wines": [
             "Rosé",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Rosé",
             "Foothills"
         ]
     },
     {
-        "id": "RULloCzm9Z4cqfRBCR0T3",
+        "id": "iT6ltnN2e9HiGW3SquwEz",
         "name": "Locke Store",
         "address": "2049 Millwood Rd., Millwood, VA 22646",
         "locations": "Retail",
         "wines": [
-            "Pétillant Naturel White",
-            "Rosé",
             "Pétillant Naturel White",
             "Rosé",
             "Eluvium",
@@ -854,7 +730,7 @@
         ]
     },
     {
-        "id": "5bMH6nwOHEyMHPo4XGFxS",
+        "id": "98LNSv7-I2vukh8a-vAVz",
         "name": "Nourish Louisa",
         "address": "205 W Main St, Louisa, VA 23093",
         "locations": "Restaurant/Retail",
@@ -864,7 +740,7 @@
         ]
     },
     {
-        "id": "i6VkuewKCZCjHL_KgPZjo",
+        "id": "6_2VobkNmWxwegCMO80eE",
         "name": "Quirk Hotel",
         "address": "201 W. Broad St., Richmond, VA 23220",
         "locations": "Restaurant",
@@ -873,7 +749,7 @@
         ]
     },
     {
-        "id": "yrpNmqwWkNGWuaP_FntNr",
+        "id": "BFSkfRkxEOYFrobOF_UqQ",
         "name": "Common House",
         "address": "206 West Market Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -884,33 +760,23 @@
         ]
     },
     {
-        "id": "Tschc6S2etI-ws1nAW1G7",
+        "id": "dkPAX8gLCiCwI5o4pfMdN",
         "name": "Foods of All Nations",
         "address": "2121 Ivy Rd, Charlottesville, VA 22903",
         "locations": "Retail",
         "wines": [
             "Pétillant Naturel White",
             "Rosé",
-            "Rosé",
             "Petit Manseng",
-            "Rosé",
             "Shenandoah Valley Cabernet Franc",
             "Chardonnay",
             "Foothills",
             "Eluvium",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Petit Manseng",
-            "Foothills",
-            "Eluvium",
-            "Eluvium",
-            "Foothills",
-            "Chardonnay",
             "RISE"
         ]
     },
     {
-        "id": "ipKlsJgiy9RS_PaGCWpH8",
+        "id": "q3rvgTvIBZ286K4oOR7d6",
         "name": "Shields Market",
         "address": "206 North Shields Avenue, Richmond, VA 23220",
         "locations": "Retail",
@@ -919,28 +785,20 @@
         ]
     },
     {
-        "id": "GEbtkUJMrsgwQ8iDbDVC7",
+        "id": "B3YZ8-6RpcgUFRH6DiGzN",
         "name": "Crystal City Wine Shop",
         "address": "220 20th St. South, Arlington, VA 22202",
         "locations": "Retail",
         "wines": [
             "Rosé",
-            "Rosé",
             "Foothills",
-            "Rosé",
             "Pétillant Naturel White",
-            "Rosé",
             "Petit Manseng",
-            "Foothills",
-            "Rosé",
-            "Petit Manseng",
-            "Foothills",
-            "Young Wine Chambourcin",
-            "Foothills"
+            "Young Wine Chambourcin"
         ]
     },
     {
-        "id": "hei2h-yDTyn9J9fL_apIH",
+        "id": "7ORPH6v4Q0toNqk4hajs_",
         "name": "Ivy Inn",
         "address": "2244 Old Ivy Rd., Charlottesville, VA 22903",
         "locations": "Restaurant",
@@ -952,7 +810,7 @@
         ]
     },
     {
-        "id": "i4klnlmsmyE7XVFjIasn7",
+        "id": "VEcWr_98xtWY_zUXcgzc_",
         "name": "Saison",
         "address": "23 W Marshall St. Suite A, Richmond, VA 23220",
         "locations": "Restaurant",
@@ -962,7 +820,7 @@
         ]
     },
     {
-        "id": "lBAP2C6tutldEONBFPHQ7",
+        "id": "T18idh11gOlFWt9VxaAD1",
         "name": "Fry's Spring Beach Club",
         "address": "2513 Jefferson Park Ave, Charlottesville, VA 22903",
         "locations": "Restaurant",
@@ -972,7 +830,7 @@
         ]
     },
     {
-        "id": "7WugcrSsQyMI-FzzFj4c_",
+        "id": "NhHrDHGZ_Vd45H1rSieYC",
         "name": "Acacia - Midtown",
         "address": "2601 West Cary St., Richmond, VA 23220",
         "locations": "Restaurant/Retail",
@@ -982,24 +840,20 @@
         ]
     },
     {
-        "id": "lVEXNZIdm8BmNnl3ammXD",
+        "id": "R-pPQIzF6J8AXClBelxzn",
         "name": "Department of Beer & Wine",
         "address": "2724 Richmond Hwy, Alexandria, VA 22301",
         "locations": "Retail",
         "wines": [
             "Foothills",
             "Rosé",
-            "Foothills",
-            "Foothills",
             "Shenandoah Valley Cabernet Franc",
             "Petit Manseng",
-            "Foothills",
-            "Young Wine Chambourcin",
-            "Foothills"
+            "Young Wine Chambourcin"
         ]
     },
     {
-        "id": "K88QG3t4F5ug4g0uxyqIj",
+        "id": "4kZnL5L4unqXWanT2O-ek",
         "name": "Cosmos Club",
         "address": "2121 Massachusetts Ave. NW, Washington, DC 20008",
         "locations": "Restaurant",
@@ -1008,12 +862,11 @@
         ]
     },
     {
-        "id": "yX5uaYN7z04LalghuKTT7",
+        "id": "nRQVKZkxHCSFsx6TiI2mh",
         "name": "White Moose Inn",
         "address": "291 Main St., Washington, VA 22747",
         "locations": "Restaurant",
         "wines": [
-            "Chardonnay",
             "Chardonnay",
             "Eluvium",
             "Foothills",
@@ -1021,7 +874,7 @@
         ]
     },
     {
-        "id": "7P_Wx6kXkMrHLHa842i7n",
+        "id": "E85hCmZJ32d7cJaL0E3Im",
         "name": "Perch",
         "address": "2918 W. Broad Street, Richmond, VA 23230",
         "locations": "Restaurant",
@@ -1029,13 +882,11 @@
             "Petit Manseng",
             "Foothills",
             "Rosé",
-            "Rosé",
-            "Chardonnay",
-            "Foothills"
+            "Chardonnay"
         ]
     },
     {
-        "id": "yP4V3jyUsi5Yl9mFSZTXW",
+        "id": "BzaNAFXpNTVgTqD9BAgRK",
         "name": "Swirl & Sip",
         "address": "2905 District  Ave. Ste. 112, Fairfax, VA 22031",
         "locations": "Retail",
@@ -1044,7 +895,7 @@
         ]
     },
     {
-        "id": "Mr_W_g4y-pS0tTYR05kWp",
+        "id": "GXD9-fztRFuE-k3rf57Hf",
         "name": "Prime 109",
         "address": "300 East Main St., Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -1055,7 +906,7 @@
         ]
     },
     {
-        "id": "uMVC96YTSEV2a5zP3l4vl",
+        "id": "YDMzItR87_OaLZ0X7iJwY",
         "name": "Von",
         "address": "3 Bleeker St, Manhattan, NY 10012",
         "locations": "Restaurant",
@@ -1064,7 +915,7 @@
         ]
     },
     {
-        "id": "SH9ig_k1_kHMqpdAwB41S",
+        "id": "RZdQzUlkjWODOJ8CX-jpb",
         "name": "In Vino Veritas",
         "address": "3015 Louisa Rd, Keswick, VA 22947",
         "locations": "Retail",
@@ -1075,33 +926,27 @@
         ]
     },
     {
-        "id": "WzxcP6CLBpGsXwd3XZJ7K",
+        "id": "vBvKn7_74RiTw4qDoWoIG",
         "name": "Urban Hang Suite",
         "address": "304 E. Broad Street, Richmond, VA 23219",
         "locations": "Restaurant/Retail",
         "wines": [
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Foothills",
             "Chardonnay",
             "Rosé"
         ]
     },
     {
-        "id": "2GG9RwWnAZanb5xTTf9JW",
+        "id": "25dwZgrX30u_YiSGui8fA",
         "name": "Each Peach Market",
         "address": "3068 Mt Pleasant St NW, Washington, DC 20009",
         "locations": "Restaurant/Retail",
         "wines": [
-            "Foothills",
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "bH0xEpzdRyna5mkSiNtMa",
+        "id": "RzMR4HSaAKrw6xNk9Z_-O",
         "name": "Bottleworks",
         "address": "3078 Stony Point Rd., Richmond, VA 23235",
         "locations": "Retail",
@@ -1111,70 +956,45 @@
         ]
     },
     {
-        "id": "Dy6WVZ3KUYl1vieFES3uC",
+        "id": "p6cxa0p6eQ75r3vsZiqif",
         "name": "Market Street Wine Shop",
         "address": "311 East Market St, Charlottesville, VA 22902",
         "locations": "Retail",
         "wines": [
             "Pétillant Naturel White",
-            "Pétillant Naturel White",
             "Chardonnay",
             "Eluvium",
             "Foothills",
-            "Chardonnay",
             "Petit Manseng",
             "Young Wine Chambourcin",
-            "Pétillant Naturel White",
-            "Foothills",
             "Rosé",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Eluvium",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Eluvium",
-            "Foothills",
-            "Eluvium",
-            "Foothills",
-            "Eluvium",
-            "Foothills",
-            "Chardonnay",
-            "Chardonnay"
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "ckybOr-I9WAGq0CH71eFu",
+        "id": "GrH4_6tOThg82tOFudF-Z",
         "name": "Grisette",
         "address": "3119 East Marshall Street, Richmond, VA 23223",
         "locations": "Restaurant",
         "wines": [
-            "Petit Manseng",
             "Petit Manseng",
             "Foothills",
             "Eluvium"
         ]
     },
     {
-        "id": "hdnZaGlsWk-aFGQppZV97",
+        "id": "XpSiEM4KsM_00MsOVOjRM",
         "name": "Alewife",
         "address": "3120 E Marshall St., Richmond, VA 23223",
         "locations": "Restaurant",
         "wines": [
             "Young Wine Chambourcin",
-            "Young Wine Chambourcin",
-            "Young Wine Chambourcin",
-            "Young Wine Chambourcin",
-            "Pétillant Naturel White",
             "Pétillant Naturel White",
             "Pétillant Naturel Red"
         ]
     },
     {
-        "id": "KScdR1tJN0efzzgp9vcqy",
+        "id": "HniqwprNKX3izYfa2iAje",
         "name": "Broken Tulip",
         "address": "3129 W. Cary Street, Richmond, VA 23221",
         "locations": "Restaurant",
@@ -1184,7 +1004,7 @@
         ]
     },
     {
-        "id": "kGVZHycV2PdZtkJ_8BQ-a",
+        "id": "hgrsLT_XWkTtEXQaMCNkG",
         "name": "313 Franklin",
         "address": "313 Franklin Street, South Hill, VA 23970",
         "locations": "Restaurant/Retail",
@@ -1196,7 +1016,7 @@
         ]
     },
     {
-        "id": "ejGK8WyX01lgz8kSvfLDr",
+        "id": "5T8z5r1LGBWlZ7vdUl1Sg",
         "name": "Fortunato",
         "address": "301 1st Street SW #300, Roanoke, VA 24011",
         "locations": "Restaurant",
@@ -1205,7 +1025,7 @@
         ]
     },
     {
-        "id": "uIoPalHurNIpZVWlaTK3l",
+        "id": "lR885_QKHg86V5SqFXveP",
         "name": "Good Wine",
         "address": "327 5th Ave, Brooklyn, NY 11215",
         "locations": "Retail",
@@ -1215,7 +1035,7 @@
         ]
     },
     {
-        "id": "RZSyqp7X_kDHq-teAVMTu",
+        "id": "XnfVD2A7u2AV86dc1Zq8K",
         "name": "USA Wine Imports:Good Wine",
         "address": "327 5th Avenue, Brooklyn, NY 11215",
         "locations": "Retail",
@@ -1224,7 +1044,7 @@
         ]
     },
     {
-        "id": "28ouTfyXbi10V_CbzP4ri",
+        "id": "njd2bBYBRKzlY75sxjheS",
         "name": "Odd Provisions",
         "address": "3301 11th Street NW, Washington, DC 20010",
         "locations": "Retail",
@@ -1233,19 +1053,18 @@
         ]
     },
     {
-        "id": "R37PG-U2g7Y-IeHy1B2Zz",
+        "id": "J6b_L8LeC8IQIupMarS7E",
         "name": "Wine Gourmet",
         "address": "3524 Electric Road, Roanoke, VA 24014",
         "locations": "Retail",
         "wines": [
             "Chardonnay",
             "Eluvium",
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "bSd_hVZGwhePgjjYtGZuU",
+        "id": "6HGfoPUylyti0N3zqHRT4",
         "name": "Valley Pike Farm Market",
         "address": "3494 Lee Highway, Weyers Cave, VA 24486",
         "locations": "Retail",
@@ -1254,7 +1073,7 @@
         ]
     },
     {
-        "id": "kLGSEIsPoHCkAovUwJWfJ",
+        "id": "tJp7ImmTWfUK4LipuAYQ8",
         "name": "The Eastern ",
         "address": "360 7th ST SE, Washington, DC 20003",
         "locations": "Restaurant",
@@ -1263,55 +1082,43 @@
         ]
     },
     {
-        "id": "_5l6Im5nQWODWyeDVo1rH",
+        "id": "W1k0XaPscBEc_NsO2texh",
         "name": "Unwined Bradlee Shopping Center",
         "address": "3690-J King St, Alexandria, VA 22302",
         "locations": "Retail",
         "wines": [
             "Rosé",
             "Eluvium",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Rosé",
             "Foothills",
-            "Eluvium",
             "Chardonnay",
-            "Eluvium",
             "Pétillant Naturel Red",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills"
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "MygBRRqStsYkpxsuRzxwo",
+        "id": "Z4y8xM0kD0fmp-zaKsFh1",
         "name": "Vino Market",
         "address": "3730 Winterfield Rd., Midlothian, VA 23113",
         "locations": "Retail",
         "wines": [
             "Foothills",
             "Rosé",
-            "Foothills",
-            "Rosé",
             "Young Wine Chambourcin"
         ]
     },
     {
-        "id": "AAMb0Z3g3K0B9s8bHPMhq",
+        "id": "61hKh1KYtHDVeylWYAa9T",
         "name": "Astor Wines & Spirits",
         "address": "399 Lafayette St, Manhattan, NY 10003",
         "locations": "Retail",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
             "Petit Manseng",
-            "Eluvium",
-            "Shenandoah Valley Cabernet Franc"
+            "Eluvium"
         ]
     },
     {
-        "id": "SgUTXUg2gVhYwp1BFxic_",
+        "id": "zFhj1csKPtRkn5P43oRGA",
         "name": "Ellwood Thompson",
         "address": "4 N Thompson St, Richmond, VA 23221",
         "locations": "Retail",
@@ -1321,22 +1128,13 @@
             "Rosé",
             "Pétillant Naturel White",
             "Shenandoah Valley Cabernet Franc",
-            "Petit Manseng",
             "Eluvium",
             "Foothills",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Young Wine Chambourcin",
-            "Young Wine Chambourcin",
-            "Foothills",
-            "Young Wine Chambourcin",
-            "Quaker Run Chardonnay",
-            "Quaker Run Chardonnay",
-            "Foothills"
+            "Young Wine Chambourcin"
         ]
     },
     {
-        "id": "iv3OyFeJU9HnsiaLPXnG4",
+        "id": "sAZU-FT3f4l9B4_vrJS1C",
         "name": "Libbie Market",
         "address": "400 Libbie Ave., Richmond, VA 23226",
         "locations": "Retail",
@@ -1344,52 +1142,43 @@
             "Eluvium",
             "Rosé",
             "Petit Manseng",
-            "Eluvium",
-            "Rosé",
             "Quaker Run Chardonnay",
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "lCMx3yRVy_xOXoEBI3N8W",
+        "id": "fxHoIuuo9ezKGza9Rwvfc",
         "name": "Dutch & Co.",
         "address": "400 N. 27th St., Richmond, VA 23223",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
             "Quaker Run Chardonnay",
-            "Chardonnay",
-            "Foothills",
-            "Quaker Run Chardonnay"
+            "Chardonnay"
         ]
     },
     {
-        "id": "yHVuE6F1VkwNJAChbAnSP",
+        "id": "ogwcQ2XRksExkwAt199WH",
         "name": "Blacksburg Wine Lab",
         "address": "400 Turner St. NW, Blacksburg, VA 24060",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
-            "Chardonnay",
-            "Foothills"
+            "Chardonnay"
         ]
     },
     {
-        "id": "C2Vf5JNne_KWnU22Jmty4",
+        "id": "dPzOFwmTKi3WryrT6u9fs",
         "name": "Commonwealth Club",
         "address": "401 W. Franklin Street, Richmond, VA 23220",
         "locations": "Restaurant",
         "wines": [
             "Rosé",
-            "Rosé",
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "wNjx7Ru_l44im4ysK1lQ9",
+        "id": "xbayxz2Nsgkzil6dDfcB7",
         "name": "Barrel Chest",
         "address": "4035 Electric Rd. #B, Roanoke, VA 24018",
         "locations": "Retail",
@@ -1400,29 +1189,27 @@
         ]
     },
     {
-        "id": "K7kZycmXR-GJ2ziJrLpxn",
+        "id": "ckQZJ-EInw_qv_rAE68Ro",
         "name": "Taste - Ghent",
         "address": "407 W 21st Street, Norfolk, VA 23517",
         "locations": "Restaurant/Retail",
         "wines": [
             "Five Forks",
             "Eluvium",
-            "Eluvium",
             "Rosé"
         ]
     },
     {
-        "id": "nXmbMWJB_iC-75ljKGQal",
+        "id": "ZZAIMNblTbr4uzFvIyE8n",
         "name": "Rustico - Ballston",
         "address": "4075 Wilson Blvd., Arlington, VA 22203",
         "locations": "Restaurant",
         "wines": [
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "ATpjR_0oJ3wfz82lW3SPH",
+        "id": "-iP7_rpZ1h2B-fmL0b7rx",
         "name": "Taste - Bayville Farms",
         "address": "4097 Shore Drive, Virginia Beach, VA 23455",
         "locations": "Restaurant/Retail",
@@ -1432,7 +1219,7 @@
         ]
     },
     {
-        "id": "7OrhnJig_fd93JtLddZHo",
+        "id": "ECS8FP8HvSZG5Hkf6Q2ma",
         "name": "Talk of the Table",
         "address": "410 Peachtree PKWY, Cumming, GA 30041",
         "locations": "Retail",
@@ -1442,7 +1229,7 @@
         ]
     },
     {
-        "id": "Jwp0PJAwZMTsW2sMo46Vo",
+        "id": "MFnqjecHSWDjV-6OOcxUB",
         "name": "Taste - Oceanfront",
         "address": "3603 Pacific Avenue, Virginia Beach, VA 23451",
         "locations": "Restaurant/Retail",
@@ -1451,19 +1238,17 @@
         ]
     },
     {
-        "id": "Q2N9XmRj7ZtB2ms29QRBO",
+        "id": "AyINFsmyInaIqHyPmv3gN",
         "name": "Feast",
         "address": "416 W Main St Suite H, Charlottesville, VA 22902",
         "locations": "Retail",
         "wines": [
             "Rosé",
-            "Foothills",
-            "Foothills",
-            "Rosé"
+            "Foothills"
         ]
     },
     {
-        "id": "hG3jEj3_niqiUijApEV38",
+        "id": "csnJABY1k3zIi72nHYpDB",
         "name": "Blanca",
         "address": "4117 Granby St Ste A, Norfolk, VA 23504",
         "locations": "Restaurant",
@@ -1472,7 +1257,7 @@
         ]
     },
     {
-        "id": "TFvveamIX0OEXuUZDj3SH",
+        "id": "uRZXJXxgokamFduhnPfUO",
         "name": "Wine & Country",
         "address": "4282 Ivy Road, Charlottesville, VA 22903",
         "locations": "Restaurant/Retail",
@@ -1483,7 +1268,7 @@
         ]
     },
     {
-        "id": "ji74HqHQ8U04843kZbguP",
+        "id": "r5IRM3laf_cgeRjMPDyQW",
         "name": "Cavalier Hotel",
         "address": "4200 Atlantic Avenue, Virginia Beach, VA 23451",
         "locations": "Restaurant",
@@ -1492,43 +1277,31 @@
         ]
     },
     {
-        "id": "cCFtYrW7ZWgPebwhqwiA7",
+        "id": "OZ7gCq1aLwkiV8N0t0GwP",
         "name": "Crystal Palate",
         "address": "4500 Pretty Lake Avenue, Norfolk, VA 23518",
         "locations": "Retail",
         "wines": [
-            "Chardonnay",
             "Chardonnay"
         ]
     },
     {
-        "id": "nT-jJ7n1AwPaYYCZczVMG",
+        "id": "Csfha3dwbuLFWFMgbTUVm",
         "name": "Arrowine",
         "address": "4508 Lee Hwy, Arlington, VA 22207",
         "locations": "Retail",
         "wines": [
             "Foothills",
             "Rosé",
-            "Rosé",
-            "Rosé",
             "Chardonnay",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Chardonnay",
-            "Rosé",
-            "Rosé",
             "Shenandoah Valley Cabernet Franc",
             "Young Wine Chambourcin",
             "Eluvium",
-            "Rosé",
-            "Foothills",
-            "Petit Manseng",
-            "Chardonnay"
+            "Petit Manseng"
         ]
     },
     {
-        "id": "UyckKyS4w30QaLrffeKwP",
+        "id": "gx2Ea2l38-_xZRunvVEdA",
         "name": "Taste - Town Center",
         "address": "4513 Commerce Street, Virgina Beach, VA 23462",
         "locations": "Restaurant/Retail",
@@ -1538,28 +1311,20 @@
         ]
     },
     {
-        "id": "VPWiaAJMPZKALAgiX9v2h",
+        "id": "aUgVGDCU86g2LpiNcZV5w",
         "name": "Wine Seller - Williamsburg",
         "address": "4680 Monticello Ave Suite 15, Williamsburg, VA 23188",
         "locations": "Retail",
         "wines": [
             "Rosé",
             "Foothills",
-            "Rosé",
             "Pétillant Naturel White",
-            "Foothills",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Foothills",
             "Petit Manseng",
-            "Foothills",
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "IcBe1AiT_I1lHwy_1h6Rb",
+        "id": "6HkfyqXjrnX2mTpKxjNZn",
         "name": "Outpost",
         "address": "4813 Forest Hill Ave., Richmond, VA 23225",
         "locations": "Retail",
@@ -1567,12 +1332,11 @@
             "Foothills",
             "Rosé",
             "Young Wine Chambourcin",
-            "RISE",
-            "Foothills"
+            "RISE"
         ]
     },
     {
-        "id": "XoHtAnVvEWg30ikkQ34hH",
+        "id": "QN6IYsBDDa1t7P1uRDCGs",
         "name": "And Sons NYC",
         "address": "447 Rogers Ave, Brooklyn, NY 11225",
         "locations": "Restaurant",
@@ -1581,7 +1345,7 @@
         ]
     },
     {
-        "id": "SrYr7_X4HO6awieqvQ8EC",
+        "id": "v3L3Bw3XsGnUGV-JWSGEp",
         "name": "Quirk Hotel - Charlottesville",
         "address": "499 W Main Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -1591,7 +1355,7 @@
         ]
     },
     {
-        "id": "Cw5YO6a2csl2hr_1D1Brd",
+        "id": "19x7x1sjFy6yYUjzuZUdX",
         "name": "Westside Produce & Provisions",
         "address": "5015 Colley Ave., Norfolk, VA 23508",
         "locations": "Retail",
@@ -1601,29 +1365,20 @@
             "Eluvium",
             "Foothills",
             "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Shenandoah Valley Cabernet Franc",
-            "Eluvium",
-            "Foothills",
-            "Rosé",
-            "Chardonnay",
-            "Eluvium",
-            "Foothills",
             "Rosé"
         ]
     },
     {
-        "id": "sB1RgtDd_DvPUNDeX-zrV",
+        "id": "BlcXsSymRwriKvM5rZHSN",
         "name": "Tastings of Charlottesville",
         "address": "502 East Market St, Charlottesville, VA 22902",
         "locations": "Restaurant/Retail",
         "wines": [
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "Z7979zkLk6wQ0dawM4Y0E",
+        "id": "1g_A1C6Wek2kMYaKQ_avX",
         "name": "Shagbark",
         "address": "4901 Libbie Mill E Blvd. Ste 175, Richmond, VA 23230",
         "locations": "Restaurant",
@@ -1632,7 +1387,7 @@
         ]
     },
     {
-        "id": "w0vMLc7VrPW9Uo-ss5Cpf",
+        "id": "CRcpW4nSVS_iwZV2tkzrS",
         "name": "Chat's Liquor",
         "address": "503 8th St SE, Washington, DC 20003",
         "locations": "Retail",
@@ -1641,7 +1396,7 @@
         ]
     },
     {
-        "id": "dkpCwYgDVLbqxkRDMDWDt",
+        "id": "1-Bo2TUWXA9U65ZBDWIFm",
         "name": "Little Red Fox",
         "address": "5035 Connecticut Ave. NW, Washington, DC 20008",
         "locations": "Restaurant/Retail",
@@ -1651,74 +1406,48 @@
         ]
     },
     {
-        "id": "2msxdh4xXhAWht9TuAMFG",
+        "id": "-9wYNOf8eHWYsYD7pwFLh",
         "name": "C&O Restaurant",
         "address": "515 E Water St, Charlottesville, VA 22902",
         "locations": "Restaurant",
         "wines": [
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "cEQdUqrSeLUPdM9sA7BRe",
+        "id": "zRQmdw6KNC4JbteGzayGr",
         "name": "Paul's Discount Liquor",
         "address": "5205 Wisconsin Ave NW, Washington, DC 20015",
         "locations": "Retail",
         "wines": [
             "Eluvium",
             "Foothills",
-            "Petit Manseng",
-            "Eluvium"
+            "Petit Manseng"
         ]
     },
     {
-        "id": "HYvMuVNm_LLfNb5QqwYHa",
+        "id": "NajRiRHt_v_7h9zU-vsvG",
         "name": "Amber Ox Kitchen & Brewery",
         "address": "521 Prince George St., Williamsburg, VA 23185",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Chardonnay",
-            "Foothills",
-            "Chardonnay",
-            "Foothills",
-            "Chardonnay",
-            "Chardonnay",
-            "Foothills",
-            "Chardonnay",
-            "Foothills",
-            "Chardonnay",
-            "Foothills",
-            "Foothills",
             "Chardonnay"
         ]
     },
     {
-        "id": "DBccnIlGsz3vweR5D4ef3",
+        "id": "akY9JclaYvD6XaawyZ5Z8",
         "name": "Prosperity Kitchen & Pantry",
         "address": "532 Virginia Beach Blvd Ste B, Virginia Beach, VA 23451",
         "locations": "Restaurant",
         "wines": [
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Foothills",
             "RISE",
             "Eluvium"
         ]
     },
     {
-        "id": "OEgBXnvXMyfnSBSEEOAE7",
+        "id": "hIx7F5TSSPOXmfsguhyDv",
         "name": "Savannah Wine Cellar",
         "address": "5500 Abercorn St, Savannah, GA 31405",
         "locations": "Restaurant/Retail",
@@ -1726,13 +1455,11 @@
             "Foothills",
             "RISE",
             "Quaker Run Chardonnay",
-            "RISE",
-            "Eluvium",
-            "Foothills"
+            "Eluvium"
         ]
     },
     {
-        "id": "0omh-UbkKC8tmfXfhuWHw",
+        "id": "PzGMtDwBf8bgaKEgKBnIv",
         "name": "Clay Restaurant",
         "address": "553 Manhattan Ave , Manhattan, NY 10027",
         "locations": "Restaurant",
@@ -1742,7 +1469,7 @@
         ]
     },
     {
-        "id": "G3lz5_UA_zH9PVKyDefYH",
+        "id": "xgdPiGQYgLSy9boW8Zuqe",
         "name": "Taste - Westhampton",
         "address": "5706 Grove Ave Ste 100, Richmond, VA 23226",
         "locations": "Restaurant/Retail",
@@ -1750,68 +1477,35 @@
             "Chardonnay",
             "Eluvium",
             "Shenandoah Valley Cabernet Franc",
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "y05zO_vrKZRYCMWQtxet2",
+        "id": "nKW3PRWU0236dbwfM6dLF",
         "name": "J Emerson",
         "address": "5716 Grove Ave, Richmond, VA 23226",
         "locations": "Retail",
         "wines": [
             "Rosé",
             "Pétillant Naturel White",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Foothills",
             "Chardonnay",
-            "Foothills",
-            "Foothills",
-            "Eluvium",
-            "Foothills"
+            "Eluvium"
         ]
     },
     {
-        "id": "TDWf2CvQxHk1KqdJ5LhwF",
+        "id": "_8TxQcoP6vP_1HNR3Vtip",
         "name": "Barrel Thief",
         "address": "5805 Patterson Ave, Richmond, VA 23226",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Foothills",
             "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Rosé",
-            "Rosé",
-            "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Foothills",
-            "Foothills",
-            "Foothills"
+            "Chardonnay"
         ]
     },
     {
-        "id": "L0xIyhGC5qtr4pTm-NR6Z",
+        "id": "4CPSumcIHVZb9OozCAdae",
         "name": "Buck's Fishing",
         "address": "5031 Connecticut Ave NW, Washington, DC 20008",
         "locations": "Restaurant",
@@ -1820,7 +1514,7 @@
         ]
     },
     {
-        "id": "k38SQMSbYH63LIJq2i7_g",
+        "id": "vTEyJA3dKR1uG1P9PpHMf",
         "name": "Vyne Yard",
         "address": "594 Rogers Ave, Brooklyn, NY 11225",
         "locations": "Retail",
@@ -1829,7 +1523,7 @@
         ]
     },
     {
-        "id": "tLSWbZiKVbJUlDPBnakOy",
+        "id": "j7fTSA6VZu-J52IRZWE86",
         "name": "Balducci's - Alexandria",
         "address": "600 Franklin St, Alexandria, VA 22314",
         "locations": "Retail",
@@ -1838,40 +1532,31 @@
             "Rosé",
             "Shenandoah Valley Cabernet Franc",
             "Young Wine Chambourcin",
-            "Chardonnay",
-            "RISE",
             "RISE"
         ]
     },
     {
-        "id": "x84wnJODcYylrlTv13zfe",
+        "id": "dxZyA7OqK_WKSDQTH71kF",
         "name": "Whole Foods - H Street",
         "address": "600-A H Street, NE, Washington, DC 20002",
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
-            "Rosé",
-            "Foothills",
-            "Rosé",
-            "Foothills"
+            "Rosé"
         ]
     },
     {
-        "id": "hQnmx66pHBHPcsc2lRpfw",
+        "id": "5OFbD51gLm-B0kJQGbfuk",
         "name": "Roosevelt",
         "address": "623 N. 25th St., Richmond, VA 23223",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
-            "Foothills",
-            "Five Forks",
-            "Foothills",
-            "Foothills",
             "Five Forks"
         ]
     },
     {
-        "id": "8x74Yh24UAC30AR4SRWNH",
+        "id": "lx5iPHIoYWSYVndMmert5",
         "name": "Wardman Wines",
         "address": "625 Monroe St. NE, Ste.#A7, Washington, DC 20007",
         "locations": "Retail",
@@ -1881,7 +1566,7 @@
         ]
     },
     {
-        "id": "DiWmeDvXSyAN8fsPncmCv",
+        "id": "-r4lFNTERr_nNxa5dW2zi",
         "name": "Grape D'Vine",
         "address": "6 Depot Square, Sparkill, NY 10976",
         "locations": "Retail",
@@ -1890,7 +1575,7 @@
         ]
     },
     {
-        "id": "AEj4DiHtItly9JgGb120n",
+        "id": "nkYWUb5n5FFJtAa6wpuP1",
         "name": "High Street on Hudson",
         "address": "637 Hudson St, Manhattan, NY 10014",
         "locations": "Restaurant",
@@ -1900,19 +1585,17 @@
         ]
     },
     {
-        "id": "fwLTbH6S9ABqK9bqpxe6S",
+        "id": "AaEkD-uM8qcXPK9H4Yu1d",
         "name": "Olmsted",
         "address": "659 Vanderbilt Ave, Brooklyn, NY 11238",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
-            "Foothills",
-            "Foothills",
             "Chardonnay"
         ]
     },
     {
-        "id": "8pH6VNRas7FQag20jIwi3",
+        "id": "WsFxefH9iqp5g6QnAMS6B",
         "name": "Hazel Jane's",
         "address": "670 Dekalb Ave, Atlanta, GA 30307",
         "locations": "Restaurant/Retail",
@@ -1923,7 +1606,7 @@
         ]
     },
     {
-        "id": "Jfojg3QDq52TKsQct5-nl",
+        "id": "LLZkxJac1Dm_zPkDGfVIu",
         "name": "Greenwood",
         "address": "6701 Rockfish Gap TPK, Crozet, VA 22932",
         "locations": "Retail",
@@ -1932,20 +1615,13 @@
             "Young Wine Chambourcin",
             "Rosé",
             "Chardonnay",
-            "Rosé",
             "Quaker Run Chardonnay",
-            "Chardonnay",
             "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "YxarZXinAVzpwmrY_hZ-v",
+        "id": "-eNq2jnpf47FzzsHQEo36",
         "name": "Organic Butcher of McLean",
         "address": "6712 Old Dominion Drive, McLean, VA 22101",
         "locations": "Retail",
@@ -1953,30 +1629,23 @@
             "Shenandoah Valley Cabernet Franc",
             "RISE",
             "Foothills",
-            "Foothills",
             "Eluvium",
             "Quaker Run Chardonnay",
-            "Foothills",
-            "Eluvium",
-            "Shenandoah Valley Cabernet Franc",
-            "Shenandoah Valley Cabernet Franc",
             "Petit Manseng",
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "Mzj6PrmcxxA7pk8fHeo7-",
+        "id": "DmpGW0rtjxZKGi12EeEhW",
         "name": "Bon Ton",
         "address": "674 Myrtle Street NE , ATLANTA, GA 30308",
         "locations": "Restaurant",
         "wines": [
-            "Rosé",
             "Rosé"
         ]
     },
     {
-        "id": "3_pw-SAg2Q7fNKLPhLOA5",
+        "id": "K9hdI-6Ma8WBmA968HCUO",
         "name": "Ashby Inn",
         "address": "692 Federal St, Paris, VA 20130",
         "locations": "Restaurant",
@@ -1986,7 +1655,7 @@
         ]
     },
     {
-        "id": "4AvIrcJ9J4ydGP9lZgQB-",
+        "id": "0iA5l16Z60N1cHJaVxyyn",
         "name": "Press 626",
         "address": "626 West Olney Rd., Norfolk, VA 23507",
         "locations": "Restaurant/Retail",
@@ -1995,7 +1664,7 @@
         ]
     },
     {
-        "id": "a1MMWFP18dFXlFl_9n3_9",
+        "id": "j8b4V8W-DrwIru8G7OVEo",
         "name": "Rose's at Home",
         "address": "731 8th Street SE, Washington, DC 20003",
         "locations": "Restaurant",
@@ -2004,7 +1673,7 @@
         ]
     },
     {
-        "id": "9fuIpwYv3CnqwyFZ6RpXa",
+        "id": "_Q6MpG8n1nIZwSm4h85Ch",
         "name": "Wine Cellar- Staunton",
         "address": "8 Byers St., Staunton, VA 24401",
         "locations": "Retail",
@@ -2012,12 +1681,11 @@
             "Shenandoah Valley Cabernet Franc",
             "Foothills",
             "Chardonnay",
-            "Eluvium",
-            "Foothills"
+            "Eluvium"
         ]
     },
     {
-        "id": "tsao-ceHKWrfUMkID1rDL",
+        "id": "teUg6PlElzmNcaX9Z0_iS",
         "name": "Whole Foods - Tysons",
         "address": "7511 Leesburg Pike, Falls Church, VA 22043",
         "locations": "Restaurant/Retail",
@@ -2026,18 +1694,17 @@
         ]
     },
     {
-        "id": "mK3CYn3mtz247_ZsiuwdE",
+        "id": "hhr_G0ofsFW_IG-G6zYq0",
         "name": "Heirloom Cafe",
         "address": "815 N Chase St, Athens, GA 30601",
         "locations": "Restaurant",
         "wines": [
             "Rosé",
-            "Petit Manseng",
             "Petit Manseng"
         ]
     },
     {
-        "id": "-tEswUg5erjyYLNZ7I1CT",
+        "id": "wnVO1v65RJFKohviG5Y5r",
         "name": "Heirloom Café",
         "address": "815 N Chase St, Athens, GA 30601",
         "locations": "Restaurant/Retail",
@@ -2046,7 +1713,7 @@
         ]
     },
     {
-        "id": "rS_-Yvrpjiaq_6-RUYNxq",
+        "id": "EFJcmBeCHl-37BrTXXsho",
         "name": "Local, The",
         "address": "824 Hinton Ave, Charlottesville, VA 22901",
         "locations": "Restaurant",
@@ -2055,19 +1722,17 @@
         ]
     },
     {
-        "id": "6OcjffIiK9cJ3BYxODDiU",
+        "id": "ObeanN3aRt50NapqofAma",
         "name": "Hill of Content",
         "address": "833 Tinsley Dr,, Charlottesville, VA 22732",
         "locations": "Restaurant",
         "wines": [
             "Chardonnay",
-            "Chardonnay",
-            "Shenandoah Valley Cabernet Franc",
-            "Chardonnay"
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
-        "id": "qtERr9zflGpoXwXFTfFt5",
+        "id": "QhWbvm53CPjnVa2m1Icyp",
         "name": "Field & Main",
         "address": "8369 W. Main St., Marshall, VA 20115",
         "locations": "Restaurant/Retail",
@@ -2077,27 +1742,25 @@
         ]
     },
     {
-        "id": "qKZgXmonfpQnk9LlX0d5v",
+        "id": "41zUJYf6stHAJwxvbgQJX",
         "name": "Whole Foods - Springfield",
         "address": "8402 Old Keene Mill Road, Springfield, VA 22152",
         "locations": "Restaurant/Retail",
         "wines": [
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "VKW7Qddd7KJcb1y-nI3cB",
+        "id": "0U1K3_sFCIVZYlUy4bbK0",
         "name": "Enologo",
         "address": "857 9th Ave, Manhattan, NY 10019",
         "locations": "Restaurant",
         "wines": [
-            "Foothills",
             "Foothills"
         ]
     },
     {
-        "id": "qA8Hlu5rFWVW-lgwXR_PJ",
+        "id": "rZ7ie6bQzr5AizfI7eJ-_",
         "name": "Parc de Ville",
         "address": "8296 Glass Alley, Ste 110, Fairfax, VA 22031",
         "locations": "Restaurant",
@@ -2106,7 +1769,7 @@
         ]
     },
     {
-        "id": "zLq83EvXGXY-eH6etHlDF",
+        "id": "hnZpIVGrBmN7_u7nBREZC",
         "name": "Washington Street Purveyors",
         "address": "9 E Washington St, Lexington, VA 24450",
         "locations": "Retail",
@@ -2115,7 +1778,7 @@
         ]
     },
     {
-        "id": "85ahRKVMUnpIVrMLkmygC",
+        "id": "32hz9s-nceuBf76rIfxaI",
         "name": "Olivino",
         "address": "905 Fulton Street , Brooklyn, NY 11238",
         "locations": "Retail",
@@ -2125,7 +1788,7 @@
         ]
     },
     {
-        "id": "XnmNJP5tuP-nUYvLzz4pi",
+        "id": "y7T3sg15vRid64QlgSeuc",
         "name": "Riggs Hotel DC",
         "address": "900 F St NW, Washington, DC 20004",
         "locations": "Restaurant",
@@ -2134,7 +1797,7 @@
         ]
     },
     {
-        "id": "tJ9ezqQwqQ8PIl712rSjf",
+        "id": "IxhPV-fjboOG6vuN3bZUp",
         "name": "Succotash",
         "address": "915 F St. NW, Washington, DC 20004",
         "locations": "Restaurant",
@@ -2143,7 +1806,7 @@
         ]
     },
     {
-        "id": "OhcFW2N9wHBuF9_BfNAt1",
+        "id": "LsY5Om0w16e1Rt0bdr55B",
         "name": "Mona Lisa",
         "address": "921 Preston Ave, Charlottesville, VA 22903",
         "locations": "Retail",
@@ -2151,19 +1814,13 @@
             "Young Wine Chambourcin",
             "Rosé",
             "Foothills",
-            "Rosé",
             "Shenandoah Valley Cabernet Franc",
             "Petit Manseng",
-            "Foothills",
-            "Eluvium",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Rosé",
-            "Foothills"
+            "Eluvium"
         ]
     },
     {
-        "id": "ib2Ts99q8GFkzYxpNB0h3",
+        "id": "rzoPns_8A50_2kOCCwopu",
         "name": "Public Square",
         "address": "92 N Public Square, Jefferson, GA 30549",
         "locations": "Restaurant/Retail",
@@ -2172,7 +1829,7 @@
         ]
     },
     {
-        "id": "CG6LRDqg83dwTMhvfsaUv",
+        "id": "xU-4MXYXKnQDtBoyCpggb",
         "name": "Racines",
         "address": "94 Chambers St, Manhattan, NY 10007",
         "locations": "Restaurant",
@@ -2181,7 +1838,7 @@
         ]
     },
     {
-        "id": "Jm2zfUNCDQfwTlDMh-MMb",
+        "id": "PRxx3dq4Oou3FUKxTz4oz",
         "name": "Please Bring Chips",
         "address": "951 V St. NE, Washington, DC 20018",
         "locations": "Restaurant",
@@ -2190,7 +1847,7 @@
         ]
     },
     {
-        "id": "KLGZVHcTHNBFv9qd77CXo",
+        "id": "1Pw2d76C30bcreQ-Eqq05",
         "name": "Newtown Baking",
         "address": "960 W Beverlely Street, Staunton, VA 244001",
         "locations": "Retail",
@@ -2199,7 +1856,7 @@
         ]
     },
     {
-        "id": "J9pyln8E2L3kvyAodK9hp",
+        "id": "1PkEbiMwct8vwsy6xsn7L",
         "name": "Hot Cakes",
         "address": "Barracks Road Shopping Center, Charlottesville, VA 22903",
         "locations": "Retail",
@@ -2208,7 +1865,7 @@
         ]
     },
     {
-        "id": "n9SKpT0FO7I5MdvyNUHcm",
+        "id": "iburZx4QNNqR1G9rhKSwv",
         "name": "Montgomery Co. Dept. of Liquor Control",
         "address": "Division of Financial, Gaithersburg, MD 20878",
         "locations": "Retail",
@@ -2217,38 +1874,21 @@
         ]
     },
     {
-        "id": "6Ea9OTCTsOIiRGEgUgh8G",
+        "id": "FD3a3-0WXUaGxkW1hTIk0",
         "name": "Fat Canary",
         "address": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
         "locations": "Restaurant",
         "wines": [
             "Foothills",
             "Rosé",
-            "Foothills",
-            "Foothills",
             "Eluvium",
             "Shenandoah Valley Cabernet Franc",
-            "Foothills",
-            "Foothills",
-            "Foothills",
             "Pétillant Naturel Red",
-            "Foothills",
-            "Pétillant Naturel Red",
-            "Young Wine Chambourcin",
-            "Shenandoah Valley Cabernet Franc",
-            "Eluvium",
-            "Foothills",
-            "Young Wine Chambourcin",
-            "Foothills",
-            "Pétillant Naturel Red",
-            "Foothills",
-            "Shenandoah Valley Cabernet Franc",
-            "Foothills",
             "Young Wine Chambourcin"
         ]
     },
     {
-        "id": "YfI47si1FpQ1-X4HfOUeU",
+        "id": "V9WkvciUV9o4zUE5WpIA9",
         "name": "Thornton River Grille",
         "address": "Thornton River Grille, Sperryville, VA 22740",
         "locations": "Restaurant",
@@ -2256,14 +1896,6 @@
             "Rosé",
             "Chardonnay",
             "Petit Manseng",
-            "Foothills",
-            "Rosé",
-            "Foothills",
-            "Foothills",
-            "Foothills",
-            "Chardonnay",
-            "Rosé",
-            "Chardonnay",
             "Foothills"
         ]
     }

@@ -1,4 +1,4 @@
-import {existsSync, readFileSync, writeFileSync} from 'fs';
+import {existsSync, readFileSync, writeFileSync, readdir} from 'fs';
 import {cwd} from 'process'
 import colors from "colors";
 import parse from "csv-parse/lib/sync.js";
@@ -25,7 +25,7 @@ export const convert = (csvPathString) => {
 
     console.log(colors.green(`Writing file to ${cwd()}/accounts.json`));
 
-    writeFileSync(`${cwd()}/converted.json`, JSON.stringify(newJson, null, 4));
+    writeFileSync(`${cwd()}/accounts.json`, JSON.stringify(newJson, null, 4));
 };
 
 
@@ -79,9 +79,12 @@ const processChunk = (arrayChunk) => {
 };
 
 const addWinesToObj = (arrayChunk, obj) => {
+    let wines = [];
     for (const entry of arrayChunk) {
-        obj.wines.push(entry.Wine);
+        wines.push(entry.Wine);
     }
+
+    obj.wines = [...new Set(wines)];
 };
 
 const addLocationToObj = (entry) => {
@@ -94,4 +97,10 @@ const addLocationToObj = (entry) => {
     }
 };
 
-convert('/accounts.csv');
+readdir(path.join(path.resolve(), '/accounts'), (err, files) => {
+    if (err) {
+        throw new Error(err);
+    }
+
+    convert(`/accounts/${files[files.length - 1]}`);
+});

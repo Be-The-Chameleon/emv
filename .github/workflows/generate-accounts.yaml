@@ -1,0 +1,29 @@
+name: Generate Accounts JSON
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 13.2.0
+      - name: Generate Accounts
+        run: |
+          yarn
+          yarn convert
+      - name: Push to built branch
+        uses: Automattic/action-commit-to-branch@master
+        with:
+          branch: 'master'
+          commit_message: 'Generate JSON'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required
