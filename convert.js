@@ -68,7 +68,11 @@ const processChunk = (arrayChunk) => {
     const obj = {
         id: nanoid(),
         name: oneObj.Accounts,
-        address: oneObj.Address,
+        address: {
+            street: oneObj.Address,
+            lat: oneObj.Lat,
+            lon: oneObj.Lon
+        },
         locations: addLocationToObj(arrayChunk[0]),
         wines: [],
     };
