@@ -1,15 +1,16 @@
 [
     {
-        "id": "yd-PB7hB_aJOF9BDRkmVH",
+        "id": "E-6giwbrSEOztM6BkGsYu",
         "name": "Main (The)",
         "address": "100 E. Main Street, Norfolk, VA 23510",
         "locations": "Restaurant",
         "wines": [
+            "Foo Bar Yeet it up",
             "RISE"
         ]
     },
     {
-        "id": "B8owCfDhFJ1Zwx3qYZ4tz",
+        "id": "n4HRlsT87j0HAipssjjAC",
         "name": "Town Duck",
         "address": "100 Main St, Warrenton, VA 20186",
         "locations": "Retail",
@@ -19,7 +20,7 @@
         ]
     },
     {
-        "id": "x5JEw4KDSYK4GeRGSR9XN",
+        "id": "nHkTnDYZlf3gJhTe3mmJZ",
         "name": "Jefferson Hotel",
         "address": "101 W Franklin St, Richmond, VA 23220",
         "locations": "Restaurant",
@@ -29,7 +30,7 @@
         ]
     },
     {
-        "id": "HEdUnJ_rFQnulPSuVDyJh",
+        "id": "ixq6A6VEc-CyWaO9bxvOQ",
         "name": "Screwtop",
         "address": "1025 Fillmore St. N, Arlington, VA 22201",
         "locations": "Restaurant/Retail",
@@ -39,7 +40,7 @@
         ]
     },
     {
-        "id": "-3lOaYLwd7qMw4_86ooa2",
+        "id": "S9kZ5YjPTx8g8oi4QWo2_",
         "name": "One Eared Stag",
         "address": "1029 Edgewood Ave NE, Atlanta, GA 30374",
         "locations": "Restaurant",
@@ -49,7 +50,7 @@
         ]
     },
     {
-        "id": "QwGF-QhYm9Yb6cbvLAfGT",
+        "id": "gBPYWMx8TkAkD7WTBDn-5",
         "name": "Hamilton's",
         "address": "101 W Main St, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -58,7 +59,7 @@
         ]
     },
     {
-        "id": "z_d02El2tvmK1jamq68Go",
+        "id": "BBX5D9mJyHZ1eJKIPu1OO",
         "name": "USA Wine Imports:Zap Wines & Spirits",
         "address": "105 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -67,7 +68,7 @@
         ]
     },
     {
-        "id": "39OdiU2qzggqfcArRrN0E",
+        "id": "Hfxgsulis9RRRC1iYAguz",
         "name": "Shack, The",
         "address": "105 S. Coalter St., Staunton, VA 24401",
         "locations": "Restaurant",
@@ -78,7 +79,7 @@
         ]
     },
     {
-        "id": "tBaK7u5QEwlvGkMQqTv59",
+        "id": "pMMq9kUnzkUF7i4mf2f0t",
         "name": "South Street Brewery",
         "address": "106 South St., Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -88,7 +89,7 @@
         ]
     },
     {
-        "id": "v_wg4QDo3DE8oB-fqW7BB",
+        "id": "Pl95S027LjdfpDQauwvel",
         "name": "Sorso Wine Boutique",
         "address": "1069 Bedford Ave, Brooklyn, NY 11216",
         "locations": "Restaurant/Retail",
@@ -97,7 +98,7 @@
         ]
     },
     {
-        "id": "YW08EDw1v-B5C3q97ku_D",
+        "id": "YJLxuM2EtptS4lIdx6MKu",
         "name": "Zap Wines & Spirits",
         "address": "105 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -106,7 +107,7 @@
         ]
     },
     {
-        "id": "yDe61eymKvjfmw4RXHaD-",
+        "id": "GQ0gHTG_XAPfDhQGylwQc",
         "name": "Dominion Wine and Beer",
         "address": "107 Rowell Ct., Falls Church, VA 22046",
         "locations": "Restaurant/Retail",
@@ -118,7 +119,7 @@
         ]
     },
     {
-        "id": "kyE9yFaP136aOXRBsI03M",
+        "id": "Y4VjwtcUf4zjBe5Qp7Jw6",
         "name": "Home.Made",
         "address": "1072 Baxter Street, Athens, GA 30606",
         "locations": "Restaurant/Retail",
@@ -128,7 +129,7 @@
         ]
     },
     {
-        "id": "olFWoZi2I21xH4Zwc0qHq",
+        "id": "YT_qwtSJWP5jw8b8T3Zzp",
         "name": "Alley Light",
         "address": "108 2nd St. SW, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -138,7 +139,7 @@
         ]
     },
     {
-        "id": "pEIODFr-oaoBeMreWWb5R",
+        "id": "oyDJ48FPuHIVH21YxBGP2",
         "name": "Caboose",
         "address": "108 S. Railroad Ave., Ashland, VA 23005",
         "locations": "Restaurant/Retail",
@@ -148,7 +149,7 @@
         ]
     },
     {
-        "id": "eQzCgp-YPmvj_rKx0BtFP",
+        "id": "R2UlYEM6ujFczBcpsBD2t",
         "name": "Momofuku DC",
         "address": "1090 I St. NW, Washington, DC 20001",
         "locations": "Restaurant",
@@ -159,7 +160,7 @@
         ]
     },
     {
-        "id": "3W61BeDcB0DuIs1MGgP6T",
+        "id": "XUTEiyNEfcTo-wtGA27KO",
         "name": "USA Wine Imports:Sorso Wine Boutique",
         "address": "1069 Bedford Avenue, Brooklyn, NY 11216",
         "locations": "Retail",
@@ -168,7 +169,7 @@
         ]
     },
     {
-        "id": "8p6zeU912cYlXGgEzAYXG",
+        "id": "giTQdOlPDlUdSsDe7WDa1",
         "name": "Whole Foods - Short Pump",
         "address": "11173 West Broad St., Richmond, VA 23060",
         "locations": "Restaurant/Retail",
@@ -178,7 +179,7 @@
         ]
     },
     {
-        "id": "rKSB3xxGzqbu19XZEIeOJ",
+        "id": "lUKrqHyLqNGdFY26QDM3c",
         "name": "Vermillion",
         "address": "1120 King St, Alexandria, VA 22314",
         "locations": "Restaurant",
@@ -187,7 +188,7 @@
         ]
     },
     {
-        "id": "SCo7KRhBZlVHkLGeduu5c",
+        "id": "b8f9kquhaaVQNCFEbfgeQ",
         "name": "Essex Pearl",
         "address": "115 Delancey Street, Manhattan, NY 10002",
         "locations": "Restaurant",
@@ -197,7 +198,7 @@
         ]
     },
     {
-        "id": "kRipB50J3Cqe2mX-KJ_wP",
+        "id": "nkMv2oM_YVjN7mq7Y2Ga7",
         "name": "Zynodoa",
         "address": "115 E Beverly St, Staunton, VA 24401",
         "locations": "Restaurant",
@@ -209,7 +210,7 @@
         ]
     },
     {
-        "id": "dC5CmfC_gOIroY95dlQlQ",
+        "id": "_TmuARBE2DL3e4k6eXlWt",
         "name": "Bloom",
         "address": "1109 Main St. SW, Roanoke, VA 24015",
         "locations": "Restaurant",
@@ -218,7 +219,7 @@
         ]
     },
     {
-        "id": "okGs0q9d-KyN_yOwRwr9j",
+        "id": "Ed8WZkBXVnLP6NBlyFXw0",
         "name": "DeVine",
         "address": "121 Blue Ridge Dr, Wintergreen, VA 22958",
         "locations": "Retail",
@@ -228,7 +229,7 @@
         ]
     },
     {
-        "id": "CCrcl5QcArsZQ8S_2Azq8",
+        "id": "ZAsLYPmTiSVysLdwcvX0g",
         "name": "Dabney",
         "address": "122 Blagden Alley NW, Washington, DC 20009",
         "locations": "Restaurant",
@@ -237,7 +238,7 @@
         ]
     },
     {
-        "id": "Wca-J67WprTj8umnqPC99",
+        "id": "fmoQsHZwsbuHHT5gfr60Q",
         "name": "La Fromagerie",
         "address": "1222 King St, Alexandria, VA 22314",
         "locations": "Restaurant/Retail",
@@ -251,7 +252,7 @@
         ]
     },
     {
-        "id": "_EvL-y_E2fTw7FdHJPdee",
+        "id": "oQtk83SAOdk22OxZrsNjb",
         "name": "Ten Sushi",
         "address": "120B East Main St, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -260,7 +261,7 @@
         ]
     },
     {
-        "id": "UyZUZJYuPBJz3erM5jiLV",
+        "id": "B1Dy6S6PpvJ4369RrKvGB",
         "name": "Clifton Inn",
         "address": "1296 Clifton Inn Dr, Charlottesville, VA 22911",
         "locations": "Restaurant",
@@ -269,7 +270,7 @@
         ]
     },
     {
-        "id": "0CCTNegthPYJpZIn7xyO4",
+        "id": "s-d7Zi1Kj-uenJMDRa2-i",
         "name": "Saint Anselm",
         "address": "1250 5th St. NE, Washington, DC 20002",
         "locations": "Restaurant",
@@ -278,7 +279,7 @@
         ]
     },
     {
-        "id": "dmxREtsHH-CsYoDOuQQ94",
+        "id": "r7SIBnEROQCmG_A4TTJg2",
         "name": "Roanoke Natural Foods Co-op",
         "address": "1319 Grandin Rd SW, Roanoke, VA 24015",
         "locations": "Retail",
@@ -288,7 +289,7 @@
         ]
     },
     {
-        "id": "Ut5IvJYo7274jRFAEfIZY",
+        "id": "4LQUinT5s5e8tDZiy2kXj",
         "name": "Vintage Cellar",
         "address": "1338 South Main St., Blacksburg, VA 24060",
         "locations": "Retail",
@@ -298,7 +299,7 @@
         ]
     },
     {
-        "id": "CIONtfdHMEsOs5JvB_CFq",
+        "id": "0HZlG9g3Vahd1pMhN829g",
         "name": "Inn at Warm Springs",
         "address": "12968 Sam Snead Hwy, Warm Springs, VA 24484",
         "locations": "Restaurant",
@@ -307,7 +308,7 @@
         ]
     },
     {
-        "id": "Pgb5g8oYkbfIMoLXu84Tu",
+        "id": "AbrmTFswUg9ADEVkZ2fuO",
         "name": "Norm's Beer & Wine",
         "address": "136 Branch Rd SE, Vienna, VA 22180",
         "locations": "Retail",
@@ -321,7 +322,7 @@
         ]
     },
     {
-        "id": "lltdrfWtTcNfJKRlFNhQt",
+        "id": "fKrYVhedblBCNbuJdav_b",
         "name": "Chain Bridge Cellars",
         "address": "1351 Chain Bridge Rd, McLean, VA 22101",
         "locations": "Retail",
@@ -330,7 +331,7 @@
         ]
     },
     {
-        "id": "ACzaSORrMLFYIQ1-SdyKa",
+        "id": "ID6BdiAuHFcymEc6gxHr8",
         "name": "Salisbury Country Club",
         "address": "13620 W. Salisbury Rd, Midlothian, VA 23113",
         "locations": "Restaurant",
@@ -344,7 +345,7 @@
         ]
     },
     {
-        "id": "7aidhZKwUCBzn0klqESz3",
+        "id": "huX1ZORPL65ixCDELrXLg",
         "name": "Cellar d'Or",
         "address": "136 E State St, Ithaca, NY 14850",
         "locations": "Retail",
@@ -353,7 +354,7 @@
         ]
     },
     {
-        "id": "mNz8AmGxm7X02S9-QYw4T",
+        "id": "2OPaXM7VOZ4rTtSVBe_uA",
         "name": "Brooklyn Wine Exchange",
         "address": "138 Court Street, Brooklyn, NY 11201",
         "locations": "Retail",
@@ -362,7 +363,7 @@
         ]
     },
     {
-        "id": "gNYkImmy6taBG7MR4dony",
+        "id": "RVlKMN9xYBO5ABRJVtFtu",
         "name": "Taste - Headquarters",
         "address": "1391 Air Rail Avenue, Virginia Beach, VA 23455",
         "locations": "Restaurant/Retail",
@@ -371,7 +372,7 @@
         ]
     },
     {
-        "id": "Mp5oZY3tB1zTmgQBxx2vc",
+        "id": "mCfSSSqd6NrUP3M8R8WlT",
         "name": "Kings County Wines",
         "address": "1420 Cortelyou Rd, Brooklyn, NY 11226",
         "locations": "Retail",
@@ -381,7 +382,7 @@
         ]
     },
     {
-        "id": "JIRwtJuj0Z5T5o3joDXrQ",
+        "id": "jGeoM3hECOeBemFF60JR2",
         "name": "Friendly City Food Co-op",
         "address": "150 E Wolfe St, Harrisonburg, VA 22802",
         "locations": "Retail",
@@ -393,7 +394,7 @@
         ]
     },
     {
-        "id": "QU32QZsSkmyeICXlo7TLv",
+        "id": "rxkPLDiOodetX_dF076UK",
         "name": "Clementine Cafe",
         "address": "153 S Main St, Harrisonburg, VA 22801",
         "locations": "Restaurant",
@@ -403,7 +404,7 @@
         ]
     },
     {
-        "id": "ShXiQQFrjWkTcoBzc0A5T",
+        "id": "KhPOiswawuRbiTj61ZOmh",
         "name": "Beer Run",
         "address": "156 Carlton Rd Ste 203, Charlottesville, VA 22902",
         "locations": "Restaurant/Retail",
@@ -413,7 +414,7 @@
         ]
     },
     {
-        "id": "BcwBkS6HQbAb84A9LbD-e",
+        "id": "rsOcSBxYuqY-viWAepg3c",
         "name": "Unwined Belle View",
         "address": "1600 Belle View Blvd., Alexandria, VA 22307",
         "locations": "Retail",
@@ -429,7 +430,7 @@
         ]
     },
     {
-        "id": "6WSUs2wTQmIUgJuN1UBAi",
+        "id": "ZrDqg5Qrufj1RdGYt4LUy",
         "name": "W2 Wines, LLC",
         "address": "16031 Hillsboro Road, Purcellville, VA 20132",
         "locations": "Retail",
@@ -440,7 +441,7 @@
         ]
     },
     {
-        "id": "aiEowHG4Kc8o9U7Y5_YUs",
+        "id": "fMaD0s7eaneVHeHBS59R3",
         "name": "USA Wine Imports:Kings County Wines",
         "address": "1420 Cortelyou Road, Brooklyn, NY 11226",
         "locations": "Retail",
@@ -449,7 +450,7 @@
         ]
     },
     {
-        "id": "-kEA0sT-oYTM71jUJL8HG",
+        "id": "53lAVTE4stwv8SRpz6VE9",
         "name": "Mount Airy Winegrowers LLC",
         "address": "1609 Lee Highway, Fort Defiance, VA 24437",
         "locations": "Retail",
@@ -458,7 +459,7 @@
         ]
     },
     {
-        "id": "z8RmhK1U4TEhCKHYCZndu",
+        "id": "nFNF__q0QT15z4frVBIEp",
         "name": "Cairo Wine & Liquor",
         "address": "1618 17th St NW, Washington, DC 20009",
         "locations": "Retail",
@@ -467,7 +468,7 @@
         ]
     },
     {
-        "id": "xWDDaPra3saMxmTix0u3p",
+        "id": "V4UX8SV3ai5UgurFpCYrG",
         "name": "Whole Foods - Boro Tysons",
         "address": "1635 Boro Place, McLean, VA 22102",
         "locations": "Restaurant/Retail",
@@ -478,7 +479,7 @@
         ]
     },
     {
-        "id": "N7Jvq10Rm0nlJzSHdY_Mq",
+        "id": "rr6DNb9Pb8Uadot6vHLru",
         "name": "Farmington Country Club",
         "address": "1625 Country Club Circle, Charlottesville, VA 22901",
         "locations": "Restaurant",
@@ -487,7 +488,7 @@
         ]
     },
     {
-        "id": "C9b-waK6IkLHX1yZQO1PM",
+        "id": "mjIkqj6eSjEh11_rZRQx2",
         "name": "Vinosity",
         "address": "174 E Davis St,, Charlottesville, VA 22732",
         "locations": "Retail",
@@ -496,7 +497,7 @@
         ]
     },
     {
-        "id": "Rna0TH4wUbX88BJN4ChCL",
+        "id": "Jd4CzBC1ED_3DPEWBFuu2",
         "name": "A Rake's Progress",
         "address": "1771 Euclid St NW, Washington, DC 20009",
         "locations": "Restaurant",
@@ -505,7 +506,7 @@
         ]
     },
     {
-        "id": "0pmu9rMA_bHBV8nr6CBZm",
+        "id": "L1O8cpbUDbfZ-WDH9jLZ3",
         "name": "Whole Foods - Old Town",
         "address": "1700 Duke Street, Alexandria, VA 22314",
         "locations": "Restaurant/Retail",
@@ -514,7 +515,7 @@
         ]
     },
     {
-        "id": "yVtaWPPGjJvuUcBL0XK_y",
+        "id": "0YmW9IiybK7UcqCYqcHrf",
         "name": "Whole Foods - Charlottesville",
         "address": "1797 Hydraulic Road, Charlottesville, VA 22901",
         "locations": "Restaurant/Retail",
@@ -524,7 +525,7 @@
         ]
     },
     {
-        "id": "LxlJzjZBd3ewTvXRE9VmB",
+        "id": "YjhVQDJcXqLnTT6lEa9cV",
         "name": "Lucky",
         "address": "18 Kirk Ave SW, Roanoke, VA 24011",
         "locations": "Restaurant",
@@ -534,7 +535,7 @@
         ]
     },
     {
-        "id": "adDOFG65QVuh0RJgQ772p",
+        "id": "WOuOKxOK140sGTkV7eJs7",
         "name": "Whole Foods - Virginia Beach",
         "address": "1800 Laskin Road, Virginia Beach, VA 23454",
         "locations": "Restaurant/Retail",
@@ -544,7 +545,7 @@
         ]
     },
     {
-        "id": "rY7c85PITRr5GAKXC2KYf",
+        "id": "3qM5uFNUDle-z1CnUlPJf",
         "name": "67 Liquor Shop",
         "address": "179 Columbus Ave, New York, NY 10023",
         "locations": "Retail",
@@ -553,7 +554,7 @@
         ]
     },
     {
-        "id": "ZMsl6aQoyOjpq-vc1fvSx",
+        "id": "oJ9z0jC0kE0zWhftPshyi",
         "name": "Wine Warehouse",
         "address": "1804 Hydraulic Rd, Charlottesville, VA 22902",
         "locations": "Retail",
@@ -565,7 +566,7 @@
         ]
     },
     {
-        "id": "c9IkG5HrkzvqYs6F3QOrI",
+        "id": "KOD0eNor7xxnQ6YmEtZnu",
         "name": "Founding Farmers - Tyson's Corner",
         "address": "1800 Tyson's Blvd., McLean, VA 22102",
         "locations": "Restaurant",
@@ -574,7 +575,7 @@
         ]
     },
     {
-        "id": "zTMAVxnnSBPftaN7bqqyj",
+        "id": "MLBypdeVyFyK8QKCE7jt9",
         "name": "Red Hen-DC",
         "address": "1822 1st St. NW, Washington, DC 20001",
         "locations": "Restaurant",
@@ -584,7 +585,7 @@
         ]
     },
     {
-        "id": "I35uKO986-9X0FJ2yLSiL",
+        "id": "fHA8SsTT0cw7KbiSR6gKO",
         "name": "Back Bay's Farmhouse Brewing",
         "address": "1805 Kempsville Rd, Virginia Beach, VA 23464",
         "locations": "Restaurant",
@@ -593,7 +594,7 @@
         ]
     },
     {
-        "id": "bfm7KwunB-5Wy06k7Egrt",
+        "id": "eembcDLdthzsMpdykKxQW",
         "name": "Tail Up Goat",
         "address": "1827 Adams Mill Rd. NW, Washington, DC 20009",
         "locations": "Restaurant",
@@ -602,7 +603,7 @@
         ]
     },
     {
-        "id": "WQYNMS7QgZvvLYXUc1j1d",
+        "id": "VfkXbjl0-fXoKimzjNoyr",
         "name": "Rio Hill Wine & Beer",
         "address": "1908 Rio Hill Center, Charlottesville, VA 22901",
         "locations": "Retail",
@@ -617,7 +618,7 @@
         ]
     },
     {
-        "id": "rMvyuPm8NBKzy9G-wRMYA",
+        "id": "aXMe_29Y5VkEoMaNoEzga",
         "name": "Founding Farmers - Reston",
         "address": "1904 Reston Metro Plaza, Suite 100, Reston, VA 20190",
         "locations": "Restaurant",
@@ -626,7 +627,7 @@
         ]
     },
     {
-        "id": "6FDwo6_aTrqF2b3kHT-ef",
+        "id": "EjGsqKCCmLR_wpgudOS1q",
         "name": "Whole Foods - Ashburn",
         "address": "19800 Belmont Chase Dr, Ashburn, VA 20147",
         "locations": "Restaurant/Retail",
@@ -636,7 +637,7 @@
         ]
     },
     {
-        "id": "LeqTL-vtfKG3QUM_QWf0F",
+        "id": "ylQwL1VMCyWlUwABrbniA",
         "name": "Magnolia's at the Mill",
         "address": "198 North 21st Street, Purcelville, VA 20132",
         "locations": "Restaurant",
@@ -645,7 +646,7 @@
         ]
     },
     {
-        "id": "9oWAxE9D6l7dkbdLEiIC2",
+        "id": "NQNPzdL0TddfCSOjoQWMX",
         "name": "Primland Resort",
         "address": "2000 Busted Rock Road, Meadows of Dan, VA 24120",
         "locations": "Restaurant",
@@ -656,7 +657,7 @@
         ]
     },
     {
-        "id": "fsBvR6rZe7Vjdw3zAJYL2",
+        "id": "QfhvtWq1W3leNQNh1KtJx",
         "name": "Planet Wine",
         "address": "2000-2004 Mount Vernon Ave, Alexandria, VA 22301",
         "locations": "Retail",
@@ -667,7 +668,7 @@
         ]
     },
     {
-        "id": "8EvG1TI06KatVNeB1OD6d",
+        "id": "NfAmqi_nF3X_jMiPlmC2h",
         "name": "Glen's Garden Market",
         "address": "2001 S St. NW, Washington, DC 20009",
         "locations": "Restaurant/Retail",
@@ -678,7 +679,7 @@
         ]
     },
     {
-        "id": "XEwuOrisTmSYUJJbHFZHj",
+        "id": "yBgYCclPptY8vKgWr7WRt",
         "name": "Zocalo",
         "address": "201 E Main St Suite E, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -688,7 +689,7 @@
         ]
     },
     {
-        "id": "nSxqrxpKqnXxcTPDdB6qe",
+        "id": "U1VMpvkp-RxvSdB48EwEn",
         "name": "Stone Tower Winery",
         "address": "19925 Hogback Mountain Road, Leesburg, VA 20175",
         "locations": "Restaurant/Retail",
@@ -697,7 +698,7 @@
         ]
     },
     {
-        "id": "1bnkmgNoFtySQ5NnShuh1",
+        "id": "IGXIH1bBMDvpv5LHuejhB",
         "name": "Downtown Grille",
         "address": "201 West Main Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -708,7 +709,7 @@
         ]
     },
     {
-        "id": "cdcvhWUZNjJbgGW-AHzbs",
+        "id": "mVGbA0pEo9-7Pf1DS-Mfe",
         "name": "Whole Foods - West Broad",
         "address": "2024 W Broad Street, Richmond, VA 23220",
         "locations": "Restaurant/Retail",
@@ -718,7 +719,7 @@
         ]
     },
     {
-        "id": "E9tU5xWEYtw_WFsaomJ8w",
+        "id": "nJqKkY0O_KDd3Iy2EfM_c",
         "name": "Locke Store",
         "address": "2049 Millwood Rd., Millwood, VA 22646",
         "locations": "Retail",
@@ -730,7 +731,7 @@
         ]
     },
     {
-        "id": "SuTeUoxEo1PlqU8cH5V7O",
+        "id": "PDIJbZuE88MqB953GN-EL",
         "name": "Nourish Louisa",
         "address": "205 W Main St, Louisa, VA 23093",
         "locations": "Restaurant/Retail",
@@ -740,7 +741,7 @@
         ]
     },
     {
-        "id": "PkALz_5bK_fZOQcNDR3nO",
+        "id": "qpH7kB7YeCEBGiwhxvxru",
         "name": "Quirk Hotel",
         "address": "201 W. Broad St., Richmond, VA 23220",
         "locations": "Restaurant",
@@ -749,7 +750,7 @@
         ]
     },
     {
-        "id": "vMaQ1MhFjYXJyAoA9qupA",
+        "id": "4-Z7NYSmN5cJ-99DJAGVN",
         "name": "Common House",
         "address": "206 West Market Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -760,7 +761,7 @@
         ]
     },
     {
-        "id": "oFVcPUR6MaBDcyWQN3UGA",
+        "id": "OvqarBf7L23w0063xqMES",
         "name": "Foods of All Nations",
         "address": "2121 Ivy Rd, Charlottesville, VA 22903",
         "locations": "Retail",
@@ -776,7 +777,7 @@
         ]
     },
     {
-        "id": "3idrj2dLmLboeJ_0PJr4w",
+        "id": "gG-fxLgqQGZpAOl7lbnqo",
         "name": "Shields Market",
         "address": "206 North Shields Avenue, Richmond, VA 23220",
         "locations": "Retail",
@@ -785,7 +786,7 @@
         ]
     },
     {
-        "id": "jvYa38lLimPvkh_UaQoN9",
+        "id": "P4CPAA0ssLfyIjeWoDdc1",
         "name": "Crystal City Wine Shop",
         "address": "220 20th St. South, Arlington, VA 22202",
         "locations": "Retail",
@@ -798,7 +799,7 @@
         ]
     },
     {
-        "id": "frSJYq9pBtzTxK_BoTWoC",
+        "id": "kmAERPoXcqN5XLjxLFpJW",
         "name": "Ivy Inn",
         "address": "2244 Old Ivy Rd., Charlottesville, VA 22903",
         "locations": "Restaurant",
@@ -810,7 +811,7 @@
         ]
     },
     {
-        "id": "tcd6-yTgwGHg8NdDgGoSG",
+        "id": "eQsbHBk1mgfYDlxpfeSIy",
         "name": "Saison",
         "address": "23 W Marshall St. Suite A, Richmond, VA 23220",
         "locations": "Restaurant",
@@ -820,7 +821,7 @@
         ]
     },
     {
-        "id": "8hq2p1l7MjeEi5g1Tx2I2",
+        "id": "PHKy2U5OLCjzuzJzMotqF",
         "name": "Fry's Spring Beach Club",
         "address": "2513 Jefferson Park Ave, Charlottesville, VA 22903",
         "locations": "Restaurant",
@@ -830,7 +831,7 @@
         ]
     },
     {
-        "id": "j_cN3oMydKfhc9IzLZFJi",
+        "id": "gN9koSu-Zp2M7Dgp4bR6f",
         "name": "Acacia - Midtown",
         "address": "2601 West Cary St., Richmond, VA 23220",
         "locations": "Restaurant/Retail",
@@ -840,7 +841,7 @@
         ]
     },
     {
-        "id": "ChpgDeaE3qaCn2G_Kl5ta",
+        "id": "zrzEsB4AIDugfnktzNJLf",
         "name": "Department of Beer & Wine",
         "address": "2724 Richmond Hwy, Alexandria, VA 22301",
         "locations": "Retail",
@@ -853,7 +854,7 @@
         ]
     },
     {
-        "id": "0-q51PRn4BxB1zp8O7svZ",
+        "id": "smrFgI1gNwN95O0POglCR",
         "name": "Cosmos Club",
         "address": "2121 Massachusetts Ave. NW, Washington, DC 20008",
         "locations": "Restaurant",
@@ -862,7 +863,7 @@
         ]
     },
     {
-        "id": "i3zX0yVzC_qE6_DnonqW3",
+        "id": "JDIr5W07urfO2srMXtbM-",
         "name": "White Moose Inn",
         "address": "291 Main St., Washington, VA 22747",
         "locations": "Restaurant",
@@ -874,7 +875,7 @@
         ]
     },
     {
-        "id": "9LcyiryYmvYZ0iMYVOElF",
+        "id": "3AuHHNfv_wayde0hSPN2n",
         "name": "Perch",
         "address": "2918 W. Broad Street, Richmond, VA 23230",
         "locations": "Restaurant",
@@ -886,7 +887,7 @@
         ]
     },
     {
-        "id": "6vb3211HaHtGOL-nvlyLa",
+        "id": "3Jvi21WBUAUOdEt9kGBEj",
         "name": "Swirl & Sip",
         "address": "2905 District  Ave. Ste. 112, Fairfax, VA 22031",
         "locations": "Retail",
@@ -895,7 +896,7 @@
         ]
     },
     {
-        "id": "mHoLE98t2NoMgrWfrQCia",
+        "id": "qqh8lXBgMp_6uZy-V4c2d",
         "name": "Prime 109",
         "address": "300 East Main St., Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -906,7 +907,7 @@
         ]
     },
     {
-        "id": "fvKWDP0-0lfhV4_FXKQqc",
+        "id": "6Ex57CS7emJuWO_3JN04t",
         "name": "Von",
         "address": "3 Bleeker St, Manhattan, NY 10012",
         "locations": "Restaurant",
@@ -915,7 +916,7 @@
         ]
     },
     {
-        "id": "bUTHQ2FfHAmriXvqMZ3H1",
+        "id": "homeRJWr2kYO91Tml1ZmG",
         "name": "In Vino Veritas",
         "address": "3015 Louisa Rd, Keswick, VA 22947",
         "locations": "Retail",
@@ -926,7 +927,7 @@
         ]
     },
     {
-        "id": "XLUiMo35kHxrpFM0a0QxY",
+        "id": "ZMQkZk_3HjCSIoaQKQSFy",
         "name": "Urban Hang Suite",
         "address": "304 E. Broad Street, Richmond, VA 23219",
         "locations": "Restaurant/Retail",
@@ -937,7 +938,7 @@
         ]
     },
     {
-        "id": "iYYElaObt8qA7C6nlbVFC",
+        "id": "1ZvDJekBFCIxuSo_2nRGj",
         "name": "Each Peach Market",
         "address": "3068 Mt Pleasant St NW, Washington, DC 20009",
         "locations": "Restaurant/Retail",
@@ -946,7 +947,7 @@
         ]
     },
     {
-        "id": "Bek-im3HOI1xwt501Qf8F",
+        "id": "JO3qPGMgCw5WQPipUmP19",
         "name": "Bottleworks",
         "address": "3078 Stony Point Rd., Richmond, VA 23235",
         "locations": "Retail",
@@ -956,7 +957,7 @@
         ]
     },
     {
-        "id": "MiED3EfnpPx6G-ySCOvkX",
+        "id": "hzUcXB_nNiyRmhR9VbY8B",
         "name": "Market Street Wine Shop",
         "address": "311 East Market St, Charlottesville, VA 22902",
         "locations": "Retail",
@@ -972,7 +973,7 @@
         ]
     },
     {
-        "id": "PdDTfGBqI0NFLYZ5BDkCa",
+        "id": "ZzGNR8jZ6uPiFpiOrJuem",
         "name": "Grisette",
         "address": "3119 East Marshall Street, Richmond, VA 23223",
         "locations": "Restaurant",
@@ -983,7 +984,7 @@
         ]
     },
     {
-        "id": "o7Nh447ftFGwHTY40VDfZ",
+        "id": "Wm1pp8OvhN1PwNzxSkG8J",
         "name": "Alewife",
         "address": "3120 E Marshall St., Richmond, VA 23223",
         "locations": "Restaurant",
@@ -994,7 +995,7 @@
         ]
     },
     {
-        "id": "243BvPVpKNScSH5JiS8_E",
+        "id": "eA0VEh2TOv_WZLig-k8zK",
         "name": "Broken Tulip",
         "address": "3129 W. Cary Street, Richmond, VA 23221",
         "locations": "Restaurant",
@@ -1004,7 +1005,7 @@
         ]
     },
     {
-        "id": "jW8QwGX9lcdA01h5-skP4",
+        "id": "mNc34YOUnA7GMrh7KRMv4",
         "name": "313 Franklin",
         "address": "313 Franklin Street, South Hill, VA 23970",
         "locations": "Restaurant/Retail",
@@ -1016,7 +1017,7 @@
         ]
     },
     {
-        "id": "5WmEDtn0yYNIucTEgciJ9",
+        "id": "vUJshQ_svKtPqJ9aO2Jif",
         "name": "Fortunato",
         "address": "301 1st Street SW #300, Roanoke, VA 24011",
         "locations": "Restaurant",
@@ -1025,7 +1026,7 @@
         ]
     },
     {
-        "id": "CB6odpCPfUhInS5w7LwVH",
+        "id": "Bq4EN_Y7ff8suL8ME-Sw7",
         "name": "Good Wine",
         "address": "327 5th Ave, Brooklyn, NY 11215",
         "locations": "Retail",
@@ -1035,7 +1036,7 @@
         ]
     },
     {
-        "id": "dJeizv8hx3Y1VCr8bRO8h",
+        "id": "o8tNd_B_5EAdnTLYV2JHs",
         "name": "USA Wine Imports:Good Wine",
         "address": "327 5th Avenue, Brooklyn, NY 11215",
         "locations": "Retail",
@@ -1044,7 +1045,7 @@
         ]
     },
     {
-        "id": "1s08ozlTiXZqdl7n_Wn_D",
+        "id": "Ixc9T0B29SThrY-14tRY4",
         "name": "Odd Provisions",
         "address": "3301 11th Street NW, Washington, DC 20010",
         "locations": "Retail",
@@ -1053,7 +1054,7 @@
         ]
     },
     {
-        "id": "T_EeMGuxk0pPECtI3uhBz",
+        "id": "L3hWDXtMhyQkhFXt6uGeg",
         "name": "Wine Gourmet",
         "address": "3524 Electric Road, Roanoke, VA 24014",
         "locations": "Retail",
@@ -1064,7 +1065,7 @@
         ]
     },
     {
-        "id": "nuKielXYfwgi6KoHKb-NF",
+        "id": "coc9TFEnZxWygigwkvgze",
         "name": "Valley Pike Farm Market",
         "address": "3494 Lee Highway, Weyers Cave, VA 24486",
         "locations": "Retail",
@@ -1073,7 +1074,7 @@
         ]
     },
     {
-        "id": "zIw1rkyfVh56CDijUgTqu",
+        "id": "uN6X9aKwGO9ig-uhw7spB",
         "name": "The Eastern ",
         "address": "360 7th ST SE, Washington, DC 20003",
         "locations": "Restaurant",
@@ -1082,7 +1083,7 @@
         ]
     },
     {
-        "id": "hHpY7DbcCsQE3NqkG-23v",
+        "id": "sM5j1FezFo6g_YD8xgG1N",
         "name": "Unwined Bradlee Shopping Center",
         "address": "3690-J King St, Alexandria, VA 22302",
         "locations": "Retail",
@@ -1096,7 +1097,7 @@
         ]
     },
     {
-        "id": "7f_WZrTqsNqyS5wjX86BB",
+        "id": "88YCsM2paBuJBIaHvGExS",
         "name": "Vino Market",
         "address": "3730 Winterfield Rd., Midlothian, VA 23113",
         "locations": "Retail",
@@ -1107,7 +1108,7 @@
         ]
     },
     {
-        "id": "Dpy4PS9YSmr8-Mv1E-rDC",
+        "id": "b6LvrPk5KKCkq3mM9uWix",
         "name": "Astor Wines & Spirits",
         "address": "399 Lafayette St, Manhattan, NY 10003",
         "locations": "Retail",
@@ -1118,7 +1119,7 @@
         ]
     },
     {
-        "id": "zg5XIA9Eef3aI99YKntCu",
+        "id": "Ytpob4Mee6_5G42v-Rg8-",
         "name": "Ellwood Thompson",
         "address": "4 N Thompson St, Richmond, VA 23221",
         "locations": "Retail",
@@ -1134,7 +1135,7 @@
         ]
     },
     {
-        "id": "2TO7XEB0mktMxR8qsKp3V",
+        "id": "MSfmeJA0lHgAHI3SqyRNz",
         "name": "Libbie Market",
         "address": "400 Libbie Ave., Richmond, VA 23226",
         "locations": "Retail",
@@ -1147,7 +1148,7 @@
         ]
     },
     {
-        "id": "LZ338ZMT7nGpaPHu-VyiX",
+        "id": "0wm5ynU8vWVFKhgmEvf4I",
         "name": "Dutch & Co.",
         "address": "400 N. 27th St., Richmond, VA 23223",
         "locations": "Restaurant",
@@ -1158,7 +1159,7 @@
         ]
     },
     {
-        "id": "GP5J3lRLHkPPjTvbANP6s",
+        "id": "txzdKENpNeVhf2GLQi07f",
         "name": "Blacksburg Wine Lab",
         "address": "400 Turner St. NW, Blacksburg, VA 24060",
         "locations": "Restaurant",
@@ -1168,7 +1169,7 @@
         ]
     },
     {
-        "id": "A7oFx4-RTYtxitn9Rinm6",
+        "id": "YeHYmCMAFp25ZbW_lA4ia",
         "name": "Commonwealth Club",
         "address": "401 W. Franklin Street, Richmond, VA 23220",
         "locations": "Restaurant",
@@ -1178,7 +1179,7 @@
         ]
     },
     {
-        "id": "6DD1MQtzZafPzym-TF0TZ",
+        "id": "PMrZo5G1-Erg94aj07Xuh",
         "name": "Barrel Chest",
         "address": "4035 Electric Rd. #B, Roanoke, VA 24018",
         "locations": "Retail",
@@ -1189,7 +1190,7 @@
         ]
     },
     {
-        "id": "kQlUwtjIqEHQocI251PAP",
+        "id": "S81Se1sQeEfjgeMWLGUWP",
         "name": "Taste - Ghent",
         "address": "407 W 21st Street, Norfolk, VA 23517",
         "locations": "Restaurant/Retail",
@@ -1200,7 +1201,7 @@
         ]
     },
     {
-        "id": "O4O_bW_7ZQUNNWo-lP3iQ",
+        "id": "LAfTSK0QMqSovmjKh4fLt",
         "name": "Rustico - Ballston",
         "address": "4075 Wilson Blvd., Arlington, VA 22203",
         "locations": "Restaurant",
@@ -1209,7 +1210,7 @@
         ]
     },
     {
-        "id": "Swm3uOesAdlFqm5zJYL2U",
+        "id": "IeOEZlzgH4m3wU6Za-uaO",
         "name": "Taste - Bayville Farms",
         "address": "4097 Shore Drive, Virginia Beach, VA 23455",
         "locations": "Restaurant/Retail",
@@ -1219,7 +1220,7 @@
         ]
     },
     {
-        "id": "FEXI666UlNu4KjkOEab6F",
+        "id": "vhOmV4xC-5bkyT8-2HxBY",
         "name": "Talk of the Table",
         "address": "410 Peachtree PKWY, Cumming, GA 30041",
         "locations": "Retail",
@@ -1229,7 +1230,7 @@
         ]
     },
     {
-        "id": "EEmcoGP_gAfvm8RtZurC2",
+        "id": "PJrOY26FiqgiqTN27N4wJ",
         "name": "Taste - Oceanfront",
         "address": "3603 Pacific Avenue, Virginia Beach, VA 23451",
         "locations": "Restaurant/Retail",
@@ -1238,7 +1239,7 @@
         ]
     },
     {
-        "id": "W6J2kmhGAkpKaKYz8GyzQ",
+        "id": "app0NUQm8iTbfFylQhE_f",
         "name": "Feast",
         "address": "416 W Main St Suite H, Charlottesville, VA 22902",
         "locations": "Retail",
@@ -1248,7 +1249,7 @@
         ]
     },
     {
-        "id": "T3H8RVYOjp771BSfuYKyG",
+        "id": "e54mAkkLgV-J2broor0qy",
         "name": "Blanca",
         "address": "4117 Granby St Ste A, Norfolk, VA 23504",
         "locations": "Restaurant",
@@ -1257,7 +1258,7 @@
         ]
     },
     {
-        "id": "egCVD4ZVyX-68V1kGi90-",
+        "id": "7gAwe_qwJPJv8D2mIWCQo",
         "name": "Wine & Country",
         "address": "4282 Ivy Road, Charlottesville, VA 22903",
         "locations": "Restaurant/Retail",
@@ -1268,7 +1269,7 @@
         ]
     },
     {
-        "id": "bNRkLmKQsYjFyn1MbI6C4",
+        "id": "3ADQCx8t1TFhFEk9G8M60",
         "name": "Cavalier Hotel",
         "address": "4200 Atlantic Avenue, Virginia Beach, VA 23451",
         "locations": "Restaurant",
@@ -1277,7 +1278,7 @@
         ]
     },
     {
-        "id": "Cnssm89XI7JDCVJgpo9Y5",
+        "id": "wk1rftrh6LN1KW6Yu6a1J",
         "name": "Crystal Palate",
         "address": "4500 Pretty Lake Avenue, Norfolk, VA 23518",
         "locations": "Retail",
@@ -1286,7 +1287,7 @@
         ]
     },
     {
-        "id": "4L0dI035VFhCfnjUxMCjS",
+        "id": "z52M6sdosIFAH5IQeBWuR",
         "name": "Arrowine",
         "address": "4508 Lee Hwy, Arlington, VA 22207",
         "locations": "Retail",
@@ -1301,7 +1302,7 @@
         ]
     },
     {
-        "id": "1JbjaXatzEs3AjK5ptcSQ",
+        "id": "IUUKtOCSVLTh1neOk4u_c",
         "name": "Taste - Town Center",
         "address": "4513 Commerce Street, Virgina Beach, VA 23462",
         "locations": "Restaurant/Retail",
@@ -1311,7 +1312,7 @@
         ]
     },
     {
-        "id": "AjYRsr-feTsFchci6t_OW",
+        "id": "iMAVB0Z7KR26flarQRhSL",
         "name": "Wine Seller - Williamsburg",
         "address": "4680 Monticello Ave Suite 15, Williamsburg, VA 23188",
         "locations": "Retail",
@@ -1324,7 +1325,7 @@
         ]
     },
     {
-        "id": "b2mLXAdgsNRvTAja5hjmY",
+        "id": "wg_TZlhzwBMnmA634O1aY",
         "name": "Outpost",
         "address": "4813 Forest Hill Ave., Richmond, VA 23225",
         "locations": "Retail",
@@ -1336,7 +1337,7 @@
         ]
     },
     {
-        "id": "l5HC3pweJUQ6W0piQBEUp",
+        "id": "KtjqKmI-TxdHr-1z8N688",
         "name": "And Sons NYC",
         "address": "447 Rogers Ave, Brooklyn, NY 11225",
         "locations": "Restaurant",
@@ -1345,7 +1346,7 @@
         ]
     },
     {
-        "id": "CGOVjWnI-woSUzBy5El9P",
+        "id": "qZpB0QihcSwu9eScwxFS2",
         "name": "Quirk Hotel - Charlottesville",
         "address": "499 W Main Street, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -1355,7 +1356,7 @@
         ]
     },
     {
-        "id": "MRDc1lN1SIp8hRUlcoUzH",
+        "id": "iguj0PzgcxHdIRwwzfGZh",
         "name": "Westside Produce & Provisions",
         "address": "5015 Colley Ave., Norfolk, VA 23508",
         "locations": "Retail",
@@ -1369,7 +1370,7 @@
         ]
     },
     {
-        "id": "OB8ORfandH_n7s9QynKGV",
+        "id": "yeqwLACIF8VYOQVYQnpFG",
         "name": "Tastings of Charlottesville",
         "address": "502 East Market St, Charlottesville, VA 22902",
         "locations": "Restaurant/Retail",
@@ -1378,7 +1379,7 @@
         ]
     },
     {
-        "id": "wAu4ut-LWLTY-R1NlFYYI",
+        "id": "D8nCmDo5aKMimOay6cVsN",
         "name": "Shagbark",
         "address": "4901 Libbie Mill E Blvd. Ste 175, Richmond, VA 23230",
         "locations": "Restaurant",
@@ -1387,7 +1388,7 @@
         ]
     },
     {
-        "id": "vS-a7-Hh0iu7RhJ3SrptA",
+        "id": "lkj-SW9yzRedsgMkeIuuS",
         "name": "Chat's Liquor",
         "address": "503 8th St SE, Washington, DC 20003",
         "locations": "Retail",
@@ -1396,7 +1397,7 @@
         ]
     },
     {
-        "id": "wTQp1NPbyFYMY6iLe5lz0",
+        "id": "B1xxHm-6k24m3ww2fRhPv",
         "name": "Little Red Fox",
         "address": "5035 Connecticut Ave. NW, Washington, DC 20008",
         "locations": "Restaurant/Retail",
@@ -1406,7 +1407,7 @@
         ]
     },
     {
-        "id": "EIYCc5xtXmtQd5QLIhLpb",
+        "id": "rs0whMxZ42NNr6H--hu1D",
         "name": "C&O Restaurant",
         "address": "515 E Water St, Charlottesville, VA 22902",
         "locations": "Restaurant",
@@ -1415,7 +1416,7 @@
         ]
     },
     {
-        "id": "Tegxws10kVgYTEr-q9npj",
+        "id": "c1o43HMEtDS-JLJ9AXMLB",
         "name": "Paul's Discount Liquor",
         "address": "5205 Wisconsin Ave NW, Washington, DC 20015",
         "locations": "Retail",
@@ -1426,7 +1427,7 @@
         ]
     },
     {
-        "id": "gO6DWsfFCMWLQ4NlcvGtq",
+        "id": "ntXaLFNTo9VbZu-_IOw4R",
         "name": "Amber Ox Kitchen & Brewery",
         "address": "521 Prince George St., Williamsburg, VA 23185",
         "locations": "Restaurant",
@@ -1436,7 +1437,7 @@
         ]
     },
     {
-        "id": "Y8fafNndkcLdr3s9ThUM6",
+        "id": "IvBshPoMfKPjdixJWRVmD",
         "name": "Prosperity Kitchen & Pantry",
         "address": "532 Virginia Beach Blvd Ste B, Virginia Beach, VA 23451",
         "locations": "Restaurant",
@@ -1447,7 +1448,7 @@
         ]
     },
     {
-        "id": "v-4O7QuFmuwQyND9AJd_m",
+        "id": "W-eorsxr_BCsD767nGE2S",
         "name": "Savannah Wine Cellar",
         "address": "5500 Abercorn St, Savannah, GA 31405",
         "locations": "Restaurant/Retail",
@@ -1459,7 +1460,7 @@
         ]
     },
     {
-        "id": "NpPhzflMvypnC2rdJgnf1",
+        "id": "GIWtrYqvwncbLE7ar2zN3",
         "name": "Clay Restaurant",
         "address": "553 Manhattan Ave , Manhattan, NY 10027",
         "locations": "Restaurant",
@@ -1469,7 +1470,7 @@
         ]
     },
     {
-        "id": "MP7GRu7rNsn0YjglGNhqg",
+        "id": "jLGV5FY6rEwSTOJwU5JG7",
         "name": "Taste - Westhampton",
         "address": "5706 Grove Ave Ste 100, Richmond, VA 23226",
         "locations": "Restaurant/Retail",
@@ -1481,7 +1482,7 @@
         ]
     },
     {
-        "id": "lB3O1yXWG7HKjU0DTecGp",
+        "id": "qjuEZhER6xEZAQh3tUr8m",
         "name": "J Emerson",
         "address": "5716 Grove Ave, Richmond, VA 23226",
         "locations": "Retail",
@@ -1494,7 +1495,7 @@
         ]
     },
     {
-        "id": "NdHqOT8nxZC3bxv-e0OyB",
+        "id": "kuREEmKy-KaEEvpXwN3iv",
         "name": "Barrel Thief",
         "address": "5805 Patterson Ave, Richmond, VA 23226",
         "locations": "Restaurant/Retail",
@@ -1505,7 +1506,7 @@
         ]
     },
     {
-        "id": "wvR7qRTNJmlOP479jg1Hr",
+        "id": "vvFFpGhS8a7KECkeCBXzi",
         "name": "Buck's Fishing",
         "address": "5031 Connecticut Ave NW, Washington, DC 20008",
         "locations": "Restaurant",
@@ -1514,7 +1515,7 @@
         ]
     },
     {
-        "id": "v2Zk5RFQ-ixcm4RW4pfhE",
+        "id": "0UHrSQQR4JRAzQP_dHkcw",
         "name": "Vyne Yard",
         "address": "594 Rogers Ave, Brooklyn, NY 11225",
         "locations": "Retail",
@@ -1523,7 +1524,7 @@
         ]
     },
     {
-        "id": "s8bzGFDPXH8CElHBhF-2q",
+        "id": "aekuhyhQAnS9AhnMRXhNC",
         "name": "Balducci's - Alexandria",
         "address": "600 Franklin St, Alexandria, VA 22314",
         "locations": "Retail",
@@ -1536,7 +1537,7 @@
         ]
     },
     {
-        "id": "UVkxJiNPnv5FwNQrfk2uo",
+        "id": "8tQdWTLjUaBpRZ9bVWS0U",
         "name": "Whole Foods - H Street",
         "address": "600-A H Street, NE, Washington, DC 20002",
         "locations": "Restaurant/Retail",
@@ -1546,7 +1547,7 @@
         ]
     },
     {
-        "id": "iiQ6XkgoBdHH0JjIQpFj_",
+        "id": "vGGxY_IX0y4VcINMJtA8O",
         "name": "Roosevelt",
         "address": "623 N. 25th St., Richmond, VA 23223",
         "locations": "Restaurant",
@@ -1556,7 +1557,7 @@
         ]
     },
     {
-        "id": "fnEsZ1JG3qQUsj94sDTzX",
+        "id": "Kc6oMhqwJPyIcnYjtKWBk",
         "name": "Wardman Wines",
         "address": "625 Monroe St. NE, Ste.#A7, Washington, DC 20007",
         "locations": "Retail",
@@ -1566,7 +1567,7 @@
         ]
     },
     {
-        "id": "HwIdbCcA2eNGs4wAdogQy",
+        "id": "j5sRgjX0Yycslg1iRZ6Dy",
         "name": "Grape D'Vine",
         "address": "6 Depot Square, Sparkill, NY 10976",
         "locations": "Retail",
@@ -1575,7 +1576,7 @@
         ]
     },
     {
-        "id": "stGbigZR7R_bTDZgxBOU8",
+        "id": "CQquULYqg5qEclCNG_VcX",
         "name": "High Street on Hudson",
         "address": "637 Hudson St, Manhattan, NY 10014",
         "locations": "Restaurant",
@@ -1585,7 +1586,7 @@
         ]
     },
     {
-        "id": "1v3vA3ynbdmS3-AoD0GRR",
+        "id": "0Kto6zcHhgSUf-cVc0oRb",
         "name": "Olmsted",
         "address": "659 Vanderbilt Ave, Brooklyn, NY 11238",
         "locations": "Restaurant",
@@ -1595,7 +1596,7 @@
         ]
     },
     {
-        "id": "t3s6oFNzRc8K0pGCsVwVD",
+        "id": "8XlelliuCUmtMzfSqHzD2",
         "name": "Hazel Jane's",
         "address": "670 Dekalb Ave, Atlanta, GA 30307",
         "locations": "Restaurant/Retail",
@@ -1606,7 +1607,7 @@
         ]
     },
     {
-        "id": "wdvqJHdeHtoCi4Xrms_WQ",
+        "id": "2T-d6Ew_hyzkTvD2pbSJq",
         "name": "Greenwood",
         "address": "6701 Rockfish Gap TPK, Crozet, VA 22932",
         "locations": "Retail",
@@ -1621,7 +1622,7 @@
         ]
     },
     {
-        "id": "OdL9__ZIxr0QUQk5eYgte",
+        "id": "FmNPzvSspwpJEevko4CyJ",
         "name": "Organic Butcher of McLean",
         "address": "6712 Old Dominion Drive, McLean, VA 22101",
         "locations": "Retail",
@@ -1636,7 +1637,7 @@
         ]
     },
     {
-        "id": "ZqFJRXzIjlYN26CMAYQ77",
+        "id": "thGq_cPNN1vtUb_GNa_ps",
         "name": "Bon Ton",
         "address": "674 Myrtle Street NE , ATLANTA, GA 30308",
         "locations": "Restaurant",
@@ -1645,7 +1646,7 @@
         ]
     },
     {
-        "id": "6I5QDPlwKmq5A79K2SiBs",
+        "id": "C79NuEkFIUJMlEZ_xiRiV",
         "name": "Ashby Inn",
         "address": "692 Federal St, Paris, VA 20130",
         "locations": "Restaurant",
@@ -1655,7 +1656,7 @@
         ]
     },
     {
-        "id": "zGYjUObJE3hU31FPjveoC",
+        "id": "g7gJKajVNU6I_RaZ40raf",
         "name": "Press 626",
         "address": "626 West Olney Rd., Norfolk, VA 23507",
         "locations": "Restaurant/Retail",
@@ -1664,7 +1665,7 @@
         ]
     },
     {
-        "id": "mL6QG7xxBCQIS7TM7iiJC",
+        "id": "JARE7CqUh1vmK91qdLtG2",
         "name": "Rose's at Home",
         "address": "731 8th Street SE, Washington, DC 20003",
         "locations": "Restaurant",
@@ -1673,7 +1674,7 @@
         ]
     },
     {
-        "id": "kAYU7BUCnKynHEeQ9GtSk",
+        "id": "bsrHpFtIw32bdA5JeCB1m",
         "name": "Wine Cellar- Staunton",
         "address": "8 Byers St., Staunton, VA 24401",
         "locations": "Retail",
@@ -1685,7 +1686,7 @@
         ]
     },
     {
-        "id": "0YVI0CmaqI2XdflZEoaDW",
+        "id": "P4n1keMdHQv-oWWEqT878",
         "name": "Whole Foods - Tysons",
         "address": "7511 Leesburg Pike, Falls Church, VA 22043",
         "locations": "Restaurant/Retail",
@@ -1694,7 +1695,7 @@
         ]
     },
     {
-        "id": "gUtC7zaBcdH4nsZha4PlY",
+        "id": "_ewLDJy_Zs9Yj8e0DREyz",
         "name": "Heirloom Cafe",
         "address": "815 N Chase St, Athens, GA 30601",
         "locations": "Restaurant",
@@ -1704,7 +1705,7 @@
         ]
     },
     {
-        "id": "0FzyBYo5e7MAORcAFkscC",
+        "id": "0XI8rrOg4JwKs1IA-PrTg",
         "name": "Heirloom Café",
         "address": "815 N Chase St, Athens, GA 30601",
         "locations": "Restaurant/Retail",
@@ -1713,7 +1714,7 @@
         ]
     },
     {
-        "id": "OCXYTfdJJLTtpdkMXtgXH",
+        "id": "MlyTAmMQbf6pU5JAjpzqw",
         "name": "Local, The",
         "address": "824 Hinton Ave, Charlottesville, VA 22901",
         "locations": "Restaurant",
@@ -1722,7 +1723,7 @@
         ]
     },
     {
-        "id": "c_fVlZlU-Roo9FeFwZqKI",
+        "id": "VVTPYXdAWNzk28e0Ug7GI",
         "name": "Hill of Content",
         "address": "833 Tinsley Dr,, Charlottesville, VA 22732",
         "locations": "Restaurant",
@@ -1732,7 +1733,7 @@
         ]
     },
     {
-        "id": "Ofx-uQ0N8O4DI_WEb7e15",
+        "id": "h6SH9p41_kba5xq1XbZY3",
         "name": "Field & Main",
         "address": "8369 W. Main St., Marshall, VA 20115",
         "locations": "Restaurant/Retail",
@@ -1742,7 +1743,7 @@
         ]
     },
     {
-        "id": "UVrKZe4tkWNY7nV4v9TLT",
+        "id": "Vq0gtGSe_GaXkxB1Vf-K7",
         "name": "Whole Foods - Springfield",
         "address": "8402 Old Keene Mill Road, Springfield, VA 22152",
         "locations": "Restaurant/Retail",
@@ -1751,7 +1752,7 @@
         ]
     },
     {
-        "id": "J2lP5lcPbCGsLNl-eG0YV",
+        "id": "ZuRN8Tv-elIOxPZhzrcyf",
         "name": "Enologo",
         "address": "857 9th Ave, Manhattan, NY 10019",
         "locations": "Restaurant",
@@ -1760,7 +1761,7 @@
         ]
     },
     {
-        "id": "fvQZiAtPB7a7NbADjbZsh",
+        "id": "mTDZSFmW3b47_yxBaz2rD",
         "name": "Parc de Ville",
         "address": "8296 Glass Alley, Ste 110, Fairfax, VA 22031",
         "locations": "Restaurant",
@@ -1769,7 +1770,7 @@
         ]
     },
     {
-        "id": "S25cMlDD7xvOiWwRBlvQI",
+        "id": "inXqp5yK2GF2hEUOAMfTx",
         "name": "Washington Street Purveyors",
         "address": "9 E Washington St, Lexington, VA 24450",
         "locations": "Retail",
@@ -1778,7 +1779,7 @@
         ]
     },
     {
-        "id": "n7jUk0a_3A_z99SEwKM5B",
+        "id": "NEq4BfwOGdzUCUI4KUwOT",
         "name": "Olivino",
         "address": "905 Fulton Street , Brooklyn, NY 11238",
         "locations": "Retail",
@@ -1788,7 +1789,7 @@
         ]
     },
     {
-        "id": "x7sBS01e-Q7U4OUQvEX60",
+        "id": "ebzQ5mOOBzQm_kBHoxcr4",
         "name": "Riggs Hotel DC",
         "address": "900 F St NW, Washington, DC 20004",
         "locations": "Restaurant",
@@ -1797,7 +1798,7 @@
         ]
     },
     {
-        "id": "G_SmW5-HkDcWx4t4j9dUO",
+        "id": "LWvy9heQDF8n3KiMlONSX",
         "name": "Succotash",
         "address": "915 F St. NW, Washington, DC 20004",
         "locations": "Restaurant",
@@ -1806,7 +1807,7 @@
         ]
     },
     {
-        "id": "NYD-j9qDagEeoIdWkKVwr",
+        "id": "kZbHD5vXRtGqQwDE5esvK",
         "name": "Mona Lisa",
         "address": "921 Preston Ave, Charlottesville, VA 22903",
         "locations": "Retail",
@@ -1820,7 +1821,7 @@
         ]
     },
     {
-        "id": "jzu_wTLuMzoXQXJA3pS3x",
+        "id": "rdmgRk1eyuDSrQPAjK2CB",
         "name": "Public Square",
         "address": "92 N Public Square, Jefferson, GA 30549",
         "locations": "Restaurant/Retail",
@@ -1829,7 +1830,7 @@
         ]
     },
     {
-        "id": "kb1lI4M2jryCwAeSFr-wP",
+        "id": "h5z1UZqpBHBweTsJFlPjQ",
         "name": "Racines",
         "address": "94 Chambers St, Manhattan, NY 10007",
         "locations": "Restaurant",
@@ -1838,7 +1839,7 @@
         ]
     },
     {
-        "id": "8qjonUGD6Frp54HKCUXW-",
+        "id": "3qCvjHEDOoMhYtQXOVisF",
         "name": "Please Bring Chips",
         "address": "951 V St. NE, Washington, DC 20018",
         "locations": "Restaurant",
@@ -1847,7 +1848,7 @@
         ]
     },
     {
-        "id": "Wyk5CT9vcWnYyUP9NTse8",
+        "id": "BUg_2Ib4cQCagIJgExMLX",
         "name": "Newtown Baking",
         "address": "960 W Beverlely Street, Staunton, VA 244001",
         "locations": "Retail",
@@ -1856,7 +1857,7 @@
         ]
     },
     {
-        "id": "a1k8Ce1sb8drCePho-WOP",
+        "id": "Dbn0oAS7_qqq1jW6bFqWR",
         "name": "Hot Cakes",
         "address": "Barracks Road Shopping Center, Charlottesville, VA 22903",
         "locations": "Retail",
@@ -1865,7 +1866,7 @@
         ]
     },
     {
-        "id": "OxizHRo0V1M8FR3nYViSX",
+        "id": "WvZ3GNV4zvtSkhw7hlB90",
         "name": "Montgomery Co. Dept. of Liquor Control",
         "address": "Division of Financial, Gaithersburg, MD 20878",
         "locations": "Retail",
@@ -1874,7 +1875,7 @@
         ]
     },
     {
-        "id": "5Xm_7fpQWt5gGe5xbA9-n",
+        "id": "ESwtJrVmdrKVqFuz7E2oR",
         "name": "Fat Canary",
         "address": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
         "locations": "Restaurant",
@@ -1888,7 +1889,7 @@
         ]
     },
     {
-        "id": "-O3d8i98lP5Usat_9v6Lq",
+        "id": "aT3NP1XnZxNtprGSO6gYy",
         "name": "Thornton River Grille",
         "address": "Thornton River Grille, Sperryville, VA 22740",
         "locations": "Restaurant",
