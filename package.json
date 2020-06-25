@@ -1,0 +1,29 @@
+{
+  "name": "csv-converter-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "type": "module",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "dependencies": {
+    "colors": "1.4.0",
+    "csv-parse": "4.10.1",
+    "lodash": "4.17.15",
+    "nanoid": "2.1.10",
+    "progress": "2.0.3",
+    "prompts": "2.3.0",
+    "should": "13.2.3",
+    "yargs": "15.1.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.149",
+    "@types/nanoid": "2.1.0",
+    "@types/node": "13.5.1",
+    "@types/yargs": "15.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
