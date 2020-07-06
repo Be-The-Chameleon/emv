@@ -1,4 +1,4 @@
-name: Generate Accounts JSON
+name: Generate Media
 
 on:
   schedule:
