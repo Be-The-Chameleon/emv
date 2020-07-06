@@ -4,8 +4,7 @@ import {cwd} from 'process';
 
 const apiUrl = 'https://graph.instagram.com';
 
-const getInstagramData = async () => {
-    const accessToken = process.env.ACCESS_TOKEN;
+const setData = async (accessToken, fileName) => {
     const response = await fetch(`${apiUrl}/me?access_token=${accessToken}&fields=media`);
     const user = await response.json();
     const mediaIds = user.media.data.map((m) => m.id);
@@ -17,7 +16,8 @@ const getInstagramData = async () => {
     });
     const media = await Promise.all(mediaPromises);
 
-    writeFileSync(`${cwd()}/media.json`, JSON.stringify(media, null, 4));
+    writeFileSync(`${cwd()}/${fileName}`, JSON.stringify(media, null, 4));
 };
 
-getInstagramData();
+setData(process.env.MAIN_ACCESS_TOKEN, 'main-media.json');
+setData(process.env.WEDDING_ACCESS_TOKEN, 'wedding-media.json');

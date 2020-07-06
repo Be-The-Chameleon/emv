@@ -16,7 +16,8 @@ jobs:
           node-version: 13.2.0
       - name: Generate Media
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          MAIN_ACCESS_TOKEN: ${{ secrets.MAIN_ACCESS_TOKEN }}
+          WEDDING_ACCESS_TOKEN: ${{ secrets.WEDDING_ACCESS_TOKEN }}
         run: |
           yarn
           yarn media
