@@ -16,6 +16,8 @@ jobs:
         with:
           node-version: 13.2.0
       - name: Generate Media
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           yarn
           yarn media
@@ -26,4 +28,3 @@ jobs:
           commit_message: 'Generate Media'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
