@@ -5,13 +5,15 @@
   "main": "convert.js",
   "type": "module",
   "scripts": {
-    "convert": "node convert.js"
+    "convert": "node convert.js",
+    "media": "node instagram-data.js"
   },
   "dependencies": {
     "colors": "1.4.0",
     "csv-parse": "4.10.1",
     "lodash": "4.17.15",
     "nanoid": "2.1.10",
+    "node-fetch": "^2.6.0",
     "progress": "2.0.3",
     "prompts": "2.3.0",
     "should": "13.2.3",
