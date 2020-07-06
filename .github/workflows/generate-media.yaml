@@ -2,7 +2,7 @@ name: Generate Accounts JSON
 
 on:
   schedule:
-    23 2 * * *
+    23 3 * * *
 
 jobs:
   build:
