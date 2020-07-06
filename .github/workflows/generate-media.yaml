@@ -1,8 +1,9 @@
 name: Generate Media
 
 on:
-  schedule:
-    - cron: '10 23 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   build:
