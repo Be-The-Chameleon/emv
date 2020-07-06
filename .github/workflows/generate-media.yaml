@@ -2,7 +2,7 @@ name: Generate Media
 
 on:
   schedule:
-    - cron: '23 5 * * *'
+    - cron: '7 23 * * *'
 
 jobs:
   build:
