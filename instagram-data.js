@@ -10,13 +10,14 @@ const setData = async (accessToken, fileName) => {
     const mediaIds = user.media.data.map((m) => m.id);
 
     const mediaPromises = mediaIds.map(async (id) => {
-        const mediaItem = await fetch(`${apiUrl}/${id}?access_token=${accessToken}&fields=caption,media_url`);
+        const mediaItem = await fetch(`${apiUrl}/${id}?access_token=${accessToken}&fields=caption,media_url,media_type`);
 
         return mediaItem.json();
     });
     const media = await Promise.all(mediaPromises);
+    const filteredMedia = media.filter((m) => m.media_type === 'IMAGE');
 
-    writeFileSync(`${cwd()}/${fileName}`, JSON.stringify(media, null, 4));
+    writeFileSync(`${cwd()}/${fileName}`, JSON.stringify(filteredMedia, null, 4));
 };
 
 setData(process.env.MAIN_ACCESS_TOKEN, 'main-media.json');
