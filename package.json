@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "convert": "node convert.js",
-    "media": "node instagram-data.js"
+    "media": "node instagram-data.js",
+    "renew": "node update-access-tokens.js"
   },
   "dependencies": {
     "colors": "1.4.0",
@@ -17,6 +18,7 @@
     "progress": "2.0.3",
     "prompts": "2.3.0",
     "should": "13.2.3",
+    "tweetsodium": "^0.0.5",
     "yargs": "15.1.0"
   },
   "devDependencies": {

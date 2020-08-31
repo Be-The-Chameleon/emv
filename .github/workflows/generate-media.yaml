@@ -2,7 +2,7 @@ name: Generate Media
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 5 * * *'
   watch:
     types: [started]
 
