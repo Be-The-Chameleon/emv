@@ -3,6 +3,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "7DVCAK_hzyENhQHV8xVKo",
 =======
         "id": "Os06y8GB9t5z9gDv9aeCa",
@@ -99,6 +100,24 @@
         "id": "KQ6clJyW20EQzVhQdgypp",
         "name": "Arrowine",
 >>>>>>> Stashed changes
+=======
+        "id": "NtLPx77yOPWjSjbWDY26M",
+        "name": "Alewife",
+        "address": {
+            "street": "3120 E Marshall St., Richmond, VA 23223-7437",
+            "lat": "37.5288799",
+            "lon": "-77.4116006"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Pétillant Naturel Red",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "JqYjdtV9q985fHentFfID",
+        "name": "Arrowine",
+>>>>>>> Stashed changes
         "address": {
             "street": "4508 Lee Hwy, Arlington, VA 22207",
             "lat": "38.8983733",
@@ -107,6 +126,7 @@
         "locations": "Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "Foothills",
             "Pétillant Naturel White",
             "Shenandoah Valley Cabernet Franc",
@@ -184,12 +204,23 @@
 =======
         "id": "u_NwZOXQwPDECISTa5cwS",
 >>>>>>> Stashed changes
+=======
+            "Chardonnay",
+            "Foothills",
+            "Pétillant Naturel White",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "TC9RD2vKPpsfHwPG6hHd7",
+>>>>>>> Stashed changes
         "name": "Barrel Thief",
 =======
         "id": "effHjftRwNjJcWlpX3Fkc",
         "name": "Beer Run",
 >>>>>>> Stashed changes
         "address": {
+<<<<<<< Updated upstream
             "street": "156 Carlton Rd Ste 203, Charlottesville, VA 22902",
             "lat": "38.0246361",
             "lon": "-78.468401"
@@ -211,6 +242,22 @@
 =======
         "id": "tDJuJvEhZrvzeUjq0lkJB",
 >>>>>>> Stashed changes
+=======
+            "street": "5805 Patterson Ave, Richmond, VA 23226",
+            "lat": "37.2235279",
+            "lon": "-79.982868"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Foothills",
+            "Pétillant Naturel White",
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "I1f6ex1pK9QWrTqkKXK4a",
+>>>>>>> Stashed changes
         "name": "Bottleworks",
 =======
         "id": "gqOX8L-UslpJFnKFYmgI_",
@@ -230,6 +277,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "Uo9HtEm0RM2GNhTl2zVpA",
 =======
         "id": "dGO7mh9J3RqkKq-QYjidh",
@@ -241,11 +289,16 @@
         "id": "Tv-g23-U0qsmSrdvtK6Pu",
 >>>>>>> Stashed changes
         "name": "Caboose",
+=======
+        "id": "bqtuKJjD90AUTi6-qc9Ql",
+        "name": "Cairo Wine & Liquor",
+>>>>>>> Stashed changes
         "address": {
-            "street": "108 S. Railroad Ave., Ashland, VA 23005",
-            "lat": "37.758286",
-            "lon": "-77.4816338"
+            "street": "1618 17th St NW, Washington, DC 20009",
+            "lat": "38.9117809",
+            "lon": "-77.0387481"
         },
+<<<<<<< Updated upstream
         "locations": "Restaurant/Retail",
         "wines": [
             "Chardonnay",
@@ -373,9 +426,55 @@
             "street": "501 Virginia Beach Blvd. Ste. B, Virginia Beach, VA 23451",
             "lat": "36.8441296",
             "lon": "-75.9793877"
-        },
-        "locations": "Restaurant",
+=======
+        "locations": "Retail",
         "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "pishTSj9UKlTh7TnC7Z0r",
+        "name": "Crystal City Wine Shop",
+        "address": {
+            "street": "220 20th St. South, Arlington, VA 22202",
+            "lat": "38.85597",
+            "lon": "-77.0500304"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills",
+            "Petit Manseng",
+            "Rosé",
+            "Five Forks",
+            "Young Wine",
+            "RISE"
+        ]
+    },
+    {
+        "id": "LVzRD05XZ72vMblnzsZsS",
+        "name": "Crystal Palate",
+        "address": {
+            "street": "4500 Pretty Lake Avenue, Norfolk, VA 23518",
+            "lat": "36.925493",
+            "lon": "-76.1880817"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "QziXKCt6iD2eJR1t0A9L3",
+        "name": "Department of Beer & Wine",
+        "address": {
+            "street": "2724 Richmond Hwy, Alexandria, VA 22301",
+            "lat": "38.830645",
+            "lon": "-77.051175"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -433,9 +532,46 @@
         "locations": "Restaurant/Retail",
         "wines": [
             "Five Forks",
+=======
+            "Foothills",
+            "Rosé",
+            "Five Forks",
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "lw5TCvHSUMvEavXzCq53N",
+        "name": "Dominion Wine and Beer",
+        "address": {
+            "street": "107 Rowell Ct., Falls Church, VA 22046-3126",
+            "lat": "38.8897048",
+            "lon": "-77.183834"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Chardonnay",
+            "Petit Manseng",
+            "Rosé",
+            "Foothills",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "lNg7hlEUhZ0yqivRzgp7w",
+        "name": "Ellwood Thompson",
+        "address": {
+            "street": "4 N Thompson St, Richmond, VA 23221",
+            "lat": "37.5574421",
+            "lon": "-77.4886194"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Eluvium",
+>>>>>>> Stashed changes
             "Foothills",
             "Rosé",
             "Petit Manseng",
+<<<<<<< Updated upstream
             "Chardonnay"
         ]
     },
@@ -459,9 +595,28 @@
             "street": "4 N Thompson St, Richmond, VA 23221",
             "lat": "37.5574421",
             "lon": "-77.4886194"
+=======
+            "Shenandoah Valley Cabernet Franc",
+            "Pétillant Naturel White",
+            "Quaker Run Chardonnay",
+            "Chardonnay",
+            "Five Forks",
+            "Rosé",
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "A3BNh0YD0F838MZ90dBvP",
+        "name": "Commonwealth Club",
+        "address": {
+            "street": "401 W. Franklin Street, Richmond, VA 23220",
+            "lat": "37.5458434",
+            "lon": "-77.447656"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc",
             "Quaker Run Chardonnay",
             "Chardonnay",
@@ -494,9 +649,23 @@
             "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
             "lat": "37.2706994",
             "lon": "-76.7061859"
+=======
+            "Rosé",
+            "RISE"
+        ]
+    },
+    {
+        "id": "GeOz1X0QCi3E86PfzhG9Y",
+        "name": "Foods of All Nations",
+        "address": {
+            "street": "2121 Ivy Rd, Charlottesville, VA 22903",
+            "lat": "38.0432978",
+            "lon": "-78.5119067"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills",
             "Shenandoah Valley Cabernet Franc",
             "Rosé",
@@ -560,10 +729,19 @@
             "Rosé",
             "F & M Red",
             "Eluvium",
+=======
+            "Rosé",
+            "Pétillant Naturel White",
+            "Young Wine",
+            "Shenandoah Valley Cabernet Franc",
+            "Chardonnay",
+            "Foothills",
+>>>>>>> Stashed changes
             "RISE"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -583,9 +761,18 @@
             "street": "2121 Ivy Rd, Charlottesville, VA 22903",
             "lat": "38.0432978",
             "lon": "-78.5119067"
+=======
+        "id": "gwPl4vLtS5XpXPaRw21X7",
+        "name": "Founding Farmers - Reston",
+        "address": {
+            "street": "1904 Reston Metro Plaza, Suite 100, Reston, VA 20190",
+            "lat": "38.9488917",
+            "lon": "-77.3383807"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine",
             "Five Forks",
             "Rosé",
@@ -615,6 +802,18 @@
             "street": "416 W Main St Suite H, Charlottesville, VA 22902",
             "lat": "38.0304142",
             "lon": "-78.4872613"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "HX47ai0X0sOmiDWi32ba9",
+        "name": "Founding Farmers - Tyson's Corner",
+        "address": {
+            "street": "1800 Tyson's Blvd., McLean, VA 22102",
+            "lat": "38.9488917",
+            "lon": "-77.3383807"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -622,6 +821,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -641,9 +841,18 @@
             "street": "1924 Pennsylvania Ave. NW, Washington, DC 20006",
             "lat": "38.9002854",
             "lon": "-77.0445269"
+=======
+        "id": "rdBAyFygge9c7DlFiuIPO",
+        "name": "Glen's Garden Market",
+        "address": {
+            "street": "2001 S St. NW, Washington, DC 20009",
+            "lat": "38.9143274",
+            "lon": "-77.0451575"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -667,15 +876,38 @@
             "street": "1800 Tyson's Blvd., McLean, VA 22102",
             "lat": "38.9223637",
             "lon": "-77.2224625"
-        },
-        "locations": "Restaurant",
-        "wines": [
-<<<<<<< Updated upstream
-            "Chardonnay",
-            "Young Wine Red"
+=======
+            "Foothills",
+            "Rosé",
+            "Pétillant Naturel White",
+            "Shenandoah Valley Cabernet Franc",
+            "Five Forks"
         ]
     },
     {
+        "id": "3eyKp60DJWHwavoR_0JHL",
+        "name": "Greenwood",
+        "address": {
+            "street": "6701 Rockfish Gap TPK, Crozet, VA 22932",
+            "lat": "38.0413202",
+            "lon": "-78.732343"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
+            "Chardonnay",
+            "Rosé",
+            "Pétillant Naturel White",
+            "Five Forks",
+            "Young Wine",
+            "Foothills",
+            "Eluvium",
+            "RISE"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "id": "tcaLwoOnyztdf1iQKVQ-3",
@@ -686,13 +918,18 @@
         "id": "cnKqixaBMjeXXBmqefwDs",
 >>>>>>> Stashed changes
         "name": "Market Street Wine Shop",
+=======
+        "id": "-v8vmj87hVFKwezQd9kOK",
+        "name": "J Emerson",
+>>>>>>> Stashed changes
         "address": {
-            "street": "311 East Market St, Charlottesville, VA 22902",
-            "lat": "38.0310819",
-            "lon": "-78.4790515"
+            "street": "5716 Grove Ave, Richmond, VA 23226",
+            "lat": "37.5733362",
+            "lon": "-77.5180274"
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
             "Eluvium",
             "Five Forks",
@@ -2475,9 +2712,44 @@
             "street": "1635 Boro Place, McLean, VA 22102",
             "lat": "38.9246153",
             "lon": "-77.2335301"
+=======
+            "Foothills",
+            "Rosé",
+            "Pétillant Naturel White",
+            "Chardonnay",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "87hvwTlC5pG0uc-63pdfQ",
+        "name": "Friendly City Food Co-op",
+        "address": {
+            "street": "150 E Wolfe St, Harrisonburg, VA 22802",
+            "lat": "38.4516609",
+            "lon": "-78.8665291"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Foothills",
+            "Pétillant Naturel White",
+            "Petit Manseng",
+            "Young Wine",
+            "RISE"
+        ]
+    },
+    {
+        "id": "evvwb6AVcdxWEK6UKEWOA",
+        "name": "Market Street Wine Shop",
+        "address": {
+            "street": "311 East Market St, Charlottesville, VA 22902",
+            "lat": "38.0310663",
+            "lon": "-78.4789692"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Rosé",
             "Foothills"
@@ -2503,9 +2775,31 @@
             "street": "1797 Hydraulic Road, Charlottesville, VA 22901",
             "lat": "38.059773",
             "lon": "-78.4891351"
+=======
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc",
+            "Chardonnay",
+            "Eluvium",
+            "Foothills",
+            "Pétillant Naturel White",
+            "Petit Manseng",
+            "Young Wine Chambourcin",
+            "Five Forks",
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "xI7CJtJ6Su0e_1_i-9XBb",
+        "name": "Mona Lisa",
+        "address": {
+            "street": "921 Preston Ave, Charlottesville, VA 22903",
+            "lat": "38.038434",
+            "lon": "-78.489901"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Five Forks",
             "Foothills"
@@ -2559,9 +2853,44 @@
             "street": "19800 Belmont Chase Dr, Ashburn, VA 20147",
             "lat": "39.0684834",
             "lon": "-77.4843963"
+=======
+            "Foothills",
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc",
+            "Five Forks",
+            "Young Wine",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "Ly3SKw2N_MpA1kTY8sPMK",
+        "name": "Locke Store",
+        "address": {
+            "street": "2049 Millwood Rd., Millwood, VA 22646",
+            "lat": "39.0695452",
+            "lon": "-78.0379379"
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+            "Rosé",
+            "Pétillant Naturel White",
+            "Eluvium",
+            "Petit Manseng",
+            "Quaker Run Chardonnay"
+        ]
+    },
+    {
+        "id": "-KVwzS0aB_Wj5VlEq7Vrw",
+        "name": "Montgomery Co. Dept. of Liquor Control",
+        "address": {
+            "street": "Division of Financial, Gaithersburg, MD 20878",
+            "lat": "39.139876",
+            "lon": "-77.1926495"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Foothills",
             "Rosé",
             "Five Forks"
@@ -2587,9 +2916,22 @@
             "street": "101 H St. SE, Washington, DC 20003",
             "lat": "38.8802819",
             "lon": "-77.005121"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "1ESxdWnxnzQDjxCTKyt25",
+        "name": "Perch",
+        "address": {
+            "street": "2918 W. Broad Street, Richmond, VA 23230",
+            "lat": "37.5640539",
+            "lon": "-77.4719183"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Five Forks"
         ]
@@ -2640,9 +2982,40 @@
             "street": "5800 Wessex Hundred, Williamsburg, VA 23185",
             "lat": "37.2315138",
             "lon": "-76.718275"
+=======
+            "Foothills",
+            "Petit Manseng",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "u_KKopV3m_5LDeuhiOLXO",
+        "name": "Planet Wine",
+        "address": {
+            "street": "2000-2004 Mount Vernon Ave, Alexandria, VA 22301",
+            "lat": "38.8239944",
+            "lon": "-77.0585361"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc",
+            "Petit Manseng",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "0iyvMuGNZDhWLWZe1uwo3",
+        "name": "Prosperity Kitchen & Pantry",
+        "address": {
+            "street": "532 Virginia Beach Blvd Ste B, Virginia Beach, VA 23451",
+            "lat": "36.8444829",
+            "lon": "-75.9806406"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Eluvium"
         ]
@@ -2686,19 +3059,45 @@
         "id": "88KvUsfgzQdqpmglDBa9E",
 >>>>>>> Stashed changes
         "name": "Live Arts",
+=======
+            "Foothills",
+            "RISE"
+        ]
+    },
+    {
+        "id": "SyAqZbQOjHLRc3bbuXc_k",
+        "name": "Rio Hill Wine & Beer",
         "address": {
-            "street": "123 East Water St, Charlottesville, VA 22902",
-            "lat": "38.0300169",
-            "lon": "-78.4812638"
+            "street": "1908 Rio Hill Center, Charlottesville, VA 22901",
+            "lat": "38.0877905",
+            "lon": "-78.4749043"
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
-            "Five Forks",
+            "Foothills",
+            "Rosé",
+            "Chardonnay",
+            "Eluvium",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "JYcueXL4qCEhx9TRX-mnQ",
+        "name": "Outpost",
+>>>>>>> Stashed changes
+        "address": {
+            "street": "4813 Forest Hill Ave., Richmond, VA 23225-3143",
+            "lat": "37.5211852",
+            "lon": "-77.4878087"
+        },
+        "locations": "Retail",
+        "wines": [
             "Foothills",
 =======
             "Young Wine",
 >>>>>>> Stashed changes
             "Rosé",
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc"
         ]
     },
@@ -2722,6 +3121,20 @@
             "street": "3524 Electric Road, Roanoke, VA 24014",
             "lat": "37.2271841",
             "lon": "-79.9984762"
+=======
+            "Shenandoah Valley Cabernet Franc",
+            "Young Wine",
+            "RISE"
+        ]
+    },
+    {
+        "id": "AeueItbEhEskUS7jijm9Y",
+        "name": "Rustico - Ballston",
+        "address": {
+            "street": "4075 Wilson Blvd., Arlington, VA 22203",
+            "lat": "38.8803079",
+            "lon": "-77.1085112"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -2732,12 +3145,16 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "SsbkQsm2uYMJrvwYkQH4j",
 =======
         "id": "qUbh9veESr132ezgheA16",
 >>>>>>> Stashed changes
 =======
         "id": "VMwcDzbsA276hKTGnyBx-",
+>>>>>>> Stashed changes
+=======
+        "id": "Qfb1dqKOEouIhi3LMiJWT",
 >>>>>>> Stashed changes
         "name": "Roosevelt",
 =======
@@ -2752,6 +3169,7 @@
         "locations": "Restaurant/Retail",
         "wines": [
             "Foothills",
+<<<<<<< Updated upstream
             "Rosé",
             "Eluvium",
             "Five Forks",
@@ -2780,15 +3198,36 @@
             "street": "4680 Monticello Ave Suite 15, Williamsburg, VA 23188",
             "lat": "37.2719211",
             "lon": "-76.7595155"
+=======
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "6DSCc_H6mllsaeLpkFu5E",
+        "name": "Salisbury Country Club",
+        "address": {
+            "street": "13620 W. Salisbury Rd, Midlothian, VA 23113",
+            "lat": "37.5278854",
+            "lon": "-77.6533788"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Foothills",
+<<<<<<< Updated upstream
             "Five Forks",
+=======
+            "Petit Manseng",
+            "Rosé",
+            "Pétillant Naturel White",
+            "Five Forks",
+            "Young Wine",
+>>>>>>> Stashed changes
             "RISE"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -2839,10 +3278,37 @@
         "wines": [
             "Chardonnay",
             "Petit Manseng",
+=======
+        "id": "uN6g9MjBhWmtLAW36N_5K",
+        "name": "Saison",
+        "address": {
+            "street": "23 W Marshall St. Suite A, Richmond, VA 23220",
+            "lat": "37.546819",
+            "lon": "-77.4420934"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Rosé",
+            "Pétillant Naturel White",
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "77Ii3YKfsbJ5-Y4e0vywL",
+        "name": "Stone Tower Winery",
+        "address": {
+            "street": "19925 Hogback Mountain Road, Leesburg, VA 20175",
+            "lat": "39.063064",
+            "lon": "-77.635397"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+>>>>>>> Stashed changes
             "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -2862,9 +3328,18 @@
             "street": "600 Franklin St, Alexandria, VA 22314",
             "lat": "38.7978102",
             "lon": "-77.0479011"
+=======
+        "id": "BdsZOKA4x8LspbOCqppkS",
+        "name": "Taste - Ghent",
+        "address": {
+            "street": "407 W 21st Street, Norfolk, VA 23517-2114",
+            "lat": "36.868141",
+            "lon": "-76.290231"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
             "Eluvium",
             "Young Wine",
@@ -3006,9 +3481,85 @@
             "street": "8510 Patterson Ave., Richmond, VA 23229",
             "lat": "37.5951667",
             "lon": "-77.5639423"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "QzqKC2wNvZDgr2A4KyzEM",
+        "name": "Taste - Headquarters",
+        "address": {
+            "street": "1391 Air Rail Avenue, Virginia Beach, VA 23455",
+            "lat": "36.8929573",
+            "lon": "-76.1918905"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Foothills",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "jLYH_5GOCKUtzUA4SCMxg",
+        "name": "Thornton River Grille",
+        "address": {
+            "street": "Thornton River Grille, Sperryville, VA 22740",
+            "lat": "38.6525114",
+            "lon": "-78.2667447"
         },
         "locations": "Restaurant",
         "wines": [
+            "Chardonnay",
+            "Foothills",
+            "Petit Manseng",
+            "Rosé",
+            "Young Wine",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "LsPlFwIlWTExZM78Gw_Nw",
+        "name": "Unwined Belle View",
+        "address": {
+            "street": "1600 Belle View Blvd., Alexandria, VA 22307",
+            "lat": "38.7761672",
+            "lon": "-77.0597746"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Pétillant Naturel White",
+            "Petit Manseng",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "cBdDZhjkjK_xk4pycugGt",
+        "name": "Unwined Bradlee Shopping Center",
+        "address": {
+            "street": "3690-J King St, Alexandria, VA 22302",
+            "lat": "38.8296628",
+            "lon": "-77.0921948"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "hPVJsLSp6b_Dp9S8_7OkL",
+        "name": "Urban Hang Suite",
+        "address": {
+            "street": "304 E. Broad Street, Richmond, VA 23219",
+            "lat": "37.5441901",
+            "lon": "-77.4388111"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+<<<<<<< Updated upstream
             "Eluvium"
         ]
     },
@@ -3032,9 +3583,22 @@
             "street": "146 Main St, Stanardsville, VA 22973",
             "lat": "38.2973151",
             "lon": "-78.4385435"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "LXtA4oIaROB7gH1ucVjPe",
+        "name": "Taste - Westhampton",
+        "address": {
+            "street": "5706 Grove Ave Ste 100, Richmond, VA 23226-2346",
+            "lat": "37.5732828",
+            "lon": "-77.5173888"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Eluvium",
             "Five Forks",
             "Shenandoah Valley Cabernet Franc"
@@ -3097,10 +3661,52 @@
         "locations": "Retail",
         "wines": [
             "Eluvium",
+=======
             "Rosé"
         ]
     },
     {
+        "id": "VqGT-WHlgbk34GnRs9rxV",
+        "name": "USA Wine Imports:Good Wine",
+        "address": {
+            "street": "327 5th Avenue, Brooklyn, NY 11215",
+            "lat": "40.6724091",
+            "lon": "-73.9833358"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "WIMoMBZikAPFMBAzuL_C2",
+        "name": "USA Wine Imports:Kings County Wines",
+        "address": {
+            "street": "1420 Cortelyou Road, Brooklyn, NY 11226",
+            "lat": "40.6724091",
+            "lon": "-73.9833358"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "O3KgxX-8dqwlh6bD9J1si",
+        "name": "USA Wine Imports:Sorso Wine Boutique",
+        "address": {
+            "street": "1069 Bedford Avenue, Brooklyn, NY 11216",
+            "lat": "40.6724091",
+            "lon": "-73.9833358"
+        },
+        "locations": "Retail",
+        "wines": [
+>>>>>>> Stashed changes
+            "Rosé"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3150,9 +3756,33 @@
             "street": "623 N. 25th St., Richmond, VA 23223",
             "lat": "37.534897",
             "lon": "-77.4154189"
+=======
+        "id": "H_fjYHWpkGRFdBp82Vg_r",
+        "name": "W2 Wines, LLC",
+        "address": {
+            "street": "16031 Hillsboro Road, Purcellville, VA 20132",
+            "lat": "39.173889",
+            "lon": "-77.725546"
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+            "Petit Manseng",
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "kc7DYEz0GP4gpnL5tZnXI",
+        "name": "USA Wine Imports:Zap Wines & Spirits",
+        "address": {
+            "street": "105 Court Street, Brooklyn, NY 11201",
+            "lat": "40.6724091",
+            "lon": "-73.9833358"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Five Forks"
         ]
     },
@@ -3176,9 +3806,22 @@
             "street": "670 Dekalb Ave, Atlanta, GA 30307",
             "lat": "33.7535491",
             "lon": "-84.3655673"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "FhxgTFJ7b6AvTVVd-sl1c",
+        "name": "Wardman Wines",
+        "address": {
+            "street": "625 Monroe St. NE, Ste.#A7, Washington, DC 20007",
+            "lat": "38.9318318",
+            "lon": "-76.9971246"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks"
         ]
     },
@@ -3202,9 +3845,22 @@
             "street": "2095 South Milledge, Athens, GA 30605",
             "lat": "33.9229175",
             "lon": "-83.377894"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "rdR3ptBSqE8c-7BgBZJzc",
+        "name": "Westside Produce & Provisions",
+        "address": {
+            "street": "5015 Colley Ave., Norfolk, VA 23508-2039",
+            "lat": "36.8890919",
+            "lon": "-76.2954496"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Rosé"
         ]
@@ -3229,9 +3885,27 @@
             "street": "3730 Winterfield Rd., Midlothian, VA 23113",
             "lat": "37.5535346",
             "lon": "-77.6685934"
+=======
+            "Chardonnay",
+            "Eluvium",
+            "Foothills",
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "dO3ChaYX5kNQw-KghCDnB",
+        "name": "Whole Foods - Ashburn",
+        "address": {
+            "street": "19800 Belmont Chase Dr, Ashburn, VA 20147",
+            "lat": "39.0684834",
+            "lon": "-77.4843963"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Foothills",
             "Rosé",
@@ -3253,13 +3927,24 @@
         "id": "SybAHnmE2YtVFvfWT-JyB",
 >>>>>>> Stashed changes
         "name": "Whole Foods - Florida Ave",
+=======
+            "Foothills",
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "GyrkgutRlzhcdeEMgDhlk",
+        "name": "Whole Foods - Boro Tysons",
+>>>>>>> Stashed changes
         "address": {
-            "street": "FAV - BU# 10651, Washington, DC 20001",
-            "lat": "38.912068",
-            "lon": "-77.0190228"
+            "street": "1635 Boro Place, McLean, VA 22102",
+            "lat": "38.9246153",
+            "lon": "-77.2335301"
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Rosé"
         ]
@@ -3302,12 +3987,37 @@
 =======
         "id": "ZfYUjLs8tk4HP8ezz37aY",
 >>>>>>> Stashed changes
+=======
+            "Foothills",
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "J6Ug_QXfhjbGUiaf9LuXp",
+        "name": "Whole Foods - Charlottesville",
+        "address": {
+            "street": "1797 Hydraulic Road, Charlottesville, VA 22901",
+            "lat": "38.059773",
+            "lon": "-78.4891351"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills",
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "24lsiojaczC9ezCsjhp9a",
+>>>>>>> Stashed changes
         "name": "Whole Foods - H Street",
 =======
         "id": "o7bsAa80qMUbvqH72w02V",
         "name": "Whole Foods - Virginia Beach",
 >>>>>>> Stashed changes
         "address": {
+<<<<<<< Updated upstream
             "street": "1800 Laskin Road, Virginia Beach, VA 23454",
             "lat": "36.8509319",
             "lon": "-76.0281576"
@@ -3339,9 +4049,30 @@
             "street": "1837 Broadway Street, Charlottesville, VA 22902",
             "lat": "38.0195964",
             "lon": "-78.4553634"
+=======
+            "street": "600-A H Street, NE, Washington, DC 20002",
+            "lat": "38.9005142",
+            "lon": "-76.9976267"
         },
         "locations": "Restaurant/Retail",
         "wines": [
+            "Foothills",
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "7FCg3VTINPeMUKDs3ldnz",
+        "name": "Washington Street Purveyors",
+        "address": {
+            "street": "9 E Washington St, Lexington, VA 24450",
+            "lat": "37.7845823",
+            "lon": "-79.441534"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Foothills",
             "Rosé",
@@ -3369,9 +4100,22 @@
             "street": "3068 Mt Pleasant St NW, Washington, DC 20009",
             "lat": "38.928548",
             "lon": "-77.0375272"
+=======
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "BUZ2H6LTLzlsK978xZEvK",
+        "name": "Wine Gourmet",
+        "address": {
+            "street": "3524 Electric Road, Roanoke, VA 24014-1109",
+            "lat": "37.2271841",
+            "lon": "-79.9984762"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -3386,20 +4130,34 @@
 =======
         "id": "yQrIz0I-iHF_nN-38T7A7",
 >>>>>>> Stashed changes
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "eLVWQ3JBqG8n09Lq5lIng",
+>>>>>>> Stashed changes
         "name": "Wine Seller - Williamsburg",
 =======
         "id": "jNbMw9q_voePdP5yMVVHH",
         "name": "Fat Canary",
 >>>>>>> Stashed changes
         "address": {
+<<<<<<< Updated upstream
             "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
             "lat": "37.2706994",
             "lon": "-76.7061859"
+=======
+            "street": "4680 Monticello Ave Suite 15, Williamsburg, VA 23188",
+            "lat": "37.2719211",
+            "lon": "-76.7595155"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
             "Foothills",
             "Rosé",
+<<<<<<< Updated upstream
             "Five Forks",
             "Shenandoah Valley Cabernet Franc",
             "Eluvium"
@@ -3453,6 +4211,20 @@
             "street": "206 North Shields Avenue, Richmond, VA 23220",
             "lat": "37.5530887",
             "lon": "-77.4668696"
+=======
+            "Pétillant Naturel White",
+            "Five Forks",
+            "RISE"
+        ]
+    },
+    {
+        "id": "yCI3ypx7cFN2LGV6WUrbL",
+        "name": "Whole Foods - West Broad",
+        "address": {
+            "street": "2024 W Broad Street, Richmond, VA 23220",
+            "lat": "37.5581958",
+            "lon": "-77.4612166"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
@@ -3460,6 +4232,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3534,9 +4307,45 @@
             "street": "3120 E Marshall St., Richmond, VA 23223",
             "lat": "37.5288799",
             "lon": "-77.4116006"
+=======
+        "id": "S4tOLNOquazQie0NjWcFm",
+        "name": "67 Liquor Shop",
+        "address": {
+            "street": "179 Columbus Ave, New York, NY 10023",
+            "lat": "40.7746082",
+            "lon": "-73.9805925"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "lwrO6s8v__PkV_cnuohzH",
+        "name": "Arrowine",
+        "address": {
+            "street": "4508 Lee Hwy, Arlington, VA 22207",
+            "lat": "38.8983733",
+            "lon": "-77.1183586"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "WV-GI4MTrSTVmXp7AoOuz",
+        "name": "Barrel Thief",
+        "address": {
+            "street": "5805 Patterson Ave, Richmond, VA 23226",
+            "lat": "37.2235279",
+            "lon": "-79.982868"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel White",
             "Pétillant Naturel Red"
         ]
@@ -3588,10 +4397,39 @@
             "street": "155 Irving Ave, Brooklyn, NY 11237",
             "lat": "40.7026833",
             "lon": "-73.9205791"
+=======
+            "Foothills",
+            "Rosé",
+            "Petit Manseng",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "8N_hI5vhWnER1RJVqzHsN",
+        "name": "Alewife",
+        "address": {
+            "street": "3120 E Marshall St., Richmond, VA 23223-7437",
+            "lat": "37.5288799",
+            "lon": "-77.4116006"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "AXDji73SyGeeIQYJfICvx",
+        "name": "Broken Tulip",
+        "address": {
+            "street": "3129 W. Cary Street, Richmond, VA 23221",
+            "lat": "37.5532674",
+            "lon": "-77.481503"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Pétillant Naturel White",
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -3670,9 +4508,48 @@
             "street": "35246 Harry Byrd Hwy Ste. 100, Round Hill, VA 20141",
             "lat": "39.1277991",
             "lon": "-77.7873132"
+=======
+            "Young Wine Chambourcin"
+        ]
+    },
+    {
+        "id": "jfR3EX4nVwgwE-a0CCEAb",
+        "name": "Blacksburg Wine Lab",
+        "address": {
+            "street": "400 Turner St. NW, Blacksburg, VA 24060",
+            "lat": "37.2331938",
+            "lon": "-80.421742"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "p5SeWEj2GCvwATvZFhqSa",
+        "name": "Buck's Fishing",
+        "address": {
+            "street": "5031 Connecticut Ave NW, Washington, DC 20008",
+            "lat": "38.955832",
+            "lon": "-77.0698701"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "4Y8G9yAQGsco5JJPHXVpT",
+        "name": "Common House",
+        "address": {
+            "street": "206 West Market Street, Charlottesville, VA 22902",
+            "lat": "38.0317194",
+            "lon": "-78.4822538"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng",
             "Shenandoah Valley Cabernet Franc",
             "Young Wine"
@@ -3698,9 +4575,25 @@
             "street": "436 7th Ave, Brooklyn, NY 11215",
             "lat": "40.6635697",
             "lon": "-73.9846443"
+=======
+            "Eluvium",
+            "Petit Manseng",
+            "Rosé",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "5xcp4FyRa29gkuAmUjjEh",
+        "name": "Crystal City Wine Shop",
+        "address": {
+            "street": "220 20th St. South, Arlington, VA 22202",
+            "lat": "38.85597",
+            "lon": "-77.0500304"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Quaker Run Chardonnay",
             "Young Wine"
         ]
@@ -3715,6 +4608,17 @@
 >>>>>>> Stashed changes
 =======
         "id": "a8K2BA34RXqnGtswtLrHc",
+>>>>>>> Stashed changes
+=======
+            "Pétillant Naturel White",
+            "Rosé",
+            "Petit Manseng",
+            "Young Wine",
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "VQHhPNXvIlcO9Bpn6q7d2",
 >>>>>>> Stashed changes
         "name": "Chain Bridge Cellars",
 =======
@@ -3732,6 +4636,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3805,9 +4710,64 @@
             "street": "5805 Patterson Ave, Richmond, VA 23226",
             "lat": "37.5794435",
             "lon": "-77.5149812"
+=======
+        "id": "TXb5pFnBm4JmuKOD1VFUo",
+        "name": "Ellwood Thompson",
+        "address": {
+            "street": "4 N Thompson St, Richmond, VA 23221",
+            "lat": "37.5574421",
+            "lon": "-77.4886194"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Petit Manseng",
+            "Rosé",
+            "Quaker Run Chardonnay"
+        ]
+    },
+    {
+        "id": "rtUGNWiM9mEi2u1zKgBPK",
+        "name": "Fat Canary",
+        "address": {
+            "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
+            "lat": "37.2706994",
+            "lon": "-76.7061859"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Foothills",
+            "Rosé",
+            "Five Forks",
+            "Pétillant Naturel White",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "mE_ErMys0gzC8opnzS3w0",
+        "name": "Dominion Wine and Beer",
+        "address": {
+            "street": "107 Rowell Ct., Falls Church, VA 22046-3126",
+            "lat": "38.8897048",
+            "lon": "-77.183834"
         },
         "locations": "Restaurant/Retail",
         "wines": [
+            "Rosé",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "crhqcRIkWsT5VP46riHto",
+        "name": "Feast",
+        "address": {
+            "street": "416 W Main St Suite H, Charlottesville, VA 22902",
+            "lat": "38.0304142",
+            "lon": "-78.4872613"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Pétillant Naturel White",
             "Foothills"
@@ -3833,17 +4793,67 @@
             "street": "220 20th St. South, Arlington, VA 22202",
             "lat": "38.85597",
             "lon": "-77.0500304"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "X6hCduNHdJZbW3CRmjOUN",
+        "name": "Foods of All Nations",
+        "address": {
+            "street": "2121 Ivy Rd, Charlottesville, VA 22903",
+            "lat": "38.0432978",
+            "lon": "-78.5119067"
         },
         "locations": "Retail",
         "wines": [
             "Rosé",
+            "Five Forks",
+            "Young Wine",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "TlnRxU81dBPR-_zRLU2nH",
+        "name": "Glen's Garden Market",
+        "address": {
+            "street": "2001 S St. NW, Washington, DC 20009",
+            "lat": "38.9143274",
+            "lon": "-77.0451575"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc",
+            "Pétillant Naturel White",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "3S8UuHw_pm7EKG9c2WOcG",
+        "name": "Friendly City Food Co-op",
+        "address": {
+            "street": "150 E Wolfe St, Harrisonburg, VA 22802",
+            "lat": "38.4516609",
+            "lon": "-78.8665291"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+<<<<<<< Updated upstream
             "Young Wine",
             "Pétillant Naturel Red",
+=======
+            "Pétillant Naturel White",
+            "Young Wine",
+>>>>>>> Stashed changes
             "Foothills",
             "Petit Manseng"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3863,17 +4873,29 @@
             "street": "2121 Ivy Rd, Charlottesville, VA 22903",
             "lat": "38.0432978",
             "lon": "-78.5119067"
+=======
+        "id": "F5CH-MA4BmIkH1vYNWBnB",
+        "name": "Grisette",
+        "address": {
+            "street": "3119 East Marshall Street, Richmond, VA 23223",
+            "lat": "37.528621",
+            "lon": "-77.4119182"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Young Wine",
             "Eluvium",
             "Five Forks",
+=======
+>>>>>>> Stashed changes
             "Petit Manseng"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -3893,10 +4915,46 @@
             "street": "150 E Wolfe St, Harrisonburg, VA 22802",
             "lat": "38.4516609",
             "lon": "-78.8665291"
+=======
+        "id": "LYzQPWdtXVbjfOLBsBqdM",
+        "name": "Greenwood",
+        "address": {
+            "street": "6701 Rockfish Gap TPK, Crozet, VA 22932",
+            "lat": "38.0413202",
+            "lon": "-78.732343"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Young Wine Chambourcin",
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "Y85XHtnsW9QRNLPUgOwBi",
+        "name": "Heirloom Café",
+        "address": {
+            "street": "815 N Chase St, Athens, GA 30601",
+            "lat": "33.9663133",
+            "lon": "-83.3931064"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "8tqGoUPuk28XJ6lIwZOLa",
+        "name": "J Emerson",
+        "address": {
+            "street": "5716 Grove Ave, Richmond, VA 23226",
+            "lat": "37.5733362",
+            "lon": "-77.5180274"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "Pétillant Naturel White",
             "Young Wine",
             "Foothills",
@@ -3953,13 +5011,50 @@
             "street": "2244 Browntown Road, Front Royal, VA 22630",
             "lat": "38.840197",
             "lon": "-78.228299"
+=======
+            "Chardonnay",
+            "Pétillant Naturel White",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "BcusS88McQs_fqb6H2-mn",
+        "name": "La Fromagerie",
+        "address": {
+            "street": "1222 King St, Alexandria, VA 22314-2927",
+            "lat": "38.805648",
+            "lon": "-77.053429"
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+            "Eluvium",
+            "Pétillant Naturel White",
+            "Quaker Run Chardonnay",
+            "Rosé",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "3qH3XootvsDpqhRS0Xrh-",
+        "name": "Libbie Market",
+        "address": {
+            "street": "400 Libbie Ave., Richmond, VA 23226",
+            "lat": "37.5746309",
+            "lon": "-77.5183971"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
+=======
+            "Eluvium",
+            "Petit Manseng",
+>>>>>>> Stashed changes
             "Rosé"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4061,13 +5156,72 @@
             "street": "Division of Financial, Gaithersburg, MD 20878",
             "lat": "39.139876",
             "lon": "-77.1926495"
+=======
+        "id": "1nJB1fZR8VOPxnhK4hgul",
+        "name": "Kings County Wines",
+        "address": {
+            "street": "1420 Cortelyou Rd, Brooklyn, NY 11226",
+            "lat": "40.6409745",
+            "lon": "-73.9644848"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "_BgGsCFQ4a8qu9DUmsKt9",
+        "name": "Market Street Wine Shop",
+        "address": {
+            "street": "311 East Market St, Charlottesville, VA 22902",
+            "lat": "38.0310663",
+            "lon": "-78.4789692"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay",
+            "Foothills",
+            "Pétillant Naturel White",
+            "Rosé",
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "8Loi9APvLEPTsrnXQP5ah",
+        "name": "Locke Store",
+        "address": {
+            "street": "2049 Millwood Rd., Millwood, VA 22646",
+            "lat": "39.0695452",
+            "lon": "-78.0379379"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Pétillant Naturel White",
+            "Rosé",
+            "Quaker Run Chardonnay"
+        ]
+    },
+    {
+        "id": "Tm3HnfKYwQI4_Mvc3gO66",
+        "name": "Mona Lisa",
+        "address": {
+            "street": "921 Preston Ave, Charlottesville, VA 22903",
+            "lat": "38.038434",
+            "lon": "-78.489901"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
+=======
+            "Young Wine Chambourcin",
+            "Petit Manseng",
+>>>>>>> Stashed changes
             "Rosé"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4087,9 +5241,18 @@
             "street": "275 Memorial Drive SE, Atlanta, GA 30312",
             "lat": "33.7464701",
             "lon": "-84.3784358"
+=======
+        "id": "dtN0VXUG2IZrXVLytp0wt",
+        "name": "Mount Airy Winegrowers LLC",
+        "address": {
+            "street": "1609 Lee Highway, Fort Defiance, VA 24437",
+            "lat": "38.2353215",
+            "lon": "-78.976582"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -4113,9 +5276,22 @@
             "street": "1822 1st St. NW, Washington, DC 20001",
             "lat": "38.9149738",
             "lon": "-77.0124095"
+=======
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "NAx4b8eRdrMaOjo7xn-yh",
+        "name": "Newtown Baking",
+        "address": {
+            "street": "960 W Beverlely Street, Staunton, VA 244001",
+            "lat": "38.1496916",
+            "lon": "-79.0738108"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -4139,10 +5315,24 @@
             "street": "1069 Bedford Ave, Brooklyn, NY 11216",
             "lat": "40.6874318",
             "lon": "-73.954402"
+=======
+            "Foothills",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "JwiqiouPQtajvvjOeDQiO",
+        "name": "Norm's Beer & Wine",
+        "address": {
+            "street": "136 Branch Rd SE, Vienna, VA 22180",
+            "lat": "38.9062317",
+            "lon": "-77.257151"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "RISE"
         ]
     },
@@ -4223,11 +5413,64 @@
         "wines": [
             "Rosé",
 <<<<<<< Updated upstream
-            "Shenandoah Valley Cabernet Franc",
-            "Young Wine Red"
+=======
+            "Quaker Run Chardonnay",
+            "Five Forks",
+            "Chardonnay",
+            "Foothills"
         ]
     },
     {
+        "id": "yV-w6Q2BdOu696_JxR4xc",
+        "name": "Odd Provisions",
+        "address": {
+            "street": "3301 11th Street NW, Washington, DC 20010",
+            "lat": "38.9309006",
+            "lon": "-77.0278015"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "0Jo1gC7waUA-kCzXRZirD",
+        "name": "Organic Butcher of McLean",
+        "address": {
+            "street": "6712 Old Dominion Drive, McLean, VA 22101-3806",
+            "lat": "38.9335412",
+            "lon": "-77.1758584"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Young Wine",
+            "Five Forks",
+            "Pétillant Naturel Red",
+            "RISE"
+        ]
+    },
+    {
+        "id": "9QkMBK4L4PivMsweGmtjQ",
+        "name": "Rio Hill Wine & Beer",
+        "address": {
+            "street": "1908 Rio Hill Center, Charlottesville, VA 22901",
+            "lat": "38.0877905",
+            "lon": "-78.4749043"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Eluvium",
+            "Foothills",
+            "Quaker Run Chardonnay",
+>>>>>>> Stashed changes
+            "Shenandoah Valley Cabernet Franc",
+            "Rosé"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "id": "pFDTrQEFcXqROWqIcCb8b",
@@ -4238,17 +5481,23 @@
         "id": "Smm59uwhUSJaTJj-BUeFJ",
 >>>>>>> Stashed changes
         "name": "NRG - Rustico - Ballston",
+=======
+        "id": "qQ_VoxUo3tfCUn-BwnMv0",
+        "name": "Planet Wine",
+>>>>>>> Stashed changes
         "address": {
-            "street": "4075 Wilson Blvd., Arlington, VA 22203",
-            "lat": "38.8803079",
-            "lon": "-77.1085112"
+            "street": "2000-2004 Mount Vernon Ave, Alexandria, VA 22301",
+            "lat": "38.8239944",
+            "lon": "-77.0585361"
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
-            "Foothills"
+            "Rosé",
+            "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "id": "WXbp3mQSPZdENPFDCgWE0",
@@ -4298,9 +5547,33 @@
             "street": "594 Rogers Ave, Brooklyn, NY 11225",
             "lat": "40.6571942",
             "lon": "-73.9534567"
+=======
+        "id": "aJnDz2W0aZcmg8p4A4xmu",
+        "name": "Roanoke Natural Foods Co-op",
+        "address": {
+            "street": "1319 Grandin Rd SW, Roanoke, VA 24015-231",
+            "lat": "37.2652232",
+            "lon": "-79.9776246"
         },
         "locations": "Retail",
         "wines": [
+            "Foothills",
+            "Rosé",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "mFg8DOf2TJzEUgX4PqCe2",
+        "name": "Salisbury Country Club",
+        "address": {
+            "street": "13620 W. Salisbury Rd, Midlothian, VA 23113",
+            "lat": "37.5278854",
+            "lon": "-77.6533788"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -4324,10 +5597,24 @@
             "street": "1700 Duke Street, Alexandria, VA 22314",
             "lat": "38.8041416",
             "lon": "-77.0600615"
+=======
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "MYT9jX4Oi7HaN80-ggUwH",
+        "name": "Screwtop",
+        "address": {
+            "street": "1025 Fillmore St. N, Arlington, VA 22201",
+            "lat": "38.8859072",
+            "lon": "-77.0926894"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -4378,9 +5665,36 @@
             "street": "101 H St. SE, Washington, DC 20003",
             "lat": "38.8802819",
             "lon": "-77.005121"
+=======
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "7t-kRBf1Po79UgMePG8Wq",
+        "name": "Unwined Belle View",
+        "address": {
+            "street": "1600 Belle View Blvd., Alexandria, VA 22307",
+            "lat": "38.7761672",
+            "lon": "-77.0597746"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "RT0nNZxez6ygemqbYw8qM",
+        "name": "Unwined Bradlee Shopping Center",
+        "address": {
+            "street": "3690-J King St, Alexandria, VA 22302",
+            "lat": "38.8296628",
+            "lon": "-77.0921948"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -4404,9 +5718,23 @@
             "street": "2000 Busted Rock Road, Meadows of Dan, VA 24120",
             "lat": "36.6617827",
             "lon": "-80.4318697"
+=======
+            "Rosé",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "TD1sFZdgYYl3uWz0qTeCr",
+        "name": "Savannah Wine Cellar",
+        "address": {
+            "street": "5500 Abercorn St, Savannah, GA 31405",
+            "lat": "32.0229174",
+            "lon": "-81.109395"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc"
         ]
     },
@@ -4430,9 +5758,23 @@
             "street": "130 W Beverly St, Staunton, VA 24401",
             "lat": "38.15216",
             "lon": "-79.1136552"
+=======
+            "Foothills",
+            "RISE"
+        ]
+    },
+    {
+        "id": "B5PbAcABgiGCFjYn7q0SP",
+        "name": "Vino Market",
+        "address": {
+            "street": "3730 Winterfield Rd., Midlothian, VA 23113",
+            "lat": "37.5535346",
+            "lon": "-77.6685934"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -4482,9 +5824,39 @@
             "street": "1440 8th Street NW, Washington, DC 20001",
             "lat": "38.9092538",
             "lon": "-77.0231184"
+=======
+            "Foothills",
+            "Rosé",
+            "Five Forks",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "8tOF0XvBiDttGednIj-vV",
+        "name": "Vintage Cellar",
+        "address": {
+            "street": "1338 South Main St., Blacksburg, VA 24060",
+            "lat": "37.215963",
+            "lon": "-80.402101"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Eluvium",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "AWVORWVPUUpfLW0eRTnf8",
+        "name": "Urban Hang Suite",
+        "address": {
+            "street": "304 E. Broad Street, Richmond, VA 23219",
+            "lat": "37.5441901",
+            "lon": "-77.4388111"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -4588,11 +5960,66 @@
             "street": "1804 Hydraulic Rd, Charlottesville, VA 22902",
             "lat": "38.0607943",
             "lon": "-78.4914214"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "9Y1zgMNhpBx0txEDxBQgZ",
+        "name": "Vyne Yard",
+        "address": {
+            "street": "594 Rogers Ave, Brooklyn, NY 11225",
+            "lat": "40.6571942",
+            "lon": "-73.9534567"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "ecJ_jKzLk82p4smXGMhbA",
+        "name": "Whole Foods - Charlottesville",
+        "address": {
+            "street": "1797 Hydraulic Road, Charlottesville, VA 22901",
+            "lat": "38.059773",
+            "lon": "-78.4891351"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "arznOu0B-1Vqyv_gHU16Z",
+        "name": "Whole Foods - Virginia Beach",
+        "address": {
+            "street": "1800 Laskin Road, Virginia Beach, VA 23454",
+            "lat": "36.8509319",
+            "lon": "-76.0281576"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills",
+            "Five Forks",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "6V8CgSIvziAJhFIFhLtAN",
+        "name": "Wine Seller - Williamsburg",
+        "address": {
+            "street": "4680 Monticello Ave Suite 15, Williamsburg, VA 23188",
+            "lat": "37.2719211",
+            "lon": "-76.7595155"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Young Wine",
             "Foothills",
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc",
             "RISE"
         ]
@@ -4649,10 +6076,40 @@
         "locations": "Restaurant",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "40tZl93oTvyTDiTGiWzeZ",
+        "name": "Whole Foods - West Broad",
+        "address": {
+            "street": "2024 W Broad Street, Richmond, VA 23220",
+            "lat": "37.5581958",
+            "lon": "-77.4612166"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "80AUSQOMzpWKxATRL4mOe",
+        "name": "Amber Ox Kitchen & Brewery",
+        "address": {
+            "street": "521 Prince George St., Williamsburg, VA 23185",
+            "lat": "37.272864",
+            "lon": "-76.708414"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Five Forks",
+>>>>>>> Stashed changes
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4672,10 +6129,19 @@
             "street": "521 Prince George St., Williamsburg, VA 23185",
             "lat": "37.272864",
             "lon": "-76.708414"
+=======
+        "id": "uTcXDkIEloeHDPLTi32ZD",
+        "name": "Barrel Chest",
+        "address": {
+            "street": "4035 Electric Rd. #B, Roanoke, VA 24018",
+            "lat": "37.2235279",
+            "lon": "-79.982868"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
             "Foothills",
+<<<<<<< Updated upstream
             "Five Forks"
         ]
     },
@@ -4699,9 +6165,26 @@
             "street": "4508 Lee Hwy, Arlington, VA 22207",
             "lat": "38.8983733",
             "lon": "-77.1183586"
+=======
+            "Five Forks",
+            "Pétillant Naturel White",
+            "Young Wine",
+            "Petit Manseng",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "enWprbsGEAyxlR8XRpleY",
+        "name": "Zocalo",
+        "address": {
+            "street": "201 E Main St Suite E, Charlottesville, VA 22902",
+            "lat": "38.0307918",
+            "lon": "-78.4803003"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc"
         ]
     },
@@ -4774,6 +6257,42 @@
         "id": "sBzX27dkHbTm1HgSybYiC",
         "name": "Caboose",
 >>>>>>> Stashed changes
+=======
+            "Pétillant Naturel White",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "JaRiL7rIzkU2DgmFrwkoS",
+        "name": "Barrel Thief",
+        "address": {
+            "street": "5805 Patterson Ave, Richmond, VA 23226",
+            "lat": "37.5794435",
+            "lon": "-77.5149812"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Pétillant Naturel White",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "RJtOXF4xPMG_WfXP1zYBc",
+        "name": "Beer Run",
+        "address": {
+            "street": "156 Carlton Rd Ste 203, Charlottesville, VA 22902",
+            "lat": "38.0246361",
+            "lon": "-78.468401"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "SNacCEpAfn26QuzxhU5N3",
+        "name": "Caboose",
+>>>>>>> Stashed changes
         "address": {
             "street": "108 S. Railroad Ave., Ashland, VA 23005",
             "lat": "37.758286",
@@ -4781,11 +6300,16 @@
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
+=======
+            "Chardonnay",
+>>>>>>> Stashed changes
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4859,11 +6383,51 @@
             "lon": "-77.0500304"
         },
         "locations": "Retail",
+=======
+        "id": "IPrlLTryQsgg8F5yPK7Gr",
+        "name": "City Vino",
+        "address": {
+            "street": "810 Caroline St Suite 101, Fredericksburg, VA 22401",
+            "lat": "38.3019961",
+            "lon": "-77.4590376"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Eluvium",
+            "Young Wine",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "fTpfOkRZGIwknrllrR9hG",
+        "name": "Blanca",
+        "address": {
+            "street": "4117 Granby St Ste A, Norfolk, VA 23504",
+            "lat": "36.8846514",
+            "lon": "-76.2818304"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "7nEbYWARe6na1E_HMJSuP",
+        "name": "Common House",
+        "address": {
+            "street": "206 West Market Street, Charlottesville, VA 22902",
+            "lat": "38.0317194",
+            "lon": "-78.4822538"
+        },
+        "locations": "Restaurant",
+>>>>>>> Stashed changes
         "wines": [
             "Rosé"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4885,12 +6449,23 @@
             "lon": "-77.0511825"
         },
         "locations": "Retail",
+=======
+        "id": "nv1hdQRDgWnBpT5aieiB3",
+        "name": "Commune - Virginia Beach",
+        "address": {
+            "street": "501 Virginia Beach Blvd. Ste. B, Virginia Beach, VA 23451",
+            "lat": "36.8441296",
+            "lon": "-75.9793877"
+        },
+        "locations": "Restaurant",
+>>>>>>> Stashed changes
         "wines": [
             "Rosé",
             "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4910,9 +6485,18 @@
             "street": "8369 W. Main St., Marshall, VA 20115",
             "lat": "38.8647631",
             "lon": "-77.8574303"
+=======
+        "id": "O6tS2F44K0bSACvR0twxj",
+        "name": "Crystal City Wine Shop",
+        "address": {
+            "street": "220 20th St. South, Arlington, VA 22202",
+            "lat": "38.85597",
+            "lon": "-77.0500304"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "F & M Red",
             "Rosé",
             "Red Vine"
@@ -4938,9 +6522,22 @@
             "street": "107 Rowell Ct., Falls Church, VA 22046",
             "lat": "38.8897048",
             "lon": "-77.183834"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "Q9_fm5XiI2tF2AOI-E9E4",
+        "name": "Department of Beer & Wine",
+        "address": {
+            "street": "2724 Richmond Hwy, Alexandria, VA 22301",
+            "lat": "38.830645",
+            "lon": "-77.051175"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Foothills"
         ]
@@ -4968,10 +6565,30 @@
         },
         "locations": "Restaurant",
         "wines": [
+=======
+            "Pétillant Naturel White",
             "Rosé"
         ]
     },
     {
+        "id": "TgoBGc9Yrgm_4VxBEVzdv",
+        "name": "Fat Canary",
+        "address": {
+            "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
+            "lat": "37.2706994",
+            "lon": "-76.7061859"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Shenandoah Valley Cabernet Franc",
+            "Five Forks",
+            "Foothills",
+>>>>>>> Stashed changes
+            "Rosé"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -4991,10 +6608,19 @@
             "street": "2121 Ivy Rd, Charlottesville, VA 22903",
             "lat": "38.0432978",
             "lon": "-78.5119067"
+=======
+        "id": "0l8m22r4fi7vJBWuOnBGR",
+        "name": "Field & Main",
+        "address": {
+            "street": "8369 W. Main St., Marshall, VA 20115",
+            "lat": "38.8647631",
+            "lon": "-77.8574303"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
             "Shenandoah Valley Cabernet Franc",
+<<<<<<< Updated upstream
             "Rosé",
             "Eluvium"
         ]
@@ -5019,13 +6645,29 @@
             "street": "1800 Tyson's Blvd., McLean, VA 22102",
             "lat": "38.9223637",
             "lon": "-77.2224625"
+=======
+            "Red Vine",
+            "Rosé",
+            "F & M Red",
+            "RISE"
+        ]
+    },
+    {
+        "id": "4c14JOiGd8BaXdojjt3Re",
+        "name": "Ellwood Thompson",
+        "address": {
+            "street": "4 N Thompson St, Richmond, VA 23221",
+            "lat": "37.5574421",
+            "lon": "-77.4886194"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
             "Rosé"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5073,9 +6715,33 @@
             "street": "2001 S St. NW, Washington, DC 20009",
             "lat": "38.9143274",
             "lon": "-77.0451575"
+=======
+        "id": "uxqrPjpAZtxwv7phYYyUP",
+        "name": "Foods of All Nations",
+        "address": {
+            "street": "2121 Ivy Rd, Charlottesville, VA 22903",
+            "lat": "38.0432978",
+            "lon": "-78.5119067"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills",
+            "Shenandoah Valley Cabernet Franc",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "2ih4lVGjbjqt2LKBj21-p",
+        "name": "Founding Farmers - DC",
+        "address": {
+            "street": "1924 Pennsylvania Ave. NW, Washington, DC 20006",
+            "lat": "38.9002854",
+            "lon": "-77.0445269"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Young Wine"
         ]
@@ -5103,10 +6769,27 @@
         },
         "locations": "Retail",
         "wines": [
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "A96jl5jVX7hyLBQ5VuoBF",
+        "name": "Fort Lewis Lodge",
+        "address": {
+            "street": "603 Old Plantation Way, Millboro, VA 24460",
+            "lat": "38.114054",
+            "lon": "-79.6110139"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills",
+>>>>>>> Stashed changes
             "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5126,9 +6809,18 @@
             "street": "157 Irving Ave, Brooklyn, NY 10013",
             "lat": "40.7027192",
             "lon": "-73.920458"
+=======
+        "id": "w6NCt614mdORbiQZtl23v",
+        "name": "Founding Farmers - Tyson's Corner",
+        "address": {
+            "street": "1800 Tyson's Blvd., McLean, VA 22102",
+            "lat": "38.9223637",
+            "lon": "-77.2224625"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -5152,9 +6844,22 @@
             "street": "1222 King St, Alexandria, VA 22314",
             "lat": "38.805648",
             "lon": "-77.053429"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "1mIEgWrQ9RswNcvGkTc9x",
+        "name": "Frankly Wines",
+        "address": {
+            "street": "66 West Broadway, New York, NY 10007",
+            "lat": "40.7146846",
+            "lon": "-74.0101186"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -5204,9 +6909,36 @@
             "street": "960 W Beverlely Street, Staunton, VA 24400",
             "lat": "38.1498989",
             "lon": "-79.0827541"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "KrH89QhSul5PFTvv9rnVQ",
+        "name": "Friendly City Food Co-op",
+        "address": {
+            "street": "150 E Wolfe St, Harrisonburg, VA 22802",
+            "lat": "38.4516609",
+            "lon": "-78.8665291"
         },
         "locations": "Retail",
         "wines": [
+            "Pétillant Naturel White",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "wNw5WpX6PnK4tHk7fJ5mo",
+        "name": "Glen's Garden Market",
+        "address": {
+            "street": "2001 S St. NW, Washington, DC 20009",
+            "lat": "38.9143274",
+            "lon": "-77.0451575"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Foothills"
         ]
@@ -5287,15 +7019,59 @@
             "street": "6712 Old Dominion Drive, McLean, VA 22101",
             "lat": "38.9335412",
             "lon": "-77.1758584"
+=======
+            "Shenandoah Valley Cabernet Franc",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "1uHcJZqaf3E9-b7A2Tqv6",
+        "name": "Good Wine",
+        "address": {
+            "street": "327 5th Avenue, Brooklyn, NY 11215",
+            "lat": "40.6724091",
+            "lon": "-73.9833358"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "Hl_OL2JFIpY5rdaSFJ2DK",
+        "name": "Jackson River Cellars",
+        "address": {
+            "street": "180 Oakley Farm Ln, Warm Springs, VA 24484",
+            "lat": "38.0425248",
+            "lon": "-79.7906726"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Young Wine",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "fXngK07e6tjt8xg8fqvW_",
+        "name": "J Emerson",
+        "address": {
+            "street": "5716 Grove Ave, Richmond, VA 23226",
+            "lat": "37.5733362",
+            "lon": "-77.5180274"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "Young Wine",
+=======
+>>>>>>> Stashed changes
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5342,9 +7118,31 @@
             "street": "1908 Rio Hill Center, Charlottesville, VA 22901",
             "lat": "38.0877905",
             "lon": "-78.4749043"
+=======
+        "id": "NwPWuFSIlXzBH2F7Oa8iC",
+        "name": "Libbie Market",
+        "address": {
+            "street": "400 Libbie Ave., Richmond, VA 23226",
+            "lat": "37.5746309",
+            "lon": "-77.5183971"
         },
         "locations": "Retail",
         "wines": [
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "kq-ciIATE8Dpydvnbk3w-",
+        "name": "Little Red Fox",
+        "address": {
+            "street": "5035 Connecticut Ave. NW, Washington, DC 20008",
+            "lat": "38.9558822",
+            "lon": "-77.0699601"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé",
 <<<<<<< Updated upstream
             "Young Wine Red"
@@ -5361,18 +7159,29 @@
         "id": "VXmZ0tcm3Jf1Yvq9Izo-q",
 >>>>>>> Stashed changes
         "name": "Whole Foods - Newport News",
-        "address": {
-            "street": "12080 Jefferson Ave, Newport News, VA 23606",
-            "lat": "37.1028877",
-            "lon": "-76.4907572"
-        },
-        "locations": "Restaurant/Retail",
-        "wines": [
-            "Foothills",
-            "Rosé"
+=======
+            "Pétillant Naturel White"
         ]
     },
     {
+        "id": "x4ETu_N9dwtNxERNCpA0O",
+        "name": "La Fromagerie",
+>>>>>>> Stashed changes
+        "address": {
+            "street": "1222 King St, Alexandria, VA 22314",
+            "lat": "38.805648",
+            "lon": "-77.053429"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Pétillant Naturel White",
+            "Eluvium",
+            "Young Wine"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "id": "IvdU5nBYsMUMLQ6Gf45yf",
@@ -5398,11 +7207,23 @@
             "lon": "-75.9806406"
         },
         "locations": "Restaurant",
+=======
+        "id": "o5Wd2aEV8xXSuVnFxWxCi",
+        "name": "Market Street Wine Shop",
+        "address": {
+            "street": "311 East Market St, Charlottesville, VA 22902",
+            "lat": "38.0310663",
+            "lon": "-78.4789692"
+        },
+        "locations": "Retail",
+>>>>>>> Stashed changes
         "wines": [
-            "Foothills"
+            "Rosé",
+            "Pétillant Naturel Red"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5422,13 +7243,24 @@
             "street": "2201 Crystal Spring Ave. SW, Roanoke, VA 24014",
             "lat": "37.2487077",
             "lon": "-79.9468159"
+=======
+        "id": "b6JvNf0yfMSIzJVZ22_zW",
+        "name": "Norm's Beer & Wine",
+        "address": {
+            "street": "136 Branch Rd SE, Vienna, VA 22180",
+            "lat": "38.9062317",
+            "lon": "-77.257151"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
-            "Foothills"
+            "Rosé",
+            "Five Forks",
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5448,9 +7280,18 @@
             "street": "1391 Air Rail Avenue, Virginia Beach, VA 23455",
             "lat": "36.8929573",
             "lon": "-76.1918905"
+=======
+        "id": "Jih1ccXtFFM1fiDJkw578",
+        "name": "Nota Bene",
+        "address": {
+            "street": "2110 E Main St., Richmond, VA 23223",
+            "lat": "37.5311605",
+            "lon": "-77.4243981"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills",
             "Rosé",
             "Eluvium"
@@ -5502,9 +7343,37 @@
             "street": "Thornton River Grille, Sperryville, VA 22740",
             "lat": "38.6573169",
             "lon": "-78.2267817"
+=======
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "D65A3CLOSSaqoI1LzS5YB",
+        "name": "Organic Butcher of McLean",
+        "address": {
+            "street": "6712 Old Dominion Drive, McLean, VA 22101",
+            "lat": "38.9335412",
+            "lon": "-77.1758584"
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+            "Five Forks",
+            "Rosé",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "k3YIDlHMc1Fqjik6vXT5F",
+        "name": "Outpost",
+        "address": {
+            "street": "4813 Forest Hill Ave., Richmond, VA 23225",
+            "lat": "37.5211852",
+            "lon": "-77.4878087"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -5533,10 +7402,28 @@
         "wines": [
             "Petit Manseng",
             "Rosé",
+=======
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "kaHPmhr7wT--jSqBU1SJj",
+        "name": "Pendulum Fine Meats",
+        "address": {
+            "street": "820 Shirley Avenue, Norfolk, VA 23517",
+            "lat": "36.8683635",
+            "lon": "-76.2987524"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Young Wine",
+>>>>>>> Stashed changes
             "Five Forks"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5556,10 +7443,19 @@
             "street": "5015 Colley Ave., Norfolk, VA 23508",
             "lat": "36.8890972",
             "lon": "-76.2954949"
+=======
+        "id": "OuD-Xg87GbSfdFCRYc3UC",
+        "name": "Red Hen-DC",
+        "address": {
+            "street": "1822 1st St. NW, Washington, DC 20001",
+            "lat": "38.9149738",
+            "lon": "-77.0124095"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
             "Rosé",
+<<<<<<< Updated upstream
             "Young Wine",
             "Five Forks",
             "Shenandoah Valley Cabernet Franc",
@@ -5586,9 +7482,22 @@
             "street": "1600 Belle View Blvd., Alexandria, VA 22307",
             "lat": "38.7761672",
             "lon": "-77.0597746"
+=======
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "r31OHZTG2MwN_KjSP8TUY",
+        "name": "Prosperity Kitchen & Pantry",
+        "address": {
+            "street": "532 Virginia Beach Blvd Ste B, Virginia Beach, VA 23451",
+            "lat": "36.8444829",
+            "lon": "-75.9806406"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Shenandoah Valley Cabernet Franc"
         ]
     },
@@ -5639,9 +7548,35 @@
             "street": "2700 Wilson Blvd., Arlington, VA 22201",
             "lat": "38.8892254",
             "lon": "-77.0912401"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "LUVrcht6qwOjef7pKQfVJ",
+        "name": "Screwtop",
+        "address": {
+            "street": "1025 Fillmore St. N, Arlington, VA 22201",
+            "lat": "38.8859072",
+            "lon": "-77.0926894"
         },
         "locations": "Restaurant/Retail",
         "wines": [
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "-pmIbsESQYHTzQtKZrlYp",
+        "name": "Succotash",
+        "address": {
+            "street": "915 F St. NW, Washington, DC 20004",
+            "lat": "38.897644",
+            "lon": "-77.02474"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -5665,9 +7600,22 @@
             "street": "1700 Duke Street, Alexandria, VA 22314",
             "lat": "38.8041416",
             "lon": "-77.0600615"
+=======
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "H-z8KCgXT_QvLgofAhFja",
+        "name": "Ten Sushi",
+        "address": {
+            "street": "120B East Main St, Charlottesville, VA 22902",
+            "lat": "38.0303542",
+            "lon": "-78.4810329"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Foothills"
         ]
@@ -5692,9 +7640,22 @@
             "street": "11173 West Broad St., Richmond, VA 23060",
             "lat": "37.6475665",
             "lon": "-77.5997292"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "3ynHLDNxgEIdJtiokYrdS",
+        "name": "The Inn at Meander Plantation",
+        "address": {
+            "street": "2333 N James Madison Hwy, Locust Dale, VA 22948",
+            "lat": "38.3494656",
+            "lon": "-78.118313"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -5744,9 +7705,39 @@
             "street": "2024 W Broad Street, Richmond, VA 23220",
             "lat": "37.5581958",
             "lon": "-77.4612166"
+=======
+            "Rosé",
+            "Petit Manseng",
+            "Foothills",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "mVhm908lFDLj5155WHON9",
+        "name": "The Market at Grelen",
+        "address": {
+            "street": "15091 Yager Rd, Somerset, VA 22972",
+            "lat": "38.199417",
+            "lon": "-78.194607"
         },
         "locations": "Restaurant/Retail",
         "wines": [
+            "Rosé",
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "jhBXeCfsFGOs5_vuMc6bh",
+        "name": "Thamee",
+        "address": {
+            "street": "1320 H St NE, Washington, DC 20002",
+            "lat": "38.9004226",
+            "lon": "-76.9874602"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -5798,13 +7789,47 @@
             "street": "1837 Broadway Street, Charlottesville, VA 22902",
             "lat": "38.0195964",
             "lon": "-78.4553634"
-        },
-        "locations": "Restaurant/Retail",
-        "wines": [
+=======
             "Young Wine"
         ]
     },
     {
+        "id": "TJOsneaswMSFquf6lnz2e",
+        "name": "Town Duck",
+        "address": {
+            "street": "100 Main St, Warrenton, VA 20186",
+            "lat": "38.7122701",
+            "lon": "-77.7930779"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "Foothills",
+            "Eluvium",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "fPHjlg_t07Fgwv5Iw6XEd",
+        "name": "Thornton River Grille",
+        "address": {
+            "street": "Thornton River Grille, Sperryville, VA 22740",
+            "lat": "38.6525114",
+            "lon": "-78.2667447"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
+=======
+            "Foothills",
+            "Rosé",
+>>>>>>> Stashed changes
+            "Young Wine"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5824,9 +7849,18 @@
             "street": "115 E Beverly St, Staunton, VA 24401",
             "lat": "38.149814",
             "lon": "-79.0709713"
+=======
+        "id": "9T5tEDzLxzkccq8TC8yuo",
+        "name": "Westside Produce & Provisions",
+        "address": {
+            "street": "5015 Colley Ave., Norfolk, VA 23508",
+            "lat": "36.8890919",
+            "lon": "-76.2954496"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng",
             "Eluvium"
         ]
@@ -5851,9 +7885,24 @@
             "street": "313 Franklin Street, South Hill, VA 23970",
             "lat": "36.726272",
             "lon": "-78.1245498"
+=======
+            "Five Forks",
+            "Chardonnay",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "O4MDjAUlm0k1nvieT38G_",
+        "name": "Unwined Belle View",
+        "address": {
+            "street": "1600 Belle View Blvd., Alexandria, VA 22307",
+            "lat": "38.7761672",
+            "lon": "-77.0597746"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -5903,14 +7952,46 @@
             "street": "3078 Stony Point Rd., Richmond, VA 23235",
             "lat": "37.537796",
             "lon": "-77.5651916"
+=======
+            "Eluvium",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "FwUeq_d-r_gkku5o5TnPq",
+        "name": "Whole Foods - Arlington",
+        "address": {
+            "street": "2700 Wilson Blvd., Arlington, VA 22201",
+            "lat": "38.8892254",
+            "lon": "-77.0912401"
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
+            "Five Forks",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "4sI1o2WLjJ_FB4BRugijm",
+        "name": "Whole Foods - Short Pump",
+        "address": {
+            "street": "11173 West Broad St., Richmond, VA 23060",
+            "lat": "37.6475665",
+            "lon": "-77.5997292"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
+=======
+            "Rosé",
+>>>>>>> Stashed changes
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -5930,9 +8011,18 @@
             "street": "521 Prince George St., Williamsburg, VA 23185",
             "lat": "37.272864",
             "lon": "-76.708414"
+=======
+        "id": "TK2aqZ333C3xkjOMeC9W6",
+        "name": "Whole Foods - Boro Tysons",
+        "address": {
+            "street": "1635 Boro Place, McLean, VA 22102",
+            "lat": "38.9246153",
+            "lon": "-77.2335301"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -6009,9 +8099,52 @@
             "street": "759 Granby St., Norfolk, VA 23510",
             "lat": "36.8562717",
             "lon": "-76.2885787"
+=======
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "yYCYh6OaNUx7lPjvnex4N",
+        "name": "Whole Foods - South Capitol Hill",
+        "address": {
+            "street": "101 H St. SE, Washington, DC 20003",
+            "lat": "38.8802819",
+            "lon": "-77.005121"
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "H53qp51Qb2Ar6kpwXrzcz",
+        "name": "Wine Guild",
+        "address": {
+            "street": "221 Carlton Rd, Suite 1, Charlottesville, VA 22902",
+            "lat": "38.0236619",
+            "lon": "-78.4696887"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Young Wine",
+            "Rosé",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "HRrTw-Zv8ngCJ8LhOcPAL",
+        "name": "Wool Factory, The",
+        "address": {
+            "street": "1837 Broadway Street, Charlottesville, VA 22902",
+            "lat": "38.0201796",
+            "lon": "-78.4580027"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
             "Foothills",
             "Petit Manseng"
@@ -6029,18 +8162,33 @@
         "id": "xfxaMpjkNVlwdk92UFHrC",
 >>>>>>> Stashed changes
         "name": "Dabney",
-        "address": {
-            "street": "122 Blagden Alley NW, Washington, DC 20009",
-            "lat": "38.9063446",
-            "lon": "-77.0245248"
-        },
-        "locations": "Restaurant",
-        "wines": [
-            "Petit Manseng",
-            "Quaker Run Cabernet Franc"
+=======
+            "Foothills",
+            "Rosé",
+            "Eluvium",
+            "Five Forks",
+            "Pétillant Naturel White",
+            "Young Wine",
+            "RISE"
         ]
     },
     {
+        "id": "yb85_cFtLT3IKQ7sqowX0",
+        "name": "Williamsburg Winery",
+>>>>>>> Stashed changes
+        "address": {
+            "street": "5800 Wessex Hundred, Williamsburg, VA 23185",
+            "lat": "37.2315138",
+            "lon": "-76.718275"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Eluvium"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "id": "ykHETY82z-g7ZWp9y4URt",
@@ -6137,13 +8285,71 @@
             "street": "600 Massachusetts Ave. NW, Washington, DC 20001",
             "lat": "38.9012307",
             "lon": "-77.0207401"
+=======
+        "id": "lxcSTKEL-6__l7Ho5Ur-n",
+        "name": "313 Franklin",
+        "address": {
+            "street": "313 Franklin Street, South Hill, VA 23970",
+            "lat": "36.726272",
+            "lon": "-78.1245498"
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+            "Chardonnay",
+            "Petit Manseng",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "TatMfMV2IkvAwt2sANZQe",
+        "name": "Balducci's - Alexandria",
+        "address": {
+            "street": "600 Franklin St, Alexandria, VA 22314",
+            "lat": "38.7978102",
+            "lon": "-77.0479011"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay",
+            "Eluvium",
+            "Young Wine",
+            "Rosé",
+            "RISE"
+        ]
+    },
+    {
+        "id": "8_aCyMETw6pCmKfxki6xL",
+        "name": "Copake Wine Works",
+        "address": {
+            "street": "69 Main St, Copake, NY 12516",
+            "lat": "42.1040725",
+            "lon": "-73.5494551"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "KDusJ0BERSwCMsLvI8mdG",
+        "name": "Olivino",
+        "address": {
+            "street": "905 Fulton Street, Broooklyn, NY 11238",
+            "lat": "40.6837237",
+            "lon": "-73.9671635"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
+=======
+            "Chardonnay",
+>>>>>>> Stashed changes
             "Rosé"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6268,9 +8474,76 @@
             "street": "1904 Reston Metro Plaza, Suite 100, Reston, VA 20190",
             "lat": "38.9488917",
             "lon": "-77.3383807"
+=======
+        "id": "DvrwfHnhBKydz7dqnaKlZ",
+        "name": "White Moose Inn",
+        "address": {
+            "street": "291 Main St., Washington, VA 22747",
+            "lat": "38.7123391",
+            "lon": "-78.16034"
         },
         "locations": "Restaurant",
         "wines": [
+            "Chardonnay",
+            "Quaker Run Chardonnay",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "9FjR2O3OqvXO_5QJIv81A",
+        "name": "Buckhead's Chop House",
+        "address": {
+            "street": "8510 Patterson Ave., Richmond, VA 23229",
+            "lat": "37.5951667",
+            "lon": "-77.5639423"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "tYr5yr53VbJgHA7F2AXCf",
+        "name": "Lafayette Inn",
+        "address": {
+            "street": "146 Main St, Stanardsville, VA 22973",
+            "lat": "38.2973151",
+            "lon": "-78.4385435"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Eluvium",
+            "Five Forks",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "aXNYRLNQQkRVS2NtPVrae",
+        "name": "Mom's Apple Pie",
+        "address": {
+            "street": "126 A Commerce St, Occoquan Historic Dist., VA 22125",
+            "lat": "38.6822873",
+            "lon": "-77.2600693"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Eluvium",
+            "Pétillant Naturel White",
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "XXWaEsIMdoOISr1wHYiBe",
+        "name": "Mom's Apple Pie Hill High",
+        "address": {
+            "street": "35246 Harry Byrd Hwy Ste. 100, Round Hill, VA 20141",
+            "lat": "39.1277991",
+            "lon": "-77.7873132"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -6349,9 +8622,50 @@
             "street": "438 Main St., Washington, VA 22747",
             "lat": "38.7141037",
             "lon": "-78.1596423"
+=======
+            "Eluvium",
+            "Pétillant Naturel White",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "KYtzpiS8qQRQNzD5jWVvU",
+        "name": "Hazel Jane's",
+        "address": {
+            "street": "670 Dekalb Ave, Atlanta, GA 30307",
+            "lat": "33.7535491",
+            "lon": "-84.3655673"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "CZS0bBvpSBYj9jZDl8Xwj",
+        "name": "Roosevelt",
+        "address": {
+            "street": "623 N. 25th St., Richmond, VA 23223",
+            "lat": "37.534897",
+            "lon": "-77.4154189"
         },
         "locations": "Restaurant",
         "wines": [
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "sOH0CqIN203wDksdkXH4X",
+        "name": "Tall Boy Beverage Co.",
+        "address": {
+            "street": "2095 South Milledge, Athens, GA 30605",
+            "lat": "33.9229175",
+            "lon": "-83.377894"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel Red"
         ]
     },
@@ -6375,9 +8689,23 @@
             "street": "5716 Grove Ave, Richmond, VA 23226",
             "lat": "37.5733362",
             "lon": "-77.5180274"
+=======
+            "Five Forks",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "mIOyJS1tm-pybeSmH7DmV",
+        "name": "Whole Foods - Florida Ave",
+        "address": {
+            "street": "FAV - BU# 10651, Washington, DC 20001",
+            "lat": "38.912068",
+            "lon": "-77.0190228"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -6401,13 +8729,31 @@
             "street": "2049 Millwood Rd., Millwood, VA 22646",
             "lat": "39.0695734",
             "lon": "-78.0379555"
-        },
-        "locations": "Retail",
-        "wines": [
+=======
+            "Five Forks",
             "Rosé"
         ]
     },
     {
+        "id": "-ZwgZIk-pc-X1vlaXSvR9",
+        "name": "Whole Foods - Tenley",
+        "address": {
+            "street": "4530 40th Street NW, Washington, DC 20016",
+            "lat": "38.9490789",
+            "lon": "-77.0792007"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
+=======
+            "Five Forks",
+>>>>>>> Stashed changes
+            "Rosé"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6509,9 +8855,61 @@
             "street": "960 W Beverlely Street, Staunton, VA 24400",
             "lat": "38.1498989",
             "lon": "-79.0827541"
+=======
+        "id": "w0GdGCgClxZxWJz5l_HSk",
+        "name": "Wool Factory, The",
+        "address": {
+            "street": "1837 Broadway Street, Charlottesville, VA 22902",
+            "lat": "38.0195964",
+            "lon": "-78.4553634"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Five Forks",
+            "Foothills",
+            "Rosé",
+            "Young Wine",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "32Ph2oPTFcCNEste3q2xM",
+        "name": "Each Peach Market",
+        "address": {
+            "street": "3068 Mt Pleasant St NW, Washington, DC 20009",
+            "lat": "38.928548",
+            "lon": "-77.0375272"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "CDMaxnOwbMWYcDJaD3CTj",
+        "name": "Shields Market",
+        "address": {
+            "street": "206 North Shields Avenue, Richmond, VA 23220",
+            "lat": "37.5530887",
+            "lon": "-77.4668696"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "mRsyP1JimN03mOGeL8V5R",
+        "name": "Whole Foods - Springfield",
+        "address": {
+            "street": "8402 Old Keene Mill Road, Springfield, VA 22152",
+            "lat": "38.7796348",
+            "lon": "-77.2343247"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -6535,10 +8933,24 @@
             "street": "1775 Columbia Road NW, Washington, DC 20009",
             "lat": "38.9235097",
             "lon": "-77.0420765"
+=======
+            "Foothills",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "LSpm-LI37WujzosCqJhfF",
+        "name": "Irving Bottle",
+        "address": {
+            "street": "155 Irving Ave, Brooklyn, NY 11237",
+            "lat": "40.7026833",
+            "lon": "-73.9205791"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
             "Pétillant Naturel White",
+<<<<<<< Updated upstream
             "Petit Manseng"
         ]
     },
@@ -6562,9 +8974,22 @@
             "street": "2601 Maury Street, Richmond, VA 23224",
             "lat": "37.5095",
             "lon": "-77.4565725"
+=======
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "Eip071lteVU0j6lMSOuEl",
+        "name": "Little Red Fox",
+        "address": {
+            "street": "5035 Connecticut Ave. NW, Washington, DC 20008",
+            "lat": "38.9558822",
+            "lon": "-77.0699601"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills",
             "Pétillant Naturel Red",
             "Rosé"
@@ -6590,9 +9015,22 @@
             "street": "659 Vanderbilt Avenue, Brooklyn, NY 11238",
             "lat": "40.677064",
             "lon": "-73.9687578"
+=======
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "dQ_IxI9G0qqlPtftyjqbo",
+        "name": "Mom's Apple Pie Hill High",
+        "address": {
+            "street": "35246 Harry Byrd Hwy Ste. 100, Round Hill, VA 20141",
+            "lat": "39.1277991",
+            "lon": "-77.7873132"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng"
         ]
     },
@@ -6616,9 +9054,23 @@
             "street": "23 W Marshall St. Suite A, Richmond, VA 23220",
             "lat": "37.546819",
             "lon": "-77.4420934"
+=======
+            "Petit Manseng",
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "6KFkwDq-H09ZXHo00WyqZ",
+        "name": "Slope Cellars",
+        "address": {
+            "street": "436 7th Ave, Brooklyn, NY 11215",
+            "lat": "40.6635697",
+            "lon": "-73.9846443"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel Red"
         ]
     },
@@ -6642,9 +9094,23 @@
             "street": "1908 Rio Hill Center, Charlottesville, VA 22901",
             "lat": "38.0877905",
             "lon": "-78.4749043"
+=======
+            "Quaker Run Chardonnay",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "aDL_loT1clHW3qVgfg4IB",
+        "name": "All Purpose Pizzeria - Waterfront",
+        "address": {
+            "street": "79 Potomac Ave SE, Washington, DC 20003",
+            "lat": "38.871234",
+            "lon": "-77.0072947"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Chardonnay"
         ]
@@ -6669,9 +9135,22 @@
             "street": "3036 Stony Point Rd., Richmond, VA 23235",
             "lat": "37.537796",
             "lon": "-77.5651916"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "SBhRiUM-WNwl5s_Py1jOt",
+        "name": "Barcelona Wine Store",
+        "address": {
+            "street": "280 Elizabeth Street, Atlanta, GA 30307",
+            "lat": "33.7620933",
+            "lon": "-84.3583112"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
             "Five Forks"
         ]
@@ -6800,13 +9279,79 @@
             "street": "2406 Colonial Ave, Norfolk, VA 23517",
             "lat": "36.8717646",
             "lon": "-76.2903709"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "RLkqMqpn7I8koFLnJDUj8",
+        "name": "Glen Manor Vineyards LLC",
+        "address": {
+            "street": "2244 Browntown Road, Front Royal, VA 22630",
+            "lat": "38.840197",
+            "lon": "-78.228299"
         },
         "locations": "Restaurant",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "MPUR0saAeRzb71gAMkATU",
+        "name": "Kinship",
+        "address": {
+            "street": "1015 7th St NW, Washington, DC 20001",
+            "lat": "38.9035135",
+            "lon": "-77.0216296"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "afkM1oeSY_yYq7ZONQHlj",
+        "name": "Red Hen-DC",
+        "address": {
+            "street": "1822 1st St. NW, Washington, DC 20001",
+            "lat": "38.9149738",
+            "lon": "-77.0124095"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "4nPoIb2nPmKyR7cykwmbI",
+        "name": "Sorso Wine Boutique",
+        "address": {
+            "street": "1069 Bedford Ave, Brooklyn, NY 11216",
+            "lat": "40.6874318",
+            "lon": "-73.954402"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Rosé",
+            "RISE"
+        ]
+    },
+    {
+        "id": "DxyTt6WVXlEBz4HKCQe3N",
+        "name": "My Friends Bottle Shop",
+        "address": {
+            "street": "275 Memorial Drive SE, Atlanta, GA 30312",
+            "lat": "33.7464701",
+            "lon": "-84.3784358"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
         "wines": [
             "Pétillant Naturel White"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6826,6 +9371,14 @@
             "street": "3730 Winterfield Rd., Midlothian, VA 23113",
             "lat": "37.5535346",
             "lon": "-77.6685934"
+=======
+        "id": "tIlmOshorIA3R3SjuVCEg",
+        "name": "Unwined Bradlee Shopping Center",
+        "address": {
+            "street": "3690-J King St, Alexandria, VA 22302",
+            "lat": "38.8296628",
+            "lon": "-77.0921948"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -6835,6 +9388,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6907,9 +9461,45 @@
             "street": "5015 Colley Ave., Norfolk, VA 23508",
             "lat": "36.8890972",
             "lon": "-76.2954949"
+=======
+        "id": "UAUIXfAMx7oopwvMKUSD2",
+        "name": "Whole Foods - Charlottesville",
+        "address": {
+            "street": "1797 Hydraulic Road, Charlottesville, VA 22901",
+            "lat": "38.059773",
+            "lon": "-78.4891351"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "fQtB9j7OTUJ06xzoCX2xn",
+        "name": "Whole Foods - Old Town",
+        "address": {
+            "street": "1700 Duke Street, Alexandria, VA 22314",
+            "lat": "38.8041416",
+            "lon": "-77.0600615"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "fxzld7p7PPlFHsZLi0nr0",
+        "name": "Whole Foods - Florida Ave",
+        "address": {
+            "street": "FAV - BU# 10651, Washington, DC 20001",
+            "lat": "38.912068",
+            "lon": "-77.0190228"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel White",
             "Petit Manseng"
         ]
@@ -6934,6 +9524,19 @@
             "street": "19800 Belmont Chase Dr, Ashburn, VA 20147",
             "lat": "39.0684834",
             "lon": "-77.4843963"
+=======
+            "Rosé",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "1nVj5MW5_GNFQvrWGixvK",
+        "name": "Whole Foods - South Capitol Hill",
+        "address": {
+            "street": "101 H St. SE, Washington, DC 20003",
+            "lat": "38.8802819",
+            "lon": "-77.005121"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
@@ -6942,6 +9545,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6988,9 +9592,31 @@
             "street": "1797 Hydraulic Road, Charlottesville, VA 22901",
             "lat": "38.059773",
             "lon": "-78.4891351"
+=======
+        "id": "SxWt4bXvZX7VsfYR9uABS",
+        "name": "Primland Resort",
+        "address": {
+            "street": "2000 Busted Rock Road, Meadows of Dan, VA 24120",
+            "lat": "36.6617827",
+            "lon": "-80.4318697"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "AgqEtXZk81L0D-M_WSXt8",
+        "name": "Green Room, The",
+        "address": {
+            "street": "130 W Beverly St, Staunton, VA 24401",
+            "lat": "38.15216",
+            "lon": "-79.1136552"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Rosé",
             "Foothills"
         ]
@@ -7015,13 +9641,26 @@
             "street": "FAV - BU# 10651, Washington, DC 20001",
             "lat": "38.9071923",
             "lon": "-77.0368707"
-        },
-        "locations": "Restaurant/Retail",
-        "wines": [
-            "Rosé"
+=======
+            "Young Wine"
         ]
     },
     {
+        "id": "wGsROl9cZT9PCUP1LBHvE",
+        "name": "Rosemont of Virginia (Farm Winery)",
+        "address": {
+            "street": "1050 Blackridge Rd., La Crosse, VA 23950",
+            "lat": "36.5883045",
+            "lon": "-78.0661485"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7067,9 +9706,31 @@
             "street": "8402 Old Keene Mill Road, Springfield, VA 22152",
             "lat": "38.7796348",
             "lon": "-77.2343247"
+=======
+        "id": "qQ3YEBDn_5nul-PCexxVb",
+        "name": "Oyster Oyster",
+        "address": {
+            "street": "1440 8th Street NW, Washington, DC 20001",
+            "lat": "38.9092538",
+            "lon": "-77.0231184"
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Restaurant",
         "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "0FJqQ7pUq6c1iulaAulhj",
+        "name": "Shack, The",
+        "address": {
+            "street": "105 S. Coalter St., Staunton, VA 24401",
+            "lat": "38.148151",
+            "lon": "-79.0681357"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -7093,13 +9754,27 @@
             "street": "4530 40th Street NW, Washington, DC 20016",
             "lat": "38.9490789",
             "lon": "-77.0792007"
-        },
-        "locations": "Restaurant/Retail",
-        "wines": [
-            "Rosé"
+=======
+            "Young Wine"
         ]
     },
     {
+        "id": "haLY78UtdQMkulSsXmCJC",
+        "name": "Vanderbilt Wine Merchants",
+        "address": {
+            "street": "573 Vanderbilt Ave, Broooklyn, NY 11238",
+            "lat": "40.6805749",
+            "lon": "-73.9674951"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine",
+            "Eluvium"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7119,13 +9794,22 @@
             "street": "143 Maple Ave East, Vienna, VA 22180",
             "lat": "38.9022469",
             "lon": "-77.2626957"
+=======
+        "id": "gJyt_-W6HWyf0JGQIbOIH",
+        "name": "Wine Guild",
+        "address": {
+            "street": "221 Carlton Rd, Suite 1, Charlottesville, VA 22902",
+            "lat": "38.0236619",
+            "lon": "-78.4696887"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Retail",
         "wines": [
-            "Rosé"
+            "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7249,13 +9933,80 @@
             "street": "765 Fulton St, Brooklyn, NY 11217",
             "lat": "40.6863309",
             "lon": "-73.9740152"
+=======
+        "id": "brRPUeGM7zvuWiYgoX2ci",
+        "name": "Wine Warehouse",
+        "address": {
+            "street": "1804 Hydraulic Rd, Charlottesville, VA 22902",
+            "lat": "38.0607943",
+            "lon": "-78.4914214"
         },
         "locations": "Retail",
         "wines": [
-            "Rosé"
+            "Young Wine",
+            "Foothills",
+            "Shenandoah Valley Cabernet Franc",
+            "RISE"
         ]
     },
     {
+        "id": "mzDKFIru3rsKInC8d2_2l",
+        "name": "Wool Factory, The",
+        "address": {
+            "street": "1837 Broadway Street, Charlottesville, VA 22902",
+            "lat": "38.0195964",
+            "lon": "-78.4553634"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine",
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "gBeZji4QVTBbs6PO-MVT9",
+        "name": "2941 Restaurant",
+        "address": {
+            "street": "2941 Fairview Park Dr, Falls Church, VA 22042",
+            "lat": "38.8689164",
+            "lon": "-77.2148275"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Shenandoah Valley Cabernet Franc",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "cwTjmj_ZbRBvOxPS_eL1u",
+        "name": "Amber Ox Kitchen & Brewery",
+        "address": {
+            "street": "521 Prince George St., Williamsburg, VA 23185",
+            "lat": "37.272864",
+            "lon": "-76.708414"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Foothills",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "Ko3ysbCPihImYUqrLAmMO",
+        "name": "Arrowine",
+        "address": {
+            "street": "4508 Lee Hwy, Arlington, VA 22207",
+            "lat": "38.8983733",
+            "lon": "-77.1183586"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7306,6 +10057,27 @@
             "street": "1724 14th St. NW, Washington, DC 20009",
             "lat": "38.9134494",
             "lon": "-77.0321808"
+=======
+        "id": "MsuM2fh73rYo8XZqYzOAc",
+        "name": "Astor Wines & Spirits",
+        "address": {
+            "street": "399 Lafayette St, New York, NY 10003",
+            "lat": "40.7279823",
+            "lon": "-73.9926938"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "wmo6uRcWdsGqoz0zIU7RS",
+        "name": "Caboose",
+        "address": {
+            "street": "108 S. Railroad Ave., Ashland, VA 23005",
+            "lat": "37.758286",
+            "lon": "-77.4816338"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -7314,6 +10086,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7359,9 +10132,31 @@
             "street": "3162 Mt. Pleasant St. NW, Washington, DC 20010",
             "lat": "38.9302882",
             "lon": "-77.0382422"
+=======
+        "id": "t05S3qJRE_DLLDUWXjGoq",
+        "name": "Chat's Liquor",
+        "address": {
+            "street": "503 8th St SE, Washington, DC 20003",
+            "lat": "38.8825132",
+            "lon": "-76.9952785"
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "q809qlxfm7_Se-JORQ8Rb",
+        "name": "Field & Main",
+        "address": {
+            "street": "8369 W. Main St., Marshall, VA 20115",
+            "lat": "38.8647631",
+            "lon": "-77.8574303"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -7385,13 +10180,27 @@
             "street": "385 Tompkins Ave, Brooklyn, NY 11216",
             "lat": "40.6846262",
             "lon": "-73.9440354"
+=======
+            "F & M Red",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "aW8s0qv_9YT92p5Wanr5X",
+        "name": "Clay Restaurant",
+        "address": {
+            "street": "553 Manhattan Ave , Manhattan, NY 10027",
+            "lat": "40.809486",
+            "lon": "-73.9538229"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7411,6 +10220,14 @@
             "street": "118 S Royal St #1, Alexandria, VA 22314",
             "lat": "38.8039433",
             "lon": "-77.0435496"
+=======
+        "id": "9QhKpp-9GLkTEdecf_A9w",
+        "name": "Founding Farmers - Reston",
+        "address": {
+            "street": "1904 Reston Metro Plaza, Suite 100, Reston, VA 20190",
+            "lat": "38.9488917",
+            "lon": "-77.3383807"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
@@ -7418,6 +10235,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7437,9 +10255,18 @@
             "street": "153 S Main St, Harrisonburg, VA 22801",
             "lat": "38.4478062",
             "lon": "-78.8692932"
+=======
+        "id": "9ywbS6IoJe0U7atPIBDo4",
+        "name": "Henry's",
+        "address": {
+            "street": "69 Central Ave., Brooklyn, NY 11206",
+            "lat": "40.701166",
+            "lon": "-73.9302185"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng",
             "Chardonnay"
         ]
@@ -7570,10 +10397,75 @@
             "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
             "lat": "37.2706994",
             "lon": "-76.7061859"
+=======
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "bogRKhxysqOrB6QG5oYVS",
+        "name": "Irving Bottle",
+        "address": {
+            "street": "157 Irving Ave, Brooklyn, NY 10013",
+            "lat": "40.7027192",
+            "lon": "-73.920458"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "irIvkVwHM-vUyd2eGpM3e",
+        "name": "La Fromagerie",
+        "address": {
+            "street": "1222 King St, Alexandria, VA 22314",
+            "lat": "38.805648",
+            "lon": "-77.053429"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "w22sVr-z0ZDPhge4ZCtou",
+        "name": "Lafayette Inn",
+        "address": {
+            "street": "146 Main St, Stanardsville, VA 22973",
+            "lat": "38.2973151",
+            "lon": "-78.4385435"
         },
         "locations": "Restaurant",
         "wines": [
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "DLHb-rw4Y7fgsNWbwq2wV",
+        "name": "Newtown Baking",
+        "address": {
+            "street": "960 W Beverlely Street, Staunton, VA 24400",
+            "lat": "38.1498989",
+            "lon": "-79.0827541"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "-HJ1Fimnh6VuLGqe8C0q5",
+        "name": "Pendulum Fine Meats",
+        "address": {
+            "street": "820 Shirley Avenue, Norfolk, VA 23517",
+            "lat": "36.8683635",
+            "lon": "-76.2987524"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
             "Young Wine",
+<<<<<<< Updated upstream
             "Rosé"
         ]
     },
@@ -7623,6 +10515,31 @@
             "street": "929 Broadway, New York, NY 20020",
             "lat": "40.740278",
             "lon": "-73.9896832"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "w80QkpBtDVNzhSvuKal2v",
+        "name": "River and Rail",
+        "address": {
+            "street": "2201 Crystal Spring Ave. SW, Roanoke, VA 24014",
+            "lat": "37.2487077",
+            "lon": "-79.9468159"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "3e1n46GazS0Vkrp5bEkZk",
+        "name": "Swirl & Sip",
+        "address": {
+            "street": "2905 District Ave. Ste. 112, Fairfax, VA 22031",
+            "lat": "38.8733231",
+            "lon": "-77.229401"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -7631,6 +10548,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7650,6 +10568,14 @@
             "street": "2001 S St. NW, Washington, DC 20009",
             "lat": "38.9143274",
             "lon": "-77.0451575"
+=======
+        "id": "31KFVXUAjSJxop_VRzVem",
+        "name": "Taste - Headquarters",
+        "address": {
+            "street": "1391 Air Rail Avenue, Virginia Beach, VA 23455",
+            "lat": "36.8929573",
+            "lon": "-76.1918905"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
@@ -7657,6 +10583,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7676,9 +10603,18 @@
             "street": "101 W Franklin St, Richmond, VA 23220",
             "lat": "37.5442364",
             "lon": "-77.4454155"
+=======
+        "id": "UUEIe9i8_iWkWVTbJXTzK",
+        "name": "Virginia Cheese Company",
+        "address": {
+            "street": "501 Botetourt Street, Norfolk, VA 23510",
+            "lat": "36.8528816",
+            "lon": "-76.2961736"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Eluvium",
             "Foothills"
         ]
@@ -7703,13 +10639,27 @@
             "street": "6701 Rockfish Gap TPK, Crozet, VA 22932",
             "lat": "38.0413202",
             "lon": "-78.732343"
+=======
+            "Petit Manseng",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "73-c80zIzSIilUqs_cOTt",
+        "name": "Thornton River Grille",
+        "address": {
+            "street": "Thornton River Grille, Sperryville, VA 22740",
+            "lat": "38.6573169",
+            "lon": "-78.2267817"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
             "Chardonnay"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7732,10 +10682,23 @@
         },
         "locations": "Retail",
         "wines": [
+=======
+        "id": "YQE88WS_kyBu7Q_jm318z",
+        "name": "Westside Produce & Provisions",
+        "address": {
+            "street": "5015 Colley Ave., Norfolk, VA 23508",
+            "lat": "36.8890972",
+            "lon": "-76.2954949"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Young Wine",
+>>>>>>> Stashed changes
             "Pétillant Naturel White"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7755,6 +10718,14 @@
             "street": "921 Preston Ave, Charlottesville, VA 22903",
             "lat": "38.038434",
             "lon": "-78.489901"
+=======
+        "id": "oDlqUIK52LyybKmgyGnUF",
+        "name": "Whole Foods - Arlington",
+        "address": {
+            "street": "2700 Wilson Blvd., Arlington, VA 22201",
+            "lat": "38.8892254",
+            "lon": "-77.0912401"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -7762,6 +10733,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7781,13 +10753,22 @@
             "street": "2825 B Brambleton Ave., Roanoke, VA 24015",
             "lat": "37.2438511",
             "lon": "-79.9909487"
+=======
+        "id": "ltmALiKJSjQ2JrjEy8vKA",
+        "name": "Whole Foods - Boro Tysons",
+        "address": {
+            "street": "1635 Boro Place, McLean, VA 22102",
+            "lat": "38.9246164",
+            "lon": "-77.2334974"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
             "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7807,13 +10788,22 @@
             "street": "2110 E Main St., Richmond, VA 23223",
             "lat": "37.5311605",
             "lon": "-77.4243981"
+=======
+        "id": "tyi9I_9uM7TQb56885Ogs",
+        "name": "Whole Foods - Old Town",
+        "address": {
+            "street": "1700 Duke Street, Alexandria, VA 22314",
+            "lat": "38.8041416",
+            "lon": "-77.0600615"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
             "Foothills"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7833,14 +10823,23 @@
             "street": "659 Vanderbilt Ave, Brooklyn, NY 11238",
             "lat": "40.677064",
             "lon": "-73.9687578"
+=======
+        "id": "DTzqTgb-NOBtX3C6BL96k",
+        "name": "Whole Foods - Short Pump",
+        "address": {
+            "street": "11173 West Broad St., Richmond, VA 23060",
+            "lat": "37.6475665",
+            "lon": "-77.5997292"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
             "Petit Manseng",
             "Eluvium"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7860,9 +10859,18 @@
             "street": "4813 Forest Hill Ave., Richmond, VA 23225",
             "lat": "37.5211852",
             "lon": "-77.4878087"
+=======
+        "id": "_OxTui-fMSJ-t76A_Jynr",
+        "name": "Whole Foods - Tysons",
+        "address": {
+            "street": "7511 Leesburg Pike, Falls Church, VA 22043",
+            "lat": "38.903442",
+            "lon": "-77.2044823"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine",
             "Shenandoah Valley Cabernet Franc"
         ]
@@ -7887,9 +10895,22 @@
             "street": "2918 W. Broad Street, Richmond, VA 23230",
             "lat": "37.5640539",
             "lon": "-77.4719183"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "F9eeAtRevX_i2k7gMUXZU",
+        "name": "Wine Warehouse",
+        "address": {
+            "street": "1804 Hydraulic Rd, Charlottesville, VA 22902",
+            "lat": "38.0607943",
+            "lon": "-78.4914214"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng"
         ]
     },
@@ -7940,13 +10961,42 @@
             "street": "2601 Maury Street, Richmond, VA 23224",
             "lat": "37.5095",
             "lon": "-77.4565725"
-        },
-        "locations": "Retail",
-        "wines": [
-            "Rosé"
+=======
+            "Chardonnay",
+            "Shenandoah Valley Cabernet Franc",
+            "RISE"
         ]
     },
     {
+        "id": "6x-4QxeQO2ZaWMJA-gHGz",
+        "name": "Wool Factory, The",
+        "address": {
+            "street": "1837 Broadway Street, Charlottesville, VA 22902",
+            "lat": "38.0195964",
+            "lon": "-78.4553634"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "KLPlfgbEwtIO_Y2SBFRA6",
+        "name": "Zynodoa",
+        "address": {
+            "street": "115 E Beverly St, Staunton, VA 24401",
+            "lat": "38.149814",
+            "lon": "-79.0709713"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Petit Manseng",
+            "Eluvium"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -7992,13 +11042,36 @@
             "street": "1908 Rio Hill Center, Charlottesville, VA 22901",
             "lat": "38.0877905",
             "lon": "-78.4749043"
+=======
+        "id": "RhSP9BtXwlkJa3DcY4_wh",
+        "name": "313 Franklin",
+        "address": {
+            "street": "313 Franklin Street, South Hill, VA 23970",
+            "lat": "36.726272",
+            "lon": "-78.1245498"
         },
-        "locations": "Retail",
+        "locations": "Restaurant/Retail",
         "wines": [
-            "Rosé"
+            "Foothills"
         ]
     },
     {
+        "id": "RBUq3SEn8FLAt-6Db92cB",
+        "name": "Alley Light",
+        "address": {
+            "street": "108 2nd St. SW, Charlottesville, VA 22902",
+            "lat": "38.0305995",
+            "lon": "-78.482276"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Shenandoah Valley Cabernet Franc",
+            "RISE"
+        ]
+    },
+    {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8045,9 +11118,18 @@
             "street": "132 Havemeyer S, New York, NY 11211",
             "lat": "40.7122012",
             "lon": "-73.9574264"
+=======
+        "id": "Y2polH5YFG4C4Ofqzzti8",
+        "name": "Amber Ox Kitchen & Brewery",
+        "address": {
+            "street": "521 Prince George St., Williamsburg, VA 23185",
+            "lat": "37.272864",
+            "lon": "-76.708414"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel Red",
             "Young Wine"
         ]
@@ -8153,9 +11235,62 @@
             "street": "616 Lorimer St, Brooklyn, NY 11211",
             "lat": "40.7153681",
             "lon": "-73.9494145"
+=======
+            "Foothills"
+        ]
+    },
+    {
+        "id": "jT3VEDg7sPAMThCIXZu-f",
+        "name": "Bottleworks",
+        "address": {
+            "street": "3078 Stony Point Rd., Richmond, VA 23235",
+            "lat": "37.537796",
+            "lon": "-77.5651916"
         },
         "locations": "Retail",
         "wines": [
+            "Foothills"
+        ]
+    },
+    {
+        "id": "S0R85TA5Sju065f3o02Oo",
+        "name": "Calvert Woodley",
+        "address": {
+            "street": "4339 Connecticut Ave NW, Washington, DC 20008",
+            "lat": "38.945234",
+            "lon": "-77.063612"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay",
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "cRJRGUJS1TFgR_ijaSw0W",
+        "name": "Broad Branch Market",
+        "address": {
+            "street": "5608 Broad Branch Rd NW, Washington, DC 20015",
+            "lat": "38.9655874",
+            "lon": "-77.0687234"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "d-cx8mx-N7ur07zBrAUkY",
+        "name": "Commune - Norfolk",
+        "address": {
+            "street": "759 Granby St., Norfolk, VA 23510",
+            "lat": "36.8562717",
+            "lon": "-76.2885787"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Pétillant Naturel Red",
             "Young Wine",
             "Pétillant Naturel White"
@@ -8183,11 +11318,27 @@
             "lon": "-77.7930779"
         },
         "locations": "Retail",
+=======
+            "Chardonnay",
+            "Foothills"
+        ]
+    },
+    {
+        "id": "4KqD0-MqblnwSNwDq1zRm",
+        "name": "Cellar d'Or",
+        "address": {
+            "street": "136 E State St, Ithaca, NY 14850",
+            "lat": "42.4397353",
+            "lon": "-76.4977365"
+        },
+        "locations": "Restaurant/Retail",
+>>>>>>> Stashed changes
         "wines": [
             "Five Forks"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8233,9 +11384,31 @@
             "street": "4282 Ivy Road, Charlottesville, VA 22903",
             "lat": "38.056209",
             "lon": "-78.5953366"
+=======
+        "id": "Y5QSqZz7Tp7IkqWEvrmDG",
+        "name": "Crystal Palate",
+        "address": {
+            "street": "4500 Pretty Lake Avenue, Norfolk, VA 23518",
+            "lat": "36.925493",
+            "lon": "-76.1880817"
         },
         "locations": "Retail",
         "wines": [
+            "Chardonnay"
+        ]
+    },
+    {
+        "id": "hgC9WqtobDP4zDQ4QiRLy",
+        "name": "Dandelion Wine",
+        "address": {
+            "street": "153 Franklin Street, Brooklyn, NY 11222",
+            "lat": "40.731666",
+            "lon": "-73.9580947"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng",
             "Shenandoah Valley Cabernet Franc"
         ]
@@ -8260,6 +11433,18 @@
             "street": "180 West Street, Brooklyn, NY 11222",
             "lat": "40.7331926",
             "lon": "-73.9596128"
+=======
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "d1hxGhOl0lc_RAEicDF3e",
+        "name": "Farmers & Distillers",
+        "address": {
+            "street": "600 Massachusetts Ave. NW, Washington, DC 20001",
+            "lat": "38.9012307",
+            "lon": "-77.0207401"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
@@ -8267,6 +11452,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8286,13 +11472,23 @@
             "street": "1800 Laskin Road, Virginia Beach, VA 23454",
             "lat": "36.8509319",
             "lon": "-76.0281576"
+=======
+        "id": "toymJItxPF44Wp8qqUkAW",
+        "name": "Fat Canary",
+        "address": {
+            "street": "The Cheese Shop of VA, Inc., Williamsburg, VA 23185",
+            "lat": "37.2706994",
+            "lon": "-76.7061859"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant/Retail",
+        "locations": "Restaurant",
         "wines": [
-            "Rosé"
+            "Foothills",
+            "Shenandoah Valley Cabernet Franc"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8312,13 +11508,22 @@
             "street": "138 Court Street, Brooklyn, NY 11201",
             "lat": "40.6893227",
             "lon": "-73.992801"
+=======
+        "id": "HZ0KeVTTzYCYiOE1HoPQv",
+        "name": "Farmers Fishers Bakers",
+        "address": {
+            "street": "3000 K Street NW, Washington, DC 20007",
+            "lat": "38.9025537",
+            "lon": "-77.0601033"
+>>>>>>> Stashed changes
         },
-        "locations": "Retail",
+        "locations": "Restaurant",
         "wines": [
             "Five Forks"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8338,6 +11543,14 @@
             "street": "4069 Chain Bridge Rd, Fairfax, VA 22030",
             "lat": "38.8442986",
             "lon": "-77.3073582"
+=======
+        "id": "PEZX65E-YoUaON7vbhww6",
+        "name": "Flight Wine Bar",
+        "address": {
+            "street": "777 6th Street NW, Washington, DC 20001",
+            "lat": "38.89937",
+            "lon": "-77.01959"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
@@ -8346,6 +11559,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8369,10 +11583,22 @@
         "locations": "Retail",
         "wines": [
             "Petit Manseng",
+=======
+        "id": "Eq51lfzYu3uukgu2I8tq2",
+        "name": "Fort Lewis Lodge",
+        "address": {
+            "street": "603 Old Plantation Way, Millboro, VA 24460",
+            "lat": "38.114054",
+            "lon": "-79.6110139"
+        },
+        "locations": "Retail",
+        "wines": [
+>>>>>>> Stashed changes
             "Young Wine"
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8445,9 +11671,46 @@
             "street": "810 Caroline St Ste 101, Fredericksburg, VA 22407",
             "lat": "38.3019961",
             "lon": "-77.4590376"
+=======
+        "id": "IxliQidhLCj_U0GNyxoHP",
+        "name": "Hot Cakes",
+        "address": {
+            "street": "Barracks Road Shopping Center, Charlottesville, VA 22903",
+            "lat": "38.0528154",
+            "lon": "-78.5012568"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills",
+            "Pétillant Naturel White",
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "brScj_8pOePWtELJ9mabc",
+        "name": "Friendly City Food Co-op",
+        "address": {
+            "street": "150 E Wolfe St, Harrisonburg, VA 22802",
+            "lat": "38.4516609",
+            "lon": "-78.8665291"
         },
         "locations": "Retail",
         "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "bWYlDTTR-P665nn6Dt7zE",
+        "name": "Inn at Little Washington",
+        "address": {
+            "street": "438 Main St., Washington, VA 22747",
+            "lat": "38.7141037",
+            "lon": "-78.1596423"
+>>>>>>> Stashed changes
+        },
+        "locations": "Retail",
+        "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -8471,9 +11734,22 @@
             "street": "1625 Country Club Circle, Charlottesville, VA 22901",
             "lat": "38.0616369",
             "lon": "-78.5419503"
+=======
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "v35rf6oS8bja2jchRz9kn",
+        "name": "J Emerson",
+        "address": {
+            "street": "5716 Grove Ave, Richmond, VA 23226",
+            "lat": "37.5733362",
+            "lon": "-77.5180274"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks"
         ]
     },
@@ -8497,6 +11773,18 @@
             "street": "237 Dekalb Ave, Brooklyn, NY 11205",
             "lat": "40.689639",
             "lon": "-73.9697513"
+=======
+            "Young Wine"
+        ]
+    },
+    {
+        "id": "ROVU31f8XNyRmZg4XIoQ3",
+        "name": "Mr. Bill's Wine Cellar",
+        "address": {
+            "street": "2825 B Brambleton Ave., Roanoke, VA 24015",
+            "lat": "37.2438511",
+            "lon": "-79.9909487"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
@@ -8504,6 +11792,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8551,9 +11840,31 @@
             "street": "327 5th Avenue, Brooklyn, NY 11215",
             "lat": "40.6724091",
             "lon": "-73.9833358"
+=======
+        "id": "5ZOCezp9f3uq9I83sf-A_",
+        "name": "Locke Store",
+        "address": {
+            "street": "2049 Millwood Rd., Millwood, VA 22646",
+            "lat": "39.0695734",
+            "lon": "-78.0379555"
         },
         "locations": "Retail",
         "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "my0dwYn8w9buhPXOyt6CJ",
+        "name": "Reveler's Hour",
+        "address": {
+            "street": "1775 Columbia Road NW, Washington, DC 20009",
+            "lat": "38.9235097",
+            "lon": "-77.0420765"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -8603,9 +11914,38 @@
             "street": "3410 Semmes Avenue, Richmond, VA 23225",
             "lat": "37.5156341",
             "lon": "-77.469587"
+=======
+            "Pétillant Naturel White",
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "itYI8M8zg558dHce7Komg",
+        "name": "RichWine",
+        "address": {
+            "street": "2601 Maury Street, Richmond, VA 23224",
+            "lat": "37.5095",
+            "lon": "-77.4565725"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Foothills",
+            "Pétillant Naturel Red",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "bQfmaAkl3KY_rojdSm6jB",
+        "name": "Olmstead",
+        "address": {
+            "street": "659 Vanderbilt Avenue, Brooklyn, NY 11238",
+            "lat": "40.677064",
+            "lon": "-73.9687578"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -8708,9 +12048,62 @@
             "street": "659 Vanderbilt Ave, Brooklyn, NY 11238",
             "lat": "40.677064",
             "lon": "-73.9687578"
+=======
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "xxPzfqFdvf3jefhroZ7CF",
+        "name": "Saison",
+        "address": {
+            "street": "23 W Marshall St. Suite A, Richmond, VA 23220",
+            "lat": "37.546819",
+            "lon": "-77.4420934"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Pétillant Naturel Red"
+        ]
+    },
+    {
+        "id": "zxQzQwtZvCF2L4xYrdcVY",
+        "name": "Southbound",
+        "address": {
+            "street": "3036 Stony Point Rd., Richmond, VA 23235",
+            "lat": "37.537796",
+            "lon": "-77.5651916"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Chardonnay",
+            "Five Forks"
+        ]
+    },
+    {
+        "id": "kzv1GDEkiMAmcjUG_FYnn",
+        "name": "Salt Line, The",
+        "address": {
+            "street": "79 Potomac Ave SE, Washington, DC 20003",
+            "lat": "38.871234",
+            "lon": "-77.0072947"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "LIjaRe3VcxymIdIoX5lo9",
+        "name": "St. Anselm",
+        "address": {
+            "street": "1250 5th St. NE, Washington, DC 20002",
+            "lat": "38.9077745",
+            "lon": "-76.9990918"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng"
         ]
     },
@@ -8734,6 +12127,18 @@
             "street": "455 I (Eye) Street, Washington, DC 20001",
             "lat": "38.9015012",
             "lon": "-77.0180106"
+=======
+            "Shenandoah Valley Cabernet Franc"
+        ]
+    },
+    {
+        "id": "7LatXIAlVnEaWas7fJYD_",
+        "name": "The Roost",
+        "address": {
+            "street": "1401 Pennsylvania Ave SE, Washington, DC 20003",
+            "lat": "38.8798036",
+            "lon": "-76.9852327"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
@@ -8741,6 +12146,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -8760,9 +12166,18 @@
             "street": "2 E. Washington St., Middleburg, VA 20117",
             "lat": "38.9692453",
             "lon": "-77.7354394"
+=======
+        "id": "RQnShDs2OR2slCD_vXEGU",
+        "name": "Tipsy",
+        "address": {
+            "street": "584 Myrtle Ave, Brooklyn, NY 11205",
+            "lat": "40.6938285",
+            "lon": "-73.9612496"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Five Forks",
             "Petit Manseng"
         ]
@@ -8787,9 +12202,22 @@
             "street": "6712 Old Dominion Drive, McLean, VA 22101",
             "lat": "38.9335412",
             "lon": "-77.1758584"
+=======
+            "Quaker Run Chardonnay"
+        ]
+    },
+    {
+        "id": "VYncIw85zy7u4g6pB1VuY",
+        "name": "Toast - Norfolk",
+        "address": {
+            "street": "2406 Colonial Ave, Norfolk, VA 23517",
+            "lat": "36.8717646",
+            "lon": "-76.2903709"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Petit Manseng"
         ]
     },
@@ -8813,9 +12241,22 @@
             "street": "1050 Blackridge Rd., La Crosse, VA 23950",
             "lat": "36.5883045",
             "lon": "-78.0661485"
+=======
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "LhY-AvcXUXDw3Ex94Co-2",
+        "name": "Vino Market",
+        "address": {
+            "street": "3730 Winterfield Rd., Midlothian, VA 23113",
+            "lat": "37.5535346",
+            "lon": "-77.6685934"
+>>>>>>> Stashed changes
         },
-        "locations": "Restaurant",
+        "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -8830,12 +12271,21 @@
 =======
         "id": "GLmfEs1J395gtWaDYY5to",
 >>>>>>> Stashed changes
+=======
+            "Five Forks",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "c31ZcP-ayD02qQZfMDfQt",
+>>>>>>> Stashed changes
         "name": "Vanderbilt Wine Merchants",
 =======
         "id": "haiPB1OmhXtukLHb9sVHY",
         "name": "Ruffian Wine Bar",
 >>>>>>> Stashed changes
         "address": {
+<<<<<<< Updated upstream
             "street": "125 East 7th Street, New York, NY 10009",
             "lat": "40.7264335",
             "lon": "-73.9840819"
@@ -8865,9 +12315,28 @@
             "street": "350 Lewis Avenue, Brooklyn, NY 11233",
             "lat": "40.6837407",
             "lon": "-73.9353473"
+=======
+            "street": "573 Vanderbilt Ave, New York, NY 11238",
+            "lat": "40.6805749",
+            "lon": "-73.9674951"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "bQfrJtDnjEW2RdCNtDzc3",
+        "name": "Virginia Cheese Company",
+        "address": {
+            "street": "501 Botetourt Street, Norfolk, VA 23510",
+            "lat": "36.8528816",
+            "lon": "-76.2961736"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
+<<<<<<< Updated upstream
             "Foothills"
         ]
     },
@@ -9024,9 +12493,88 @@
             "street": "3494 Lee Highway, Weyers Cave, VA 24486",
             "lat": "38.2934427",
             "lon": "-78.9356747"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "NbN6RRNaK7hixT226kgGE",
+        "name": "Whole Foods - Ashburn",
+        "address": {
+            "street": "19800 Belmont Chase Dr, Ashburn, VA 20147",
+            "lat": "39.0684834",
+            "lon": "-77.4843963"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Foothills",
+            "Rosé"
+        ]
+    },
+    {
+        "id": "IqrtP2gDfgGNPgDS_Ftpb",
+        "name": "White Moose Inn",
+        "address": {
+            "street": "291 Main St., Washington, VA 22747",
+            "lat": "38.7123391",
+            "lon": "-78.16034"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "Eluvium"
+        ]
+    },
+    {
+        "id": "RRdXwdjhItScYKA57Hj-a",
+        "name": "Whole Foods - Florida Ave",
+        "address": {
+            "street": "FAV - BU# 10651, Washington, DC 20001",
+            "lat": "38.9071923",
+            "lon": "-77.0368707"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "c-p21PIssKwNo_TZJuJa7",
+        "name": "Whole Foods - Springfield",
+        "address": {
+            "street": "8402 Old Keene Mill Road, Springfield, VA 22152",
+            "lat": "38.7796348",
+            "lon": "-77.2343247"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "v5ojGCEoozS_WUteqoxja",
+        "name": "Whole Foods - Tenley",
+        "address": {
+            "street": "4530 40th Street NW, Washington, DC 20016",
+            "lat": "38.9490789",
+            "lon": "-77.0792007"
+        },
+        "locations": "Restaurant/Retail",
+        "wines": [
+            "Rosé"
+        ]
+    },
+    {
+        "id": "FeQhWw88Ti9GP_5Adsggo",
+        "name": "Whole Foods - Vienna",
+        "address": {
+            "street": "143 Maple Ave East, Vienna, VA 22180",
+            "lat": "38.9022469",
+            "lon": "-77.2626957"
+>>>>>>> Stashed changes
         },
         "locations": "Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Chardonnay",
             "Eluvium",
             "Five Forks",
@@ -9054,9 +12602,35 @@
             "street": "103 S. Coalter Street, Staunton, VA 24401",
             "lat": "38.1482775",
             "lon": "-79.0681798"
+=======
+            "Rosé"
+        ]
+    },
+    {
+        "id": "Yy4rJZYQIa2E-4odjY7ot",
+        "name": "Wine House, The",
+        "address": {
+            "street": "3950 University Dr Ste 212, Fairfax, VA 22030",
+            "lat": "38.8471237",
+            "lon": "-77.3050684"
+        },
+        "locations": "Retail",
+        "wines": [
+            "Pétillant Naturel White"
+        ]
+    },
+    {
+        "id": "ZruJjzwjFRoHddq-laTbG",
+        "name": "Main (The)",
+        "address": {
+            "street": "100 E. Main Street, Norfolk, VA 23510",
+            "lat": "36.8464518",
+            "lon": "-76.2921155"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -9133,9 +12707,48 @@
             "street": "159 Graham Ave, Brooklyn, NY 11206",
             "lat": "40.7074661",
             "lon": "-73.9434952"
+=======
+            "RISE"
+        ]
+    },
+    {
+        "id": "JwguR8tbQTFGaAjxk2Zur",
+        "name": "Zynodoa",
+        "address": {
+            "street": "115 E Beverly St, Staunton, VA 24401",
+            "lat": "38.149814",
+            "lon": "-79.0709713"
         },
         "locations": "Restaurant",
         "wines": [
+            "Petit Manseng"
+        ]
+    },
+    {
+        "id": "pDxCtkq8BG5D8Px-i1g4N",
+        "name": "Farmington Country Club",
+        "address": {
+            "street": "1625 Country Club Circle, Charlottesville, VA 22901",
+            "lat": "38.0616369",
+            "lon": "-78.5419503"
+        },
+        "locations": "Restaurant",
+        "wines": [
+            "RISE"
+        ]
+    },
+    {
+        "id": "FFm-9TT1SxnY3mSLN3nht",
+        "name": "Balducci's - Alexandria",
+        "address": {
+            "street": "600 Franklin St, Alexandria, VA 22314",
+            "lat": "38.7978102",
+            "lon": "-77.0479011"
+>>>>>>> Stashed changes
+        },
+        "locations": "Restaurant",
+        "wines": [
+<<<<<<< Updated upstream
             "Young Wine"
         ]
     },
@@ -9159,6 +12772,18 @@
             "street": "1296 Clifton Inn Dr, Charlottesville, VA 22911",
             "lat": "38.007264",
             "lon": "-78.397257"
+=======
+            "RISE"
+        ]
+    },
+    {
+        "id": "SRF8IHUdS_TA9g2V05sfH",
+        "name": "Ivy Inn",
+        "address": {
+            "street": "2244 Old Ivy Rd., Charlottesville, VA 22903",
+            "lat": "38.045948",
+            "lon": "-78.516234"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant",
         "wines": [
@@ -9166,6 +12791,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -9185,6 +12811,14 @@
             "street": "5500 Abercorn St, Savannah, GA 31405",
             "lat": "32.0229174",
             "lon": "-81.109395"
+=======
+        "id": "IsTcR3XhAmk-UyC6Wd-gw",
+        "name": "Clifton Inn",
+        "address": {
+            "street": "1296 Clifton Inn Dr, Charlottesville, VA 22911",
+            "lat": "38.007264",
+            "lon": "-78.397257"
+>>>>>>> Stashed changes
         },
         "locations": "Restaurant/Retail",
         "wines": [
@@ -9192,6 +12826,7 @@
         ]
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -9205,6 +12840,10 @@
         "name": "St. Vincent",
 =======
         "id": "fIDzHn748Es0q1wOmQzEc",
+        "name": "Sorso Wine Boutique",
+>>>>>>> Stashed changes
+=======
+        "id": "6B5w7pCOPRi_WveUMGtUI",
         "name": "Sorso Wine Boutique",
 >>>>>>> Stashed changes
         "address": {
@@ -9221,6 +12860,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "id": "AnPYdfXsIn4SCQ9PPBRJ7",
 =======
         "id": "B3C7QvG6W77Xf7Xaq9zzK",
@@ -9231,6 +12871,10 @@
         "name": "Lucy's",
 =======
         "id": "ZNUwz18BRogpE5PUC8nIV",
+        "name": "Lucky",
+>>>>>>> Stashed changes
+=======
+        "id": "OVQ2z7eScmn5RQnUux971",
         "name": "Lucky",
 >>>>>>> Stashed changes
         "address": {
